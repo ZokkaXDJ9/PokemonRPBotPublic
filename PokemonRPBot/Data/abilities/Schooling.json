@@ -1,0 +1,5 @@
+{
+    "name": "Schooling",
+    "description": "When this Pokemon is threatened, it calls thousands of allies to create an uncontrollable monster. The closer to the sea, the faster they arrive.",
+    "effect": "Only Wishiwashi can use this Ability. This ability only takes effect if the User is Gold Rank or higher. When this Pokemon reaches half or less of its HP, replace its stat block with Wishiwashi School Form at the start of the next round. This Pokemon uses its stat distribution for Wishiwashi (School Form) to determine HP, Will, and Active Moves even while in Solo Form (but still uses the defenses of Solo Form). At the end of the battle restore Wishiwashi to Solo form. This Ability cannot be copied, replaced or suppressed (ignoring the effects of Skill Swap, Worry Seed, Gastro Acid, Trace etc.)"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Hyperspace Hole",
+    "type": "Psychic",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Ignore Defenses. This move cannot be Dodged. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, this Move Bypasses the effects of any Shield Move effect on the foe.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this Move Bypasses the effects of any Screen Move effect on the foe.",
+    "description": "The user knows the laws of physics bind it from being in many places at once and forbid it from occupying the same space as other bodies. It just disregards their authority.",
+    "category": "Special"
+}

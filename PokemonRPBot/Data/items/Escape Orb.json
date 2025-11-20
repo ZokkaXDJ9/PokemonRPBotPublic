@@ -1,0 +1,6 @@
+{
+    "name": "Escape Orb",
+    "description": "This orb allows you to escape back to the guild. (The Mission will fail if the objective is not completed). Escape back to Guild territory.",
+    "category": "Orb",
+    "rarity": "Special"
+}

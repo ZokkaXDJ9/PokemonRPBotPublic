@@ -1,0 +1,11 @@
+{
+    "name": "Collision Course",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "If this move is super effective on the target, add 2 dice to the Damage Pool. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, this move inflicts wounds if it is super effective on the target. Increase the conditional damage to 4 dice.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, the user may use Strength for Accuracy on this move. Increase the conditional damage to 6 dice.",
+    "description": "The pok\u00e9mon transforms and crashes to the ground, causing a massive prehistoric explosion. This explosion hurts certain pokemon much more than usual.",
+    "category": "Physical"
+}

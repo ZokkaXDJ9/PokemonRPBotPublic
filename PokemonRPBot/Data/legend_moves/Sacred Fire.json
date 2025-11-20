@@ -1,0 +1,11 @@
+{
+    "name": "Sacred Fire",
+    "type": "Fire",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Inflicts Wounds. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, this move gains high critical and changes it's accuracy stat to Strength.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move inflicts burn.",
+    "description": "A blazing pillar of rainbow-colored flames crashes upon the foe, it burns and cleanses the evil from within. Those with a pure heart should not fear for they'll be unharmed.",
+    "category": "Physical"
+}

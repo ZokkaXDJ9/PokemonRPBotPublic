@@ -1,0 +1,83 @@
+{
+    "number": 360,
+    "name": "Wynaut",
+    "types": [
+        "Psychic"
+    ],
+    "abilities": {
+        "normal": [
+            "Shadow Tag"
+        ],
+        "hidden": [
+            "Telepathy"
+        ]
+    },
+    "base_hp": 6,
+    "strength": "1/2",
+    "dexterity": "1/2",
+    "vitality": "2/4",
+    "special": "1/2",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Amnesia",
+            "Charm",
+            "Counter",
+            "Destiny Bond",
+            "Encore",
+            "Mirror Coat",
+            "Safeguard",
+            "Splash"
+        ],
+        "silver": [],
+        "gold": [],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Amnesia",
+            "Charm",
+            "Counter",
+            "Destiny Bond",
+            "Encore",
+            "Mirror Coat",
+            "Safeguard",
+            "Splash",
+            "Agility",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Protect",
+            "Rest",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Charm",
+            "Encore",
+            "Splash"
+        ],
+        "egg": [],
+        "level1_g3_7": [
+            "Charm",
+            "Encore",
+            "Splash"
+        ]
+    }
+}

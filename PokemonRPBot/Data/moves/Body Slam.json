@@ -1,0 +1,11 @@
+{
+  "name": "Body Slam",
+  "type": "Normal",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Paralyze the foe. If the target has used the move Minimize during the scene gain an additional +2 Damage Dice and Never Fail.",
+  "description": "The user charges against the foe using its body to knock it down, leaving the target stunned.",
+  "category": "Physical"
+}

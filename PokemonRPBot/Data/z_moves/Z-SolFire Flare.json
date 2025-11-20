@@ -1,0 +1,12 @@
+{
+  "name": "Z-SolFire Flare",
+  "type": "Grass",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Charge move. Priority 1. This move has +1 accuracy. On the charge turn, the user raises their Special by 3. The charge turn can be skipped during Sunny and Pollen Storm Weather. Set Cosmic Rays for 3 rounds.",
+  "description": "[PLEASE UPDATE, PLACEHOLDER TEXT]",
+  "og_move": "Solar Beam",
+  "category": "Special"
+}

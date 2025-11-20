@@ -1,0 +1,11 @@
+{
+    "name": "Techno Blast",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "When performed, this Move's type may be changed to: Fire, Ice, Water, or Electric \n At Silver Rank, increase this move's power to 6.\n At Gold Rank, the User may use Special for this Move's Accuracy.\n At Platinum Rank, increase this move's power to 9.\n At Diamond Rank, this move Inflicts Wounds.",
+    "description": "A laser briefly beams away from the Pokemon, whatever it hits explodes a second later. This move can be modified with the right programming of a computer.",
+    "category": "Special"
+}

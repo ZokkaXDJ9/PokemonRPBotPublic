@@ -1,0 +1,11 @@
+{
+    "name": "Plasma Fists",
+    "type": "Electric",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Fist Based. If successful, all Normal-Type Moves of the user will be considered Electric Type until the end of the Scene. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, also increase the User's Dexterity.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, also increase the User's Strength.",
+    "description": "The user charges its fists with electricity, and upon impact the charge materializes into plasma that adds an electric element to all of its Normal moves.",
+    "category": "Physical"
+}

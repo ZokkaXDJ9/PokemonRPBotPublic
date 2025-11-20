@@ -1,0 +1,5 @@
+{
+  "name": "Intrepid Sword",
+  "description": "This audacious Pokemon is fearless to any challenge, its strength increases through sheer will. Its presence can be very menacing.",
+  "effect": "Once per battle, at the start of Round the User may increase their Strength. This ability may be reset after performing an Alternative Action (Including dodges granted by evasion). The Stat Change from Intrepid Sword cannot stack with itself."
+}

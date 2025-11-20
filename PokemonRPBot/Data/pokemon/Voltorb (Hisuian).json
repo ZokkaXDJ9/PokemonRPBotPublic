@@ -1,0 +1,132 @@
+{
+    "number": 100,
+    "name": "Voltorb (Hisuian)",
+    "types": [
+        "Electric",
+        "Grass"
+    ],
+    "abilities": {
+        "normal": [
+            "Soundproof",
+            "Static"
+        ],
+        "hidden": [
+            "Aftermath"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/2",
+    "dexterity": "3/6",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Bullet Seed",
+            "Charge",
+            "Stun Spore",
+            "Tackle",
+            "Thunder Shock",
+            "Thunder Wave"
+        ],
+        "silver": [
+            "Charge Beam",
+            "Electro Ball",
+            "Energy Ball",
+            "Rollout",
+            "Screech",
+            "Self-Destruct",
+            "Spark",
+            "Swift",
+            "Thunderbolt"
+        ],
+        "gold": [
+            "Discharge",
+            "Explosion",
+            "Grassy Terrain",
+            "Gyro Ball",
+            "Seed Bomb",
+            "Thunder"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Bullet Seed",
+            "Charge",
+            "Charge Beam",
+            "Double-Edge",
+            "Electric Terrain",
+            "Electro Ball",
+            "Electroweb",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Foul Play",
+            "Giga Drain",
+            "Grass Knot",
+            "Grassy Glide",
+            "Grassy Terrain",
+            "Leaf Storm",
+            "Protect",
+            "Rain Dance",
+            "Reflect",
+            "Rest",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Solar Beam",
+            "Substitute",
+            "Swift",
+            "Taunt",
+            "Take Down",
+            "Tera Blast",
+            "Thief",
+            "Thunder",
+            "Thunder Wave",
+            "Thunderbolt",
+            "Volt Switch",
+            "Wild Charge",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Captivate",
+            "Flash",
+            "Grass Whistle",
+            "Ice Ball",
+            "Natural Gift",
+            "Signal Beam",
+            "Sonic Boom"
+        ],
+        "tutor": [
+            "Charge Beam",
+            "Energy Ball",
+            "Ice Ball",
+            "Magical Leaf",
+            "Rest",
+            "Swift",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "egg": [
+            "Leech Seed",
+            "Recycle",
+            "Worry Seed"
+        ]
+    }
+}

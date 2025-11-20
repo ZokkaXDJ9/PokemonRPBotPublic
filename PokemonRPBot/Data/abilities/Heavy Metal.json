@@ -1,0 +1,5 @@
+{
+    "name": "Heavy Metal",
+    "description": "The metal covering the body of the Pokemon is so thick it easily doubles the normal weight of the Pokemon.",
+    "effect": "This Pokemon weighs twice as much as normal. Moves with damage based on weight get their damage pool modified accordingly (scale the User's species to 100% and calculate damaged based on double the listed weight)."
+}

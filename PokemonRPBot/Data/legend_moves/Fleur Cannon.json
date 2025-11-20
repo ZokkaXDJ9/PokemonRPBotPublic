@@ -1,0 +1,11 @@
+{
+    "name": "Fleur Cannon",
+    "type": "Fairy",
+    "power": 4,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Inflicts Wounds. Reduce User's Special by 2 \n At Silver Rank, increase this move's power to 7.\n At Gold Rank, the User may create Grassy Terrain for 3 Rounds.\n At Platinum Rank, increase this move's power to 10.\n At Diamond Rank, the User may use Special for this Move's Accuracy.",
+    "description": "A light beam pierces the battlefield, it deals devastating damage but leaves newly grown flowers instead of scorched earth. The user is left feeling very tired.",
+    "category": "Special"
+}

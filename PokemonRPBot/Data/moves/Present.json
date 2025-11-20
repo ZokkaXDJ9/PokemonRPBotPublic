@@ -1,0 +1,11 @@
+{
+  "name": "Present",
+  "type": "Normal",
+  "power": 0,
+  "damage": "Cute",
+  "accuracy": "Cute",
+  "target": "Foe",
+  "effect": "Ranged. Roll 1 Die to determine this Move's Power. Roll 2 Dice and use the higher result if Snow Weather is active or during the month of December. If a 4-6 is rolled by this move's Effect the target recovers 1 HP after damage calculation. -1 Accuracy.",
+  "description": "The user approaches its foe and gives it a lovely present that may be nice or may be a prank.",
+  "category": "Physical"
+}

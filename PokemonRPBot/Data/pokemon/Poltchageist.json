@@ -1,0 +1,111 @@
+{
+    "number": 1012,
+    "name": "Poltchageist",
+    "types": [
+        "Grass",
+        "Ghost"
+    ],
+    "abilities": {
+        "normal": [
+            "Hospitality"
+        ],
+        "hidden": [
+            "Heatproof"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "2/5",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Absorb",
+            "Astonish",
+            "Stun Spore",
+            "Withdraw"
+        ],
+        "silver": [
+            "Foul Play",
+            "Hex",
+            "Life Dew",
+            "Mega Drain"
+        ],
+        "gold": [
+            "Giga Drain",
+            "Leaf Storm",
+            "Memento",
+            "Rage Powder",
+            "Shadow Ball"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Calm Mind",
+            "Curse",
+            "Endure",
+            "Energy Ball",
+            "Foul Play",
+            "Giga Drain",
+            "Grassy Terrain",
+            "Hex",
+            "Imprison",
+            "Iron Defense",
+            "Leaf Storm",
+            "Magical Leaf",
+            "Nasty Plot",
+            "Night Shade",
+            "Pain Split",
+            "Phantom Force",
+            "Poltergeist",
+            "Protect",
+            "Psych Up",
+            "Reflect",
+            "Rest",
+            "Scald",
+            "Shadow Ball",
+            "Sleep Talk",
+            "Solar Beam",
+            "Spite",
+            "Substitute",
+            "Tera Blast",
+            "Trick Room",
+            "Uproar",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Double Team",
+            "Facade",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Captivate",
+            "Embargo",
+            "Grass Whistle",
+            "Lucky Chant",
+            "Natural Gift",
+            "Ominous Wind",
+            "Signal Beam",
+            "Snatch",
+            "Aromatherapy",
+            "Crafty Shield",
+            "Leaf Tornado",
+            "Magic Coat",
+            "Nature Power"
+        ],
+        "tutor": [],
+        "egg": [],
+        "level1_g3_7": []
+    }
+}

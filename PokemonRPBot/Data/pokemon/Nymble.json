@@ -1,0 +1,109 @@
+{
+    "number": 919,
+    "name": "Nymble",
+    "types": [
+        "Bug"
+    ],
+    "abilities": {
+        "normal": [
+            "Swarm"
+        ],
+        "hidden": [
+            "Tinted Lens"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "1/2",
+    "insight": "1/2",
+    "moves": {
+        "bronze": [
+            "Assurance",
+            "Astonish",
+            "Leer",
+            "Struggle Bug",
+            "Tackle"
+        ],
+        "silver": [
+            "Agility",
+            "Bug Bite",
+            "Double Kick",
+            "Endure",
+            "Feint",
+            "Screech"
+        ],
+        "gold": [
+            "First Impression",
+            "Sucker Punch"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Bug Bite",
+            "Bug Buzz",
+            "Endure",
+            "Facade",
+            "Leech Life",
+            "Pounce",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Struggle Bug",
+            "Substitute",
+            "Sunny Day",
+            "Take Down",
+            "Tera Blast",
+            "Thief",
+            "Trailblaze",
+            "U-turn",
+            "X-Scissor",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Embargo",
+            "Feint Attack",
+            "Jump Kick",
+            "Meditate",
+            "Natural Gift",
+            "Punishment",
+            "Pursuit",
+            "Rolling Kick",
+            "Signal Beam",
+            "Silver Wind",
+            "Sonic Boom",
+            "Twineedle",
+            "Dual Chop",
+            "Laser Focus",
+            "Mind Reader",
+            "Revenge",
+            "Storm Throw",
+            "Vital Throw"
+        ],
+        "tutor": [],
+        "egg": [
+            "Counter",
+            "Skitter Smack"
+        ],
+        "level1_g3_7": []
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Defiant",
+  "description": "This Pokemon will not yield, the harder the situation gets, the higher its fighting spirit will grow. It may, however, be a bit of a rebel.",
+  "effect": "The first time this Pokemon is afflicted with a negative Stat Change during battle, Increase the User's Strength by 2."
+}

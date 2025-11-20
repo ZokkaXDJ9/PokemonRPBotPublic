@@ -1,0 +1,12 @@
+{
+  "name": "Z-Mountain Breaker",
+  "type": "Normal",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reduce the target's defense by 3. Inflicts Wounds.",
+  "description": "The user crushes its claws against the foe, rending their physical defenses to nothing.",
+  "og_move": "Crush Claw",
+  "category": "Physical"
+}

@@ -1,0 +1,111 @@
+{
+    "number": 406,
+    "name": "Budew",
+    "types": [
+        "Grass",
+        "Poison"
+    ],
+    "abilities": {
+        "normal": [
+            "Natural Cure",
+            "Poison Point"
+        ],
+        "hidden": [
+            "Leaf Guard"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/2",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Absorb",
+            "Growth",
+            "Stun Spore",
+            "Water Sport",
+            "Worry Seed"
+        ],
+        "silver": [
+            "Mega Drain"
+        ],
+        "gold": [],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Bullet Seed",
+            "Captivate",
+            "Confide",
+            "Cut",
+            "Dazzling Gleam",
+            "Double Team",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Flash",
+            "Frustration",
+            "Giga Drain",
+            "Grass Knot",
+            "Hidden Power",
+            "Leaf Storm",
+            "Natural Gift",
+            "Nature Power",
+            "Pin Missile",
+            "Protect",
+            "Psych Up",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Seed Bomb",
+            "Shadow Ball",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Snore",
+            "Solar Beam",
+            "Spikes",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Swords Dance",
+            "Toxic",
+            "Uproar",
+            "Venoshock",
+            "Weather Ball",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Splash",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Absorb",
+            "Covet",
+            "Giga Drain",
+            "Grassy Glide",
+            "Mud-Slap",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Swift",
+            "Synthesis",
+            "Uproar",
+            "Worry Seed"
+        ],
+        "egg": [],
+        "level1_g3_7": [
+            "Absorb"
+        ]
+    }
+}

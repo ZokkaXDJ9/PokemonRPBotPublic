@@ -1,0 +1,7 @@
+{
+    "name": "Starf Berry",
+    "description": "Once consumed, roll a d6 and gain one of these effects temporarily. Lasts for one encounter or one irp-hour.\n1: Strength +1\n2: Defense +1\n3: Special +1\n4: Special Defense +1\n5: Dexterity +1\n6: High Critical",
+    "category": "Berry",
+    "rarity": "Common"
+}
+

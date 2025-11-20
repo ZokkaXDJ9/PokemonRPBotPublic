@@ -1,0 +1,11 @@
+{
+    "name": "Focus Blast",
+    "type": "Fighting",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Ballistic Based. Roll 1 Chance Dice to Reduce foe's Sp. Defense. -2 Accuracy.",
+    "description": "The user concentrates and releases a blast of energy.",
+    "category": "Special"
+}

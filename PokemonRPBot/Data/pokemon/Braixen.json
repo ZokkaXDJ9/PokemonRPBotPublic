@@ -1,0 +1,143 @@
+{
+    "number": 654,
+    "name": "Braixen",
+    "types": [
+        "Fire"
+    ],
+    "abilities": {
+        "normal": [
+            "Blaze"
+        ],
+        "hidden": [
+            "Magician"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "2/5",
+    "vitality": "2/4",
+    "special": "2/5",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Ember",
+            "Scratch",
+            "Tail Whip"
+        ],
+        "silver": [
+            "Fire Spin",
+            "Flame Charge",
+            "Howl",
+            "Light Screen",
+            "Lucky Chant",
+            "Psybeam"
+        ],
+        "gold": [
+            "Fire Blast",
+            "Flamethrower",
+            "Magic Room",
+            "Psychic",
+            "Psyshock",
+            "Sunny Day",
+            "Will-O-Wisp"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Attract",
+            "Burning Jealousy",
+            "Calm Mind",
+            "Charm",
+            "Confide",
+            "Cut",
+            "Double Team",
+            "Dream Eater",
+            "Echoed Voice",
+            "Embargo",
+            "Encore",
+            "Endure",
+            "Facade",
+            "Fire Blast",
+            "Fire Pledge",
+            "Fire Punch",
+            "Fire Spin",
+            "Flame Charge",
+            "Flamethrower",
+            "Flare Blitz",
+            "Foul Play",
+            "Frustration",
+            "Grass Knot",
+            "Heat Wave",
+            "Helping Hand",
+            "Hidden Power",
+            "Imprison",
+            "Incinerate",
+            "Light Screen",
+            "Low Kick",
+            "Mud Shot",
+            "Mud-Slap",
+            "Overheat",
+            "Power-Up Punch",
+            "Protect",
+            "Psybeam",
+            "Psych Up",
+            "Psychic",
+            "Psychic Terrain",
+            "Psyshock",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Skill Swap",
+            "Sleep Talk",
+            "Solar Beam",
+            "Stored Power",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "Thief",
+            "Thunder Punch",
+            "Toxic",
+            "Trick",
+            "Trick Room",
+            "Will-O-Wisp",
+            "Work Up",
+            "Zen Headbutt",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Ember",
+            "Fire Pledge",
+            "Scratch",
+            "Tail Whip"
+        ],
+        "egg": [
+            "Copycat",
+            "Heat Wave",
+            "Hypnosis",
+            "Magic Coat",
+            "Magic Room",
+            "Psychic Terrain",
+            "Wish"
+        ],
+        "level1_g3_7": [
+            "Scratch",
+            "Tail Whip",
+            "Ember"
+        ]
+    }
+}

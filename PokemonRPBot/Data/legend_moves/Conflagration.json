@@ -1,0 +1,11 @@
+{
+    "name": "Conflagration",
+    "type": "Fire",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Damage Roll is Half of the Foe's remaining HP (up to 8) Rounded down. Ignore the foe's Defenses. -1 Accuracy. \n At Silver Rank, increase the Damage Roll to Half of the Foe's remaining HP (up to 10).\n At Gold Rank, lower the target\u2019s Strength.\n At Platinum Rank, increase the Damage Roll to Half of the Foe's remaining HP (up to 12).\n At Diamond Rank, the target is unable to use Sound Based moves for 2 rounds.",
+    "description": "Needs Description",
+    "category": "Special"
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Zoom Lens",
+    "description": "Increases accuracy by 2 if the user is lower than the target on the initiative order.",
+    "category": "Held Item",
+    "rarity": "Rare"
+}

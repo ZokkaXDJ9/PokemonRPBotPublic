@@ -1,0 +1,12 @@
+{
+  "name": "Aura Beam",
+  "type": "Fighting",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Increase the User's Special. -1 Accuracy",
+  "description": "The pokemon let's out a powerful beam then uses the remaining energy to boost it's power.",
+  "category": "Special",
+  "price": 9
+}

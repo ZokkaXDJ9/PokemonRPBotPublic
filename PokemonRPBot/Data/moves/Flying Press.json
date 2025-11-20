@@ -1,0 +1,11 @@
+{
+  "name": "Flying Press",
+  "type": "Fighting",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "When Dealing damage with this move, it counts as if this move was also Flying Type. If the target has used the move Minimize during the scene gain an additional +2 Damage Dice and Never Fail.",
+  "description": "The user flies towards the foe from the sky in pure Lucha Libre style.",
+  "category": "Physical"
+}

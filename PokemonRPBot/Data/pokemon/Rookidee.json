@@ -1,0 +1,115 @@
+{
+    "number": 821,
+    "name": "Rookidee",
+    "types": [
+        "Flying"
+    ],
+    "abilities": {
+        "normal": [
+            "Keen Eye",
+            "Unnerve"
+        ],
+        "hidden": [
+            "Big Pecks"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "1/2",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Hone Claws",
+            "Leer",
+            "Peck",
+            "Power Trip"
+        ],
+        "silver": [
+            "Drill Peck",
+            "Fury Attack",
+            "Pluck",
+            "Scary Face",
+            "Swagger",
+            "Taunt"
+        ],
+        "gold": [
+            "Brave Bird"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Aerial Ace",
+            "Agility",
+            "Air Cutter",
+            "Air Slash",
+            "Assurance",
+            "Attract",
+            "Brave Bird",
+            "Dual Wingbeat",
+            "Endure",
+            "Facade",
+            "Fake Tears",
+            "Fly",
+            "Focus Energy",
+            "Nasty Plot",
+            "Payback",
+            "Protect",
+            "Rest",
+            "Retaliate",
+            "Revenge",
+            "Reversal",
+            "Round",
+            "Scary Face",
+            "Sleep Talk",
+            "Snore",
+            "Spite",
+            "Substitute",
+            "Swift",
+            "Tailwind",
+            "Take Down",
+            "Taunt",
+            "Tera Blast",
+            "Thief",
+            "U-turn",
+            "Work Up",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Feint Attack",
+            "Foresight",
+            "Me First",
+            "Mirror Move",
+            "Ominous Wind",
+            "Pursuit",
+            "Razor Wind",
+            "Sky Drop"
+        ],
+        "tutor": [
+            "Dual Wingbeat"
+        ],
+        "egg": [
+            "Defog",
+            "Rock Smash",
+            "Roost",
+            "Sand Attack",
+            "Sky Attack",
+            "Spite",
+            "Tailwind"
+        ],
+        "level1_g3_7": []
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Fire Fang",
+  "type": "Fire",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Biting Based. Roll 3 Chance Dice to Flinch or Burn the foe at random using the `/select_random` command. -1 Accuracy.",
+  "description": "The user breathes fire from its mouth while biting the target.",
+  "category": "Physical"
+}

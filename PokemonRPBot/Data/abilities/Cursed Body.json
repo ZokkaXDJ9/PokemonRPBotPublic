@@ -1,0 +1,5 @@
+{
+  "name": "Cursed Body",
+  "description": "This Pokemon carries a curse within itself. Crossing this Pokemon is nota good idea.",
+  "effect": "Whenever this Pokemon is dealt damage by an attacking Move, Roll 3 Chance Dice to disable that move. Lasts 3 Rounds. More than one Move may be disabled this way."
+}

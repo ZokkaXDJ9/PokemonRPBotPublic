@@ -1,0 +1,11 @@
+{
+    "name": "Volcanic Roar",
+    "type": "Fire",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Double Action. \n At Silver Rank, increase this move's power to 2.\n At Gold Rank, this move inflicts Burn if both attacks hit.\n At Platinum Rank, increase this move's power to 3.\n At Diamond Rank, this move becomes Triple Action instead.",
+    "description": "Entei's roar flings spouts of flame at it's foe, potentially leaving it burned.",
+    "category": "Physical"
+}

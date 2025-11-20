@@ -1,0 +1,69 @@
+{
+    "number": 11,
+    "name": "Metapod",
+    "types": [
+        "Bug"
+    ],
+    "abilities": {
+        "normal": [
+            "Shed Skin"
+        ],
+        "hidden": []
+    },
+    "base_hp": 4,
+    "strength": "1/2",
+    "dexterity": "1/2",
+    "vitality": "2/4",
+    "special": "1/2",
+    "insight": "1/2",
+    "moves": {
+        "bronze": [
+            "Harden"
+        ],
+        "silver": [],
+        "gold": [],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Electroweb",
+            "Harden",
+            "Iron Defense",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Protect",
+            "Rest",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Sleep Talk",
+            "Snore",
+            "Splash",
+            "Substitute",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Bug Bite",
+            "Electroweb",
+            "Harden",
+            "Iron Defense"
+        ],
+        "egg": [],
+        "level1_g3_7": [
+            "Harden"
+        ]
+    }
+}

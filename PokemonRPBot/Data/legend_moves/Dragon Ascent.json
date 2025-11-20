@@ -1,0 +1,11 @@
+{
+    "name": "Dragon Ascent",
+    "type": "Flying",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "The user can use their highest attribute out of Strength, Special and Dexterity for this move's damage roll. Reduce the user's Defense and Sp. Defense. \n At Silver Rank, increase this move's power to 6\n At Gold Rank, the user can also use their highest out of Strength, Special and Dexterity for this move's accuracy roll.\n At Platinum Rank, increase this move's power to 9\n At Diamond Rank, this move also targets the foe's lower defense stat.",
+    "description": "The user rises above the clouds and then comes crashing down against its foe in an instant. The strike is brutal for both.",
+    "category": "Physical"
+}

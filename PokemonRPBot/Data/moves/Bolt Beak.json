@@ -1,0 +1,11 @@
+{
+  "name": "Bolt Beak",
+  "type": "Electric",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If the Target hasn't had a Turn this Round, add 2 Extra Dice to the Damage pool.",
+  "description": "The Pokemon charges with its beak and pecks its foe, if the foe is not fast it will be zapped by a jolt of electricity.",
+  "category": "Physical"
+}

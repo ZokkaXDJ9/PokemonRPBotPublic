@@ -1,0 +1,6 @@
+{
+  "name": "Levels and Ranks",
+  "flavor": "Now, would you look at this shiny badge?",
+  "text": "A level up always requires 100 Experience Points. Experience can be earned by going on quests, participating in events, or rolepaying. \nWhenever you level up, you gain 1 stat point to increase your combat stats, up to their cap. (If a stat is capped, see Limit Breaking). \n\nFurthermore, Levels decide your guild rank and when you can evolve:\nLevel 2 => Silver\nLevel 3 => Evo #1\nLevel 4 => Gold\nLevel 6 => Evo #2\nLevel 8 => Platinum\nLevel 16 => Diamond\n\nEvery time you rank up you gain 2 social stat points along with an extra d6 on `+ rank accuracy` rolls.\nEvery time you rank up (including bronze rank) you learn 1 Egg move. Your first Egg move on bronze can only have a maximum power of 3. If you cannot learn a new move from the Egg move list, you instead pick a move from your Tutor move list, and if you cannot learn a new move from there, you instead pick a move from your TM list.\nFor platinum rank, you additionally learn 3 moves from your TM or Tutor move list.",
+  "example": ""
+}

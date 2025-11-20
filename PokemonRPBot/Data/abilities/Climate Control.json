@@ -1,0 +1,5 @@
+{
+  "name": "Climate Control",
+  "description": "This Pokemon's tempest-like body commands the weather itself to match the way it's own wind blows, regardless of whether it's howling winds, swarms of bugs, or scorching sun.",
+  "effect": "The User's first Weather Move used during a scene may be performed as a Bonus Action during their turn (rolling as normal). The effects of Weather set by the User end when the User faints or leaves the battle. This Pokemon’s Normal Type becomes the Type of the current Weather. (Ex: Fire under Sun, Water under Rain, Ice under Hail etc.). This Ability cannot be copied (ignoring the effects of Skill Swap, Trace etc.)"
+}

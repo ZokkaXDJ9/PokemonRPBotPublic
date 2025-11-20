@@ -1,0 +1,135 @@
+{
+    "number": 662,
+    "name": "Fletchinder",
+    "types": [
+        "Fire",
+        "Flying"
+    ],
+    "abilities": {
+        "normal": [
+            "Flame Body"
+        ],
+        "hidden": [
+            "Gale Wings"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "2/5",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Ember",
+            "Feint",
+            "Flame Charge",
+            "Growl",
+            "Peck",
+            "Quick Attack"
+        ],
+        "silver": [
+            "Acrobatics",
+            "Agility",
+            "Flail",
+            "Natural Gift",
+            "Razor Wind",
+            "Roost"
+        ],
+        "gold": [
+            "Aerial Ace",
+            "Fly",
+            "Me First",
+            "Steel Wing",
+            "Tailwind"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Aerial Ace",
+            "Agility",
+            "Air Cutter",
+            "Air Slash",
+            "Attract",
+            "Brave Bird",
+            "Confide",
+            "Double Team",
+            "Double-Edge",
+            "Dual Wingbeat",
+            "Endure",
+            "Facade",
+            "Feather Dance",
+            "Fire Blast",
+            "Fire Spin",
+            "Flame Charge",
+            "Flamethrower",
+            "Flare Blitz",
+            "Fly",
+            "Frustration",
+            "Heat Wave",
+            "Hidden Power",
+            "Hurricane",
+            "Incinerate",
+            "Overheat",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Roost",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Steel Wing",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Swords Dance",
+            "Tailwind",
+            "Take Down",
+            "Taunt",
+            "Temper Flare",
+            "Tera Blast",
+            "Thief",
+            "Toxic",
+            "U-turn",
+            "Will-O-Wisp",
+            "Work Up",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash"
+        ],
+        "tutor": [
+            "Defog",
+            "Dual Wingbeat",
+            "Ember",
+            "Growl",
+            "Heat Wave",
+            "Quick Attack",
+            "Snatch",
+            "Snore",
+            "Tackle",
+            "Tailwind"
+        ],
+        "egg": [
+            "Defog",
+            "Flame Charge",
+            "Quick Guard",
+            "Snatch",
+            "Tailwind"
+        ],
+        "level1_g3_7": [
+            "Growl",
+            "Tackle",
+            "Ember",
+            "Quick Attack"
+        ]
+    }
+}

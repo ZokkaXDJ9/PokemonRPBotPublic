@@ -1,0 +1,110 @@
+{
+    "number": 960,
+    "name": "Wiglett",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Gooey",
+            "Rattled"
+        ],
+        "hidden": [
+            "Sand Veil"
+        ]
+    },
+    "base_hp": 1,
+    "strength": "2/4",
+    "dexterity": "3/6",
+    "vitality": "1/2",
+    "special": "1/3",
+    "insight": "1/2",
+    "moves": {
+        "bronze": [
+            "Mud-Slap",
+            "Sand Attack",
+            "Water Gun",
+            "Wrap"
+        ],
+        "silver": [
+            "Aqua Jet",
+            "Dig",
+            "Headbutt",
+            "Slam",
+            "Sucker Punch",
+            "Water Pulse"
+        ],
+        "gold": [
+            "Liquidation",
+            "Throat Chop"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Blizzard",
+            "Bulldoze",
+            "Chilling Water",
+            "Dig",
+            "Earth Power",
+            "Endure",
+            "Facade",
+            "Foul Play",
+            "Helping Hand",
+            "Hydro Pump",
+            "Ice Beam",
+            "Liquidation",
+            "Mud Shot",
+            "Mud-Slap",
+            "Muddy Water",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Sandstorm",
+            "Sleep Talk",
+            "Stomping Tantrum",
+            "Substitute",
+            "Surf",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "Throat Chop",
+            "Water Pulse",
+            "Whirlpool",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Bubble",
+            "Camouflage",
+            "Mud Bomb",
+            "Mud Sport",
+            "Pursuit",
+            "Refresh",
+            "Rock Climb",
+            "Signal Beam",
+            "Water Sport",
+            "Nature Power",
+            "Revenge"
+        ],
+        "tutor": [],
+        "egg": [
+            "Final Gambit",
+            "Memento"
+        ],
+        "level1_g3_7": []
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "number": 809,
+    "name": "Melmetal",
+    "types": [
+        "Steel"
+    ],
+    "abilities": {
+        "normal": [
+            "Iron Fist"
+        ],
+        "hidden": []
+    },
+    "base_hp": 8,
+    "strength": "4/8",
+    "dexterity": "1/3",
+    "vitality": "4/8",
+    "special": "2/5",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Harden",
+            "Headbutt",
+            "Tail Whip",
+            "Thunder Punch",
+            "Thunder Shock"
+        ],
+        "silver": [
+            "Acid Armor",
+            "Thunder Wave"
+        ],
+        "gold": [
+            "Discharge",
+            "Double Iron Bash",
+            "Dynamic Punch",
+            "Flash Cannon",
+            "Hyper Beam",
+            "Mega Punch",
+            "Protect",
+            "Superpower"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acid Armor",
+            "Body Press",
+            "Body Slam",
+            "Brick Break",
+            "Brutal Swing",
+            "Darkest Lariat",
+            "Double Iron Bash",
+            "Earthquake",
+            "Electric Terrain",
+            "Endure",
+            "Facade",
+            "Flash Cannon",
+            "Giga Impact",
+            "Gyro Ball",
+            "Harden",
+            "Headbutt",
+            "Heavy Slam",
+            "High Horsepower",
+            "Hyper Beam",
+            "Ice Beam",
+            "Ice Punch",
+            "Iron Defense",
+            "Iron Head",
+            "Mega Kick",
+            "Mega Punch",
+            "Protect",
+            "Rest",
+            "Rock Slide",
+            "Rock Tomb",
+            "Round",
+            "Self-Destruct",
+            "Sleep Talk",
+            "Snore",
+            "Solar Beam",
+            "Substitute",
+            "Superpower",
+            "Tail Whip",
+            "Thunder",
+            "Thunder Punch",
+            "Thunder Shock",
+            "Thunder Wave",
+            "Thunderbolt",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Harden",
+            "Headbutt",
+            "Steel Roller",
+            "Tail Whip",
+            "Thunder Punch",
+            "Thunder Wave"
+        ],
+        "egg": [],
+        "level1_g3_7": [
+            "Harden",
+            "Headbutt",
+            "Tail Whip",
+            "Thunder Punch",
+            "Thunder Wave"
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Core Enforcer",
+  "type": "Dragon",
+  "power": 0,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Suppress the Foe's Ability for four rounds. \n At Silver Rank, increase this move's power to 2.\n At Gold Rank, this move also Grounds and Blocks the foe for the duration.\n At Platinum Rank, ncrease this move's power to 4.\n At Diamond Rank, this move also halves any healing the foe receives for the duration (rounded down).",
+  "description": "Zygarde shoots a beam that fractures the target to its core, rendering it unable to sustain even the most basic of its traits.",
+  "category": "Special"
+}

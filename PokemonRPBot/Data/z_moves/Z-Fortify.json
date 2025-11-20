@@ -1,0 +1,12 @@
+{
+  "name": "Z-Fortify",
+  "type": "Poison",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Tough",
+  "target": "User",
+  "effect": "+1 Priority. Increase the User's Strength, Defense, and Special Defense. Increase Accuracy by 3. ",
+  "description": "Edwin coils his body tightly, honing his strength, fortifying his defenses, and narrowing his vision to hit his opponents without fail.",
+  "og_move": "Coil",
+  "category": "Support"
+}

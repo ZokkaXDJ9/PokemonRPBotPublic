@@ -1,0 +1,5 @@
+{
+    "name": "Suction Cups",
+    "description": "This Pokemon's limbs contain suckers that allow it to stay rooted in place. It can stick to any kind of surface, even upside down.",
+    "effect": "This Pokemon is unaffected by Roar, Whirlwind and Red Card. The User ignores the secondary effects of Dragon Tail and Circle Throw."
+}

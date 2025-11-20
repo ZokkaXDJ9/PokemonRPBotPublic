@@ -1,0 +1,25 @@
+{
+  "number": 20008,
+  "name": "Genetic Flux",
+  "types": ["Dark", "Normal"],
+  "abilities": {
+    "normal": ["Protosynthesis"],
+    "hidden": ["Genetic Anomaly"]
+  },
+  "base_hp": 4,
+  "strength": "3/7",
+  "dexterity": "2/4",
+  "vitality": "3/7",
+  "special": "3/7",
+  "insight": "3/7",
+  "moves": {
+    "bronze": ["Rapid Spin", "Growth"],
+    "silver": ["Tri Attack", "Shell Smash"],
+    "gold": ["Razor Wing", "Belly Drum"],
+    "platinum": [],
+    "diamond": [],
+    "tm": ["Chip Away", "Pain Split", "Follow Me", "Poison Fang", "Clear Smog"],
+    "egg": [],
+    "tutor": ["Defog"]
+  }
+}

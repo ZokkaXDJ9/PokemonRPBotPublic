@@ -1,0 +1,11 @@
+{
+  "name": "Quick Attack",
+  "type": "Normal",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Priority 1.",
+  "description": "An attack as fast as lightning.",
+  "category": "Physical"
+}

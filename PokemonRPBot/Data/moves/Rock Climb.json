@@ -1,0 +1,11 @@
+{
+  "name": "Rock Climb",
+  "type": "Normal",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 2 Chance Dice to Confuse the foe. -2 Accuracy. If performed under Quaking Ground Weather, Ignore this move's Reduced Accuracy and the Move can't be evaded. If performed under Rain Weather Accuracy becomes -3 instead.",
+  "description": "The user climbs on top of the foe. This may be confusing for some Pokemon.",
+  "category": "Physical"
+}

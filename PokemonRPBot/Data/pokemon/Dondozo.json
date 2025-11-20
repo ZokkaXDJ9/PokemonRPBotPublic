@@ -1,0 +1,118 @@
+{
+    "number": 977,
+    "name": "Dondozo",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Unaware",
+            "Oblivious"
+        ],
+        "hidden": [
+            "Water Veil"
+        ]
+    },
+    "base_hp": 9,
+    "strength": "3/6",
+    "dexterity": "1/3",
+    "vitality": "3/7",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Flail",
+            "Supersonic",
+            "Tackle",
+            "Tickle",
+            "Water Gun"
+        ],
+        "silver": [
+            "Dive",
+            "Noble Roar",
+            "Rest",
+            "Sleep Talk",
+            "Soak"
+        ],
+        "gold": [
+            "Aqua Tail",
+            "Body Slam",
+            "Double-Edge",
+            "Heavy Slam",
+            "Order Up",
+            "Rain Dance",
+            "Wave Crash"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Avalanche",
+            "Body Press",
+            "Body Slam",
+            "Bulldoze",
+            "Chilling Water",
+            "Crunch",
+            "Curse",
+            "Double-Edge",
+            "Earthquake",
+            "Endure",
+            "Facade",
+            "Giga Impact",
+            "Heavy Slam",
+            "Hydro Pump",
+            "Hyper Beam",
+            "Ice Fang",
+            "Liquidation",
+            "Outrage",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Rock Slide",
+            "Scary Face",
+            "Sleep Talk",
+            "Stomping Tantrum",
+            "Substitute",
+            "Surf",
+            "Take Down",
+            "Tera Blast",
+            "Water Pulse",
+            "Waterfall",
+            "Zen Headbutt",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Bubble",
+            "Dragon Rage",
+            "Magnitude",
+            "Mud Bomb",
+            "Mud Sport",
+            "Refresh",
+            "Water Sport",
+            "Revenge"
+        ],
+        "tutor": [],
+        "egg": [
+            "Curse",
+            "Fissure",
+            "Thrash",
+            "Yawn"
+        ],
+        "level1_g3_7": []
+    }
+}

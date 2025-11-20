@@ -1,0 +1,5 @@
+{
+  "name": "Mirror Armor",
+  "description": "The Pokemon's body is covered with a shiny armor. Said armor will repel and bounce back anything intending to weaken it.",
+  "effect": "All negative Stat Changing effects that target this Pokemon or its side of the battlefield will have its effects redirected into the foe's instead."
+}

@@ -1,0 +1,111 @@
+{
+    "number": 997,
+    "name": "Arctibax",
+    "types": [
+        "Dragon",
+        "Ice"
+    ],
+    "abilities": {
+        "normal": [
+            "Thermal Exchange"
+        ],
+        "hidden": [
+            "Ice Body"
+        ]
+    },
+    "base_hp": 6,
+    "strength": "3/6",
+    "dexterity": "2/4",
+    "vitality": "2/4",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Dragon Tail",
+            "Icy Wind",
+            "Leer",
+            "Tackle"
+        ],
+        "silver": [
+            "Bite",
+            "Dragon Breath",
+            "Focus Energy",
+            "Ice Fang"
+        ],
+        "gold": [
+            "Crunch",
+            "Ice Beam",
+            "Icicle Crash",
+            "Take Down"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Aerial Ace",
+            "Avalanche",
+            "Blizzard",
+            "Body Slam",
+            "Brick Break",
+            "Crunch",
+            "Dig",
+            "Draco Meteor",
+            "Dragon Claw",
+            "Dragon Pulse",
+            "Dragon Tail",
+            "Endure",
+            "Facade",
+            "Helping Hand",
+            "Ice Beam",
+            "Ice Fang",
+            "Icicle Spear",
+            "Icy Wind",
+            "Iron Head",
+            "Outrage",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Scary Face",
+            "Sleep Talk",
+            "Snowscape",
+            "Substitute",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Bide",
+            "Dragon Rage",
+            "Punishment",
+            "Pursuit",
+            "Rock Climb",
+            "Sharpen",
+            "Spike Cannon",
+            "Dual Chop",
+            "Laser Focus",
+            "Revenge"
+        ],
+        "tutor": [],
+        "egg": [
+            "Aqua Tail",
+            "Dragon Rush",
+            "Freeze-Dry",
+            "Icicle Spear"
+        ],
+        "level1_g3_7": []
+    }
+}

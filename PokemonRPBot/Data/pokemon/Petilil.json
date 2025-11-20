@@ -1,0 +1,129 @@
+{
+    "number": 548,
+    "name": "Petilil",
+    "types": [
+        "Grass"
+    ],
+    "abilities": {
+        "normal": [
+            "Chlorophyll",
+            "Own Tempo"
+        ],
+        "hidden": [
+            "Leaf Guard"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/2",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Absorb",
+            "Growth",
+            "Helping Hand",
+            "Leech Seed",
+            "Mega Drain",
+            "Sleep Powder",
+            "Stun Spore"
+        ],
+        "silver": [
+            "After You",
+            "Aromatherapy",
+            "Charm",
+            "Energy Ball",
+            "Giga Drain",
+            "Magical Leaf",
+            "Synthesis"
+        ],
+        "gold": [
+            "Entrainment",
+            "Leaf Storm",
+            "Sunny Day"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Bullet Seed",
+            "Charm",
+            "Confide",
+            "Cut",
+            "Double Team",
+            "Dream Eater",
+            "Encore",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Flash",
+            "Frustration",
+            "Giga Drain",
+            "Grass Knot",
+            "Grassy Glide",
+            "Helping Hand",
+            "Hidden Power",
+            "Leaf Storm",
+            "Magical Leaf",
+            "Nature Power",
+            "Pollen Puff",
+            "Protect",
+            "Rest",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Solar Beam",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Tera Blast",
+            "Toxic",
+            "Trailblaze",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down"
+        ],
+        "tutor": [
+            "Absorb",
+            "After You",
+            "Covet",
+            "Giga Drain",
+            "Grassy Glide",
+            "Heal Bell",
+            "Helping Hand",
+            "Laser Focus",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Synthesis",
+            "Worry Seed"
+        ],
+        "egg": [
+            "Bide",
+            "Charm",
+            "Encore",
+            "Endure",
+            "Grass Whistle",
+            "Healing Wish",
+            "Ingrain",
+            "Natural Gift",
+            "Sweet Scent",
+            "Worry Seed"
+        ],
+        "level1_g3_7": [
+            "Absorb"
+        ]
+    }
+}

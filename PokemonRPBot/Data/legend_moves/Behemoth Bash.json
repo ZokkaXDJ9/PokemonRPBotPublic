@@ -1,0 +1,11 @@
+{
+    "name": "Behemoth Bash",
+    "type": "Steel",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "If the Foe is under the effects of a Special Gimmick(Dynamax, Mega Evolution, Terastallization), or used a Z-Move on it's last turn, this Move Inflicts Wounds and add 2 Extra Dice to the Damage Pool.\n At Silver Rank, increase this move's power to 4.\n At Gold Rank, increase the conditional Extra Dice of this move to 4.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move also becomes High Critical if it's conditional effect is fulfilled.",
+    "description": "The Pokemon becomes a giant energy shield that tramples everything in its wake. If the foe is under the effects of the Dynamax phenomenon all its energy will be swept away.",
+    "category": "Physical"
+}

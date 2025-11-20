@@ -1,0 +1,120 @@
+{
+    "number": 755,
+    "name": "Morelull",
+    "types": [
+        "Grass",
+        "Fairy"
+    ],
+    "abilities": {
+        "normal": [
+            "Illuminate",
+            "Effect Spore"
+        ],
+        "hidden": [
+            "Rain Dish"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/2",
+    "dexterity": "1/2",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Absorb",
+            "Astonish",
+            "Confuse Ray",
+            "Flash",
+            "Ingrain"
+        ],
+        "silver": [
+            "Dazzling Gleam",
+            "Giga Drain",
+            "Mega Drain",
+            "Moonlight",
+            "Sleep Powder",
+            "Strength Sap"
+        ],
+        "gold": [
+            "Dream Eater",
+            "Moonblast",
+            "Spore",
+            "Spotlight"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Dazzling Gleam",
+            "Double Team",
+            "Draining Kiss",
+            "Dream Eater",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Frustration",
+            "Giga Drain",
+            "Grass Knot",
+            "Hidden Power",
+            "Light Screen",
+            "Magic Room",
+            "Nature Power",
+            "Pollen Puff",
+            "Protect",
+            "Rest",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Snore",
+            "Solar Beam",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Thunder Wave",
+            "Toxic",
+            "Wonder Room",
+            "Agility",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Absorb",
+            "After You",
+            "Giga Drain",
+            "Magic Coat",
+            "Magic Room",
+            "Recycle",
+            "Seed Bomb",
+            "Signal Beam",
+            "Snore",
+            "Synthesis",
+            "Wonder Room",
+            "Worry Seed"
+        ],
+        "egg": [
+            "Amnesia",
+            "Growth",
+            "Leech Seed",
+            "Poison Powder",
+            "Stun Spore"
+        ],
+        "level1_g3_7": [
+            "Absorb"
+        ]
+    }
+}

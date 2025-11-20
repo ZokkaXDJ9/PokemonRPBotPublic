@@ -1,0 +1,5 @@
+{
+  "name": "Chained Presence",
+  "description": "Looking at this pokemon is like looking at a looming otherworldly shadow.",
+  "effect": "This Pokemon starts Gravity (as the move) at the beginning of Combat. The effects end when the User faints, or leaves the battle. This Pokemon won't receive damage from moves performed by its allies. While undergoing a Stat Reset the character may choose to change forms."
+}

@@ -1,0 +1,113 @@
+{
+    "number": 803,
+    "name": "Poipole",
+    "types": [
+        "Poison"
+    ],
+    "abilities": {
+        "normal": [
+            "Beast Boost"
+        ],
+        "hidden": []
+    },
+    "base_hp": 4,
+    "strength": "2/5",
+    "dexterity": "2/5",
+    "vitality": "2/4",
+    "special": "2/5",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Acid",
+            "Dragon Pulse",
+            "Fury Attack",
+            "Growl",
+            "Helping Hand",
+            "Peck"
+        ],
+        "silver": [
+            "Charm",
+            "Fell Stinger",
+            "Nasty Plot",
+            "Venom Drench",
+            "Venoshock"
+        ],
+        "gold": [
+            "Gastro Acid",
+            "Poison Jab",
+            "Toxic"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acid",
+            "Charm",
+            "Dragon Pulse",
+            "Endure",
+            "Facade",
+            "Fell Stinger",
+            "Fury Attack",
+            "Growl",
+            "Gunk Shot",
+            "Helping Hand",
+            "Iron Tail",
+            "Nasty Plot",
+            "Peck",
+            "Pin Missile",
+            "Poison Jab",
+            "Protect",
+            "Rest",
+            "Round",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Sludge Wave",
+            "Snore",
+            "Substitute",
+            "Toxic",
+            "Toxic Spikes",
+            "Uproar",
+            "Venom Drench",
+            "Venoshock",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Acid",
+            "Covet",
+            "Dragon Pulse",
+            "Gastro Acid",
+            "Growl",
+            "Gunk Shot",
+            "Helping Hand",
+            "Iron Tail",
+            "Peck",
+            "Signal Beam",
+            "Snatch",
+            "Snore",
+            "Uproar"
+        ],
+        "egg": [],
+        "level1_g3_7": [
+            "Acid",
+            "Dragon Pulse",
+            "Growl",
+            "Helping Hand",
+            "Peck"
+        ]
+    }
+}

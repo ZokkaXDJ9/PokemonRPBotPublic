@@ -1,0 +1,11 @@
+{
+  "name": "Throat Chop",
+  "type": "Dark",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "The target cannot use any \"Sound Based\" Moves. Lasts 4 Rounds.",
+  "description": "A heinous attack to a Pokemon's throat that will leave them unable to make a sound for hours.",
+  "category": "Physical"
+}

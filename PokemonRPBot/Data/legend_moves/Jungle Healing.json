@@ -1,0 +1,11 @@
+{
+    "name": "Jungle Healing",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "User + Battlefield",
+    "effect": "Creates Grassy Terrain for 3 Rounds and cures any status conditions on itself. \n At Silver Rank, increase this move's Terrain Duration to 4 Rounds.\n At Gold Rank, you can also cure any status conditions on an ally.\n At Platinum Rank, increase this move's Terrain Duration to 5 Rounds.\n At Diamond Rank, you can also cure any status conditions on a second ally.",
+    "description": "Needs Description",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Focus Punch",
+  "type": "Fighting",
+  "power": 6,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Priority 6. Fist Based. At the start of the round, the user starts charging. At the end of the round, the move is unleashed. If the user received damage at any point during the round, this move fails",
+  "description": "A brutal punch that requires the user's pure focus. A strike of any kind may result in panic",
+  "category": "Physical"
+}

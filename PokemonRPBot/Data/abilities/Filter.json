@@ -1,0 +1,5 @@
+{
+  "name": "Filter",
+  "description": "This Pokemon uses an invisible energy field to filter away harmful energies and substances.",
+  "effect": "If a foe uses a move that would deal Super Effective Damage (or greater) to this Pokemon, reduce damage taken by 1 after damage calculation."
+}

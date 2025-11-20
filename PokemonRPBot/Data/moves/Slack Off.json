@@ -1,0 +1,11 @@
+{
+  "name": "Slack Off",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User",
+  "effect": "Heal 5 HP. If successful, spend 1 Will point to activate.",
+  "description": "The Pokemon gets lazy and loafs around instead of fighting. This makes up for a short rest.",
+  "category": "Support"
+}

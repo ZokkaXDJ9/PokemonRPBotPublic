@@ -1,0 +1,12 @@
+{
+  "name": "Z-Arise, Ye Worthy",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "Ally",
+  "effect": "User targets a fainted ally, if successful, they're brought back with 50% HP (rounded up). The ally receives an Omni Boost. Can only be successfully used once per Battle. he target acts immediately after the user if their place in initiative has passed in the current round. Activating this Z-Move costs 2 additional will.",
+  "description": "Sol refuses to let his defeated ally rest and infuses them with a burst of energy to bring them right back into battle.",
+  "og_move": "Captivate",
+  "category": "Support"
+}

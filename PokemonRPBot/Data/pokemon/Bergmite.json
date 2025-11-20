@@ -1,0 +1,138 @@
+{
+    "number": 712,
+    "name": "Bergmite",
+    "types": [
+        "Ice"
+    ],
+    "abilities": {
+        "normal": [
+            "Own Tempo",
+            "Ice Body"
+        ],
+        "hidden": [
+            "Sturdy"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "1/2",
+    "vitality": "2/5",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Curse",
+            "Harden",
+            "Icy Wind",
+            "Powder Snow",
+            "Rapid Spin",
+            "Tackle"
+        ],
+        "silver": [
+            "Avalanche",
+            "Bite",
+            "Crunch",
+            "Ice Ball",
+            "Ice Fang",
+            "Iron Defense",
+            "Protect",
+            "Recover",
+            "Sharpen",
+            "Take Down"
+        ],
+        "gold": [
+            "Blizzard",
+            "Double-Edge"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Avalanche",
+            "Blizzard",
+            "Body Slam",
+            "Bulldoze",
+            "Chilling Water",
+            "Confide",
+            "Crunch",
+            "Curse",
+            "Double Team",
+            "Double-Edge",
+            "Endure",
+            "Facade",
+            "Flash",
+            "Flash Cannon",
+            "Frost Breath",
+            "Frustration",
+            "Gyro Ball",
+            "Hail",
+            "Hidden Power",
+            "Ice Beam",
+            "Ice Fang",
+            "Ice Spinner",
+            "Icicle Spear",
+            "Icy Wind",
+            "Iron Defense",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Rock Polish",
+            "Rock Slide",
+            "Rock Smash",
+            "Rock Tomb",
+            "Round",
+            "Safeguard",
+            "Sleep Talk",
+            "Snore",
+            "Snowscape",
+            "Stone Edge",
+            "Strength",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Take Down",
+            "Tera Blast",
+            "Toxic",
+            "Agility",
+            "Amnesia",
+            "Headbutt",
+            "Helping Hand",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "After You",
+            "Bite",
+            "Flash Cannon",
+            "Harden",
+            "Ice Ball",
+            "Ice Beam",
+            "Ice Fang",
+            "Icy Wind",
+            "Iron Defense",
+            "Rest",
+            "Rock Slide",
+            "Rock Smash",
+            "Snore",
+            "Stone Edge",
+            "Tackle",
+            "Water Pulse"
+        ],
+        "egg": [
+            "Aurora Veil",
+            "Barrier",
+            "Mirror Coat",
+            "Mist",
+            "Recover"
+        ],
+        "level1_g3_7": [
+            "Bite",
+            "Harden",
+            "Tackle"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Z-Snagharpoon",
+    "type": "Dark",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Reaction. High Critical. This move can only be used after the Target rolls a damaging move. Inflicts Flinch. Reduces foe's Dexterity by 2. -2 Accuracy.",
+    "description": "While the foe is preparing its attack, the user takes advantage and strikes, using a made up Harpoon.",
+    "og_move": "Sucker Punch",
+    "category": "Physical"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Z-Commedia Lumiere",
+  "type": "Fairy",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Priority 1. Sound Based. Reduce foe's Defense and Special Defense. Roll 3 Chance Dice to Reduce foe's Special. If Fairy Dust Weather is active roll 1 Chance die to inflict the Foe with a random status from Poison, Burn, Frostbite or Paralysis (e.g. by using the /select_random command). -2 Accuracy",
+  "description": "Alma's voice attunes with the battlefield itself, magic swaying to his command. With extravagance and emotion he summons a magical spotlight, radiating down onto his foe sentencing them to be the star of the show.",
+  "og_move": "Moonblast",
+  "category": "Special"
+}

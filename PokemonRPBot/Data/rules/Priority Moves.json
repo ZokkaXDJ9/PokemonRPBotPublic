@@ -1,0 +1,6 @@
+{
+  "name": "Priority",
+  "flavor": "Even when you're as slow as a rock, all it takes is a little speed boost!",
+  "text": "- Moves with 'Priority' must be declared before the round starts and affect initiative order.\n- Higher priority numbers act first; lower or negative numbers act later.\n- If two Pokémon use moves with the same priority, normal initiative rules determine who goes first.",
+  "example": ""
+}

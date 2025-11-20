@@ -1,0 +1,6 @@
+{
+    "name": "Lucky Egg",
+    "description": "An item that increases the experience gained through quests. 1.5× on Moderately and Highly dangerous quests, 2× on Safe quests. This effect only works for your first character until their 5th level, so don't hoard it. This effect is active while carried in the User's backpack (does not need to be treated as 'Held').",
+    "category": "Held Item",
+    "rarity": "Special"
+}

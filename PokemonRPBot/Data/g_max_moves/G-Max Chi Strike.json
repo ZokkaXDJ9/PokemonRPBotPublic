@@ -1,0 +1,11 @@
+{
+  "name": "G-Max Chi Strike",
+  "type": "Fighting",
+  "power": 0,
+  "damage": "Strength / Special",
+  "accuracy": "",
+  "target": "Foe",
+  "effect": "The Fighting-type user can choose to use this instead of Max Knuckle while Dynamaxed. Mutually exclusive with other G-Max moves. The user and its allies' moves now have High Crit until the end of scene.",
+  "description": "The user's fighting spirits shouts with power as it attacks from the sky, empowering itself and its allies.",
+  "category": "Physical/Special"
+}

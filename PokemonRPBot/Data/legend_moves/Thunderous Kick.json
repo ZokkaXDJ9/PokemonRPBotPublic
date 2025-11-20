@@ -1,0 +1,11 @@
+{
+    "name": "Thunderous Kick",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Inflicts Wounds. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, this move reduces the Foe's Defense.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, a random different Foe takes defense ignoring damage equal to 50% of the HP the original target lost.",
+    "description": "The Pok\u00e9mon uses its massive talons to viciously rend at the foe. This leaves them bleeding and more defenseless to further attack.",
+    "category": "Physical"
+}

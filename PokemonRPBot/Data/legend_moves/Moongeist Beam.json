@@ -1,0 +1,11 @@
+{
+    "name": "Moongeist Beam",
+    "type": "Ghost",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "This move's damage can't be affected by Shield- and Screen Moves. \n At Silver Rank, increase this move's power to 6.\n At Gold Rank, change this move's accuracy to Special.\n At Platinum Rank, increase this move's power to 9.\n At Diamond Rank, this move can't be Dodged.",
+    "description": "A cold reflection of the moon shines upon the target, it doesn't hurt physically but those who stare directly into the light simply collapse.",
+    "category": "Special"
+}

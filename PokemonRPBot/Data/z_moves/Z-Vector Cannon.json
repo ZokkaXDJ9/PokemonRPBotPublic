@@ -1,0 +1,12 @@
+{
+  "name": "Z-Vector Cannon",
+  "type": "Steel",
+  "power": 4,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Charge Move. On the charge turn, the user raises their Special by 2. Roll 2 Chance Dice to Reduce the foe's Sp. Defense. High Critical. Clears active Weather and Terrain on the field. -2 Accuracy",
+  "description": "The Pokémon commands a pair of odd cannons to form from their own energy, while the spin up is long, it's power is without question.",
+  "og_move": "Flash Cannon",
+  "category": "Special"
+}

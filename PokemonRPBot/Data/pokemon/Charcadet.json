@@ -1,0 +1,102 @@
+{
+    "number": 935,
+    "name": "Charcadet",
+    "types": [
+        "Fire"
+    ],
+    "abilities": {
+        "normal": [
+            "Flash Fire"
+        ],
+        "hidden": [
+            "Flame Body"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Astonish",
+            "Clear Smog",
+            "Ember",
+            "Leer"
+        ],
+        "silver": [
+            "Fire Spin",
+            "Flame Charge",
+            "Incinerate",
+            "Lava Plume",
+            "Night Shade",
+            "Will-O-Wisp"
+        ],
+        "gold": [],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Confuse Ray",
+            "Endure",
+            "Facade",
+            "Fire Blast",
+            "Fire Spin",
+            "Flame Charge",
+            "Flamethrower",
+            "Flare Blitz",
+            "Heat Wave",
+            "Helping Hand",
+            "Night Shade",
+            "Overheat",
+            "Protect",
+            "Rest",
+            "Sleep Talk",
+            "Spite",
+            "Substitute",
+            "Sunny Day",
+            "Take Down",
+            "Tera Blast",
+            "Will-O-Wisp",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Chip Away",
+            "Embargo",
+            "Feint Attack",
+            "Flame Burst",
+            "Heal Block",
+            "Nightmare",
+            "Pursuit",
+            "Rock Climb",
+            "Signal Beam",
+            "Telekinesis",
+            "Wake-Up Slap",
+            "Laser Focus",
+            "Magic Coat",
+            "Mind Reader"
+        ],
+        "tutor": [],
+        "egg": [
+            "Destiny Bond",
+            "Disable",
+            "Spite"
+        ],
+        "level1_g3_7": []
+    }
+}

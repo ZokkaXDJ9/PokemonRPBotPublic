@@ -1,0 +1,111 @@
+{
+    "number": 837,
+    "name": "Rolycoly",
+    "types": [
+        "Rock"
+    ],
+    "abilities": {
+        "normal": [
+            "Steam Engine",
+            "Heatproof"
+        ],
+        "hidden": [
+            "Flash Fire"
+        ]
+    },
+    "base_hp": 2,
+    "strength": "1/3",
+    "dexterity": "1/2",
+    "vitality": "2/4",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Rapid Spin",
+            "Smack Down",
+            "Smokescreen",
+            "Tackle"
+        ],
+        "silver": [
+            "Ancient Power",
+            "Incinerate",
+            "Rock Polish",
+            "Stealth Rock"
+        ],
+        "gold": [
+            "Heat Crash",
+            "Rock Blast"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Body Slam",
+            "Bulldoze",
+            "Curse",
+            "Dig",
+            "Endure",
+            "Facade",
+            "Gyro Ball",
+            "Heat Crash",
+            "Iron Defense",
+            "Iron Head",
+            "Meteor Beam",
+            "Mud-Slap",
+            "Power Gem",
+            "Protect",
+            "Reflect",
+            "Rest",
+            "Rock Blast",
+            "Rock Slide",
+            "Rock Tomb",
+            "Round",
+            "Sand Tomb",
+            "Sandstorm",
+            "Self-Destruct",
+            "Sleep Talk",
+            "Smack Down",
+            "Snore",
+            "Spikes",
+            "Stealth Rock",
+            "Stone Edge",
+            "Substitute",
+            "Take Down",
+            "Temper Flare",
+            "Tera Blast",
+            "Will-O-Wisp",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Chip Away",
+            "Flame Burst",
+            "Flash",
+            "Magnitude",
+            "Mud Sport",
+            "Pursuit",
+            "Rage",
+            "Rock Climb"
+        ],
+        "tutor": [
+            "Meteor Beam"
+        ],
+        "egg": [
+            "Block",
+            "Explosion",
+            "Mud-Slap"
+        ],
+        "level1_g3_7": []
+    }
+}

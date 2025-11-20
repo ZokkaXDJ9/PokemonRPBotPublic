@@ -1,0 +1,121 @@
+{
+    "number": 955,
+    "name": "Flittle",
+    "types": [
+        "Psychic"
+    ],
+    "abilities": {
+        "normal": [
+            "Anticipation",
+            "Frisk"
+        ],
+        "hidden": [
+            "Speed Boost"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "2/5",
+    "vitality": "1/2",
+    "special": "2/4",
+    "insight": "1/2",
+    "moves": {
+        "bronze": [
+            "Baby-Doll Eyes",
+            "Confusion",
+            "Growl",
+            "Peck"
+        ],
+        "silver": [
+            "Agility",
+            "Disarming Voice",
+            "Pluck",
+            "Psybeam",
+            "Quick Attack"
+        ],
+        "gold": [
+            "Uproar"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Baton Pass",
+            "Calm Mind",
+            "Confuse Ray",
+            "Disarming Voice",
+            "Endure",
+            "Facade",
+            "Foul Play",
+            "Helping Hand",
+            "Light Screen",
+            "Mud-Slap",
+            "Pounce",
+            "Protect",
+            "Psybeam",
+            "Psychic",
+            "Psychic Terrain",
+            "Psyshock",
+            "Rain Dance",
+            "Reflect",
+            "Rest",
+            "Sandstorm",
+            "Seed Bomb",
+            "Skill Swap",
+            "Sleep Talk",
+            "Stored Power",
+            "Substitute",
+            "Sunny Day",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "Thief",
+            "Trick",
+            "Trick Room",
+            "U-turn",
+            "Uproar",
+            "Zen Headbutt",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Camouflage",
+            "Captivate",
+            "Embargo",
+            "Heal Block",
+            "Heart Stamp",
+            "Lucky Chant",
+            "Me First",
+            "Miracle Eye",
+            "Mirror Move",
+            "Nightmare",
+            "Psywave",
+            "Signal Beam",
+            "Snatch",
+            "Telekinesis",
+            "Laser Focus",
+            "Magic Coat",
+            "Mind Reader"
+        ],
+        "tutor": [],
+        "egg": [
+            "Ally Switch",
+            "Hypnosis",
+            "Roost"
+        ],
+        "level1_g3_7": []
+    }
+}

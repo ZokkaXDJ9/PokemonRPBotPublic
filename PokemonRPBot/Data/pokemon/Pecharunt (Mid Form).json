@@ -1,0 +1,93 @@
+{
+    "number": 1025,
+    "name": "Pecharunt (Mid Form)",
+    "types": [
+        "Poison",
+        "Ghost"
+    ],
+    "abilities": {
+        "normal": [
+            "Poison Puppeteer"
+        ],
+        "hidden": []
+    },
+    "base_hp": 5,
+    "strength": "2/4",
+    "dexterity": "2/5",
+    "vitality": "2/5",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Astonish",
+            "Defense Curl",
+            "Mean Look",
+            "Memento",
+            "Poison Gas",
+            "Rollout",
+            "Smog",
+            "Withdraw"
+        ],
+        "silver": [
+            "Destiny Bond",
+            "Fake Tears",
+            "Parting Shot"
+        ],
+        "gold": [
+            "Malignant Chain",
+            "Nasty Plot",
+            "Recover",
+            "Shadow Ball",
+            "Toxic"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acid Spray",
+            "Curse",
+            "Endure",
+            "Fake Tears",
+            "Foul Play",
+            "Gunk Shot",
+            "Hex",
+            "Imprison",
+            "Nasty Plot",
+            "Night Shade",
+            "Phantom Force",
+            "Poltergeist",
+            "Protect",
+            "Rest",
+            "Shadow Ball",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Sludge Wave",
+            "Spite",
+            "Substitute",
+            "Tera Blast",
+            "Toxic",
+            "Venoshock",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Double Team",
+            "Facade",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Take Down"
+        ],
+        "tutor": [],
+        "egg": [],
+        "level1_g3_7": []
+    }
+}

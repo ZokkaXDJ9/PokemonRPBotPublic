@@ -1,0 +1,11 @@
+{
+  "name": "Grudge",
+  "type": "Ghost",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "Foe",
+  "effect": "If successful spend 1 Will point to activate. Each time the User receives damage from an attacking move by the Target, reduce their Will by 1. When this move is first used, the last move the Foe used is Disabled. Lasts 4 Rounds. The User can only begrudge one Foe at a time (subsequent uses Swap target and reset duration).",
+  "description": "The user used the last of it's energy to leave a grudge on the foe, draining the opponent's will to fight and inhibiting some of their abilities.",
+  "category": "Support"
+}

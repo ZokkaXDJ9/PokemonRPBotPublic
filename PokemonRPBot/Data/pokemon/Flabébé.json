@@ -1,0 +1,135 @@
+{
+    "number": 669,
+    "name": "Flabébé",
+    "types": [
+        "Fairy"
+    ],
+    "abilities": {
+        "normal": [
+            "Flower Veil"
+        ],
+        "hidden": [
+            "Symbiosis"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Fairy Wind",
+            "Lucky Chant",
+            "Safeguard",
+            "Tackle",
+            "Vine Whip"
+        ],
+        "silver": [
+            "Aromatherapy",
+            "Grassy Terrain",
+            "Magical Leaf",
+            "Petal Blizzard",
+            "Razor Leaf",
+            "Synthesis",
+            "Wish"
+        ],
+        "gold": [
+            "Misty Terrain",
+            "Moonblast",
+            "Petal Dance",
+            "Solar Beam"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Alluring Voice",
+            "Attract",
+            "Baton Pass",
+            "Calm Mind",
+            "Charm",
+            "Chilling Water",
+            "Confide",
+            "Dazzling Gleam",
+            "Disarming Voice",
+            "Double Team",
+            "Draining Kiss",
+            "Echoed Voice",
+            "Endeavor",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Flash",
+            "Frustration",
+            "Giga Drain",
+            "Grass Knot",
+            "Grassy Terrain",
+            "Helping Hand",
+            "Hidden Power",
+            "Light Screen",
+            "Magical Leaf",
+            "Misty Terrain",
+            "Nature Power",
+            "Petal Blizzard",
+            "Pollen Puff",
+            "Protect",
+            "Psychic",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Solar Beam",
+            "Stored Power",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Tera Blast",
+            "Toxic",
+            "Trailblaze",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Take Down"
+        ],
+        "tutor": [
+            "After You",
+            "Ally Switch",
+            "Covet",
+            "Endeavor",
+            "Giga Drain",
+            "Heal Bell",
+            "Helping Hand",
+            "Magic Coat",
+            "Seed Bomb",
+            "Snore",
+            "Synthesis",
+            "Tackle",
+            "Vine Whip",
+            "Worry Seed"
+        ],
+        "egg": [
+            "Camouflage",
+            "Captivate",
+            "Copycat",
+            "Endeavor",
+            "Tearful Look"
+        ],
+        "level1_g3_7": [
+            "Tackle",
+            "Vine Whip"
+        ]
+    }
+}

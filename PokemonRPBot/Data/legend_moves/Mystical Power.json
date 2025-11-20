@@ -1,0 +1,11 @@
+{
+    "name": "Mystical Power",
+    "type": "Psychic",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Increase the user's Strength and Special. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, on the second use of this move, increase the user's Defense and Special defense.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, on the third use of this move, increase the user's Strength and Special a second, stacking time.",
+    "description": "A mysterious power of the soul is unleashed from the user. This power increases the user's psychic capabilities.",
+    "category": "Special"
+}

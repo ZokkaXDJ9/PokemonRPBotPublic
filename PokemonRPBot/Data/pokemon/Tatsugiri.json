@@ -1,0 +1,103 @@
+{
+    "number": 978,
+    "name": "Tatsugiri",
+    "types": [
+        "Dragon",
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Commander"
+        ],
+        "hidden": [
+            "Storm Drain"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "2/5",
+    "vitality": "2/4",
+    "special": "3/7",
+    "insight": "3/6",
+    "moves": {
+        "bronze": [
+            "Harden",
+            "Splash",
+            "Water Gun"
+        ],
+        "silver": [
+            "Helping Hand",
+            "Soak",
+            "Taunt",
+            "Water Pulse"
+        ],
+        "gold": [
+            "Dragon Pulse",
+            "Memento",
+            "Mirror Coat",
+            "Muddy Water",
+            "Nasty Plot"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Baton Pass",
+            "Chilling Water",
+            "Draco Meteor",
+            "Dragon Cheer",
+            "Dragon Dance",
+            "Dragon Pulse",
+            "Endure",
+            "Facade",
+            "Giga Impact",
+            "Helping Hand",
+            "Hydro Pump",
+            "Hyper Beam",
+            "Icy Wind",
+            "Lunge",
+            "Muddy Water",
+            "Nasty Plot",
+            "Outrage",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Sleep Talk",
+            "Substitute",
+            "Surf",
+            "Take Down",
+            "Taunt",
+            "Tera Blast",
+            "Water Pulse",
+            "Whirlpool",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Bubble",
+            "Dragon Rage",
+            "Lucky Chant",
+            "Me First",
+            "Refresh",
+            "Signal Beam",
+            "Snatch",
+            "Water Sport",
+            "Laser Focus"
+        ],
+        "tutor": [],
+        "egg": [],
+        "level1_g3_7": []
+    }
+}

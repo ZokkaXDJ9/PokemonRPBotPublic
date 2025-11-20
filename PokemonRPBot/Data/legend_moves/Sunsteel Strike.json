@@ -1,0 +1,11 @@
+{
+    "name": "Sunsteel Strike",
+    "type": "Steel",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "This move's damage can't be affected by Shield- and Screen Moves. \n At Silver Rank, increase this move's power to 6.\n At Gold Rank, change this move's accuracy to Strength.\n At Platinum Rank, increase this move's power to 9.\n At Diamond Rank, this move can't be Dodged.",
+    "description": "You suddenly stop in your tracks as you see a bright and blinding light coming towards you at great speed. You did not see what hit you and then it's all darkness.",
+    "category": "Physical"
+}

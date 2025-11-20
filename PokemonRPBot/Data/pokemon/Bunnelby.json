@@ -1,0 +1,134 @@
+{
+    "number": 659,
+    "name": "Bunnelby",
+    "types": [
+        "Normal"
+    ],
+    "abilities": {
+        "normal": [
+            "Pickup",
+            "Cheek Pouch"
+        ],
+        "hidden": [
+            "Huge Power"
+        ]
+    },
+    "base_hp": 2,
+    "strength": "1/3",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Double Slap",
+            "Laser Focus",
+            "Leer",
+            "Mud-Slap",
+            "Quick Attack",
+            "Tackle"
+        ],
+        "silver": [
+            "Bounce",
+            "Bulldoze",
+            "Dig",
+            "Double Kick",
+            "Flail",
+            "Mud Shot",
+            "Odor Sleuth",
+            "Swords Dance",
+            "Take Down"
+        ],
+        "gold": [
+            "Earthquake",
+            "Facade",
+            "Super Fang"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Attract",
+            "Bounce",
+            "Brick Break",
+            "Bulk Up",
+            "Bulldoze",
+            "Confide",
+            "Cut",
+            "Dig",
+            "Double Team",
+            "Earthquake",
+            "Endure",
+            "Facade",
+            "Fling",
+            "Frustration",
+            "Grass Knot",
+            "Hidden Power",
+            "Iron Head",
+            "Iron Tail",
+            "Mud Shot",
+            "Nature Power",
+            "Payback",
+            "Power-Up Punch",
+            "Protect",
+            "Rest",
+            "Return",
+            "Rock Slide",
+            "Rock Smash",
+            "Rock Tomb",
+            "Round",
+            "Sandstorm",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Smack Down",
+            "Snore",
+            "Spikes",
+            "Stone Edge",
+            "Strength",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Swords Dance",
+            "Thief",
+            "Torment",
+            "Toxic",
+            "U-turn",
+            "Wild Charge",
+            "Work Up",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Agility",
+            "Bounce",
+            "Endeavor",
+            "Iron Head",
+            "Iron Tail",
+            "Last Resort",
+            "Leer",
+            "Recycle",
+            "Snore",
+            "Super Fang",
+            "Tackle"
+        ],
+        "egg": [
+            "Defense Curl",
+            "Rollout",
+            "Spikes"
+        ],
+        "level1_g3_7": [
+            "Agility",
+            "Leer",
+            "Tackle"
+        ]
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "number": 975,
+    "name": "Cetitan",
+    "types": [
+        "Ice"
+    ],
+    "abilities": {
+        "normal": [
+            "Thick Fat",
+            "Slush Rush"
+        ],
+        "hidden": [
+            "Sheer Force"
+        ]
+    },
+    "base_hp": 9,
+    "strength": "3/7",
+    "dexterity": "2/5",
+    "vitality": "2/4",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Echoed Voice",
+            "Growl",
+            "Powder Snow",
+            "Tackle"
+        ],
+        "silver": [
+            "Avalanche",
+            "Bounce",
+            "Flail",
+            "Ice Shard",
+            "Rest",
+            "Take Down"
+        ],
+        "gold": [
+            "Amnesia",
+            "Blizzard",
+            "Body Slam",
+            "Double-Edge",
+            "Ice Spinner"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Amnesia",
+            "Avalanche",
+            "Blizzard",
+            "Body Press",
+            "Body Slam",
+            "Bulldoze",
+            "Charm",
+            "Chilling Water",
+            "Curse",
+            "Double-Edge",
+            "Earthquake",
+            "Endure",
+            "Facade",
+            "Giga Impact",
+            "Hard Press",
+            "Heavy Slam",
+            "Helping Hand",
+            "High Horsepower",
+            "Hyper Beam",
+            "Hyper Voice",
+            "Ice Beam",
+            "Ice Fang",
+            "Ice Punch",
+            "Ice Spinner",
+            "Icicle Spear",
+            "Icy Wind",
+            "Knock Off",
+            "Liquidation",
+            "Play Rough",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Sleep Talk",
+            "Snowscape",
+            "Stomping Tantrum",
+            "Substitute",
+            "Take Down",
+            "Tera Blast",
+            "Water Pulse",
+            "Agility",
+            "Attract",
+            "Confide",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Captivate",
+            "Chip Away",
+            "Ice Ball",
+            "Rage",
+            "Rock Climb",
+            "Sharpen",
+            "Steamroller"
+        ],
+        "tutor": [],
+        "egg": [
+            "Belly Drum",
+            "Entrainment",
+            "Icicle Crash",
+            "Superpower",
+            "Yawn"
+        ],
+        "level1_g3_7": []
+    }
+}

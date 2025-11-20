@@ -1,0 +1,12 @@
+{
+  "name": "Z-Lifebringer's Mercy",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "One Ally",
+  "effect": "Heal 5 HP at the end of this and the next two rounds. Reduces the  damage the target takes from any sources by 1, after damage calculations, while this effect is active.",
+  "description": "Amica utters a desperate prayer to Xerneas, the Lifebringer, to protect and assist one of her allies she vowed to keep safe.",
+  "og_move": "Wish",
+  "category": "Support"
+}

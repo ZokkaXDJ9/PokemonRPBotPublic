@@ -1,0 +1,11 @@
+{
+    "name": "Shadow Force",
+    "type": "Ghost",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Charge Move. During the charge turn, a random ally can take a bonus turn instead \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, you get to choose which ally gets the bonus turn instead.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move gains High Critical and Inflicts Wounds.",
+    "description": "The Pokemon disappears into a dark dimension to strike its foe at the next opportunity. The blow will hurt the target not on their body but directly on their soul.",
+    "category": "Physical"
+}

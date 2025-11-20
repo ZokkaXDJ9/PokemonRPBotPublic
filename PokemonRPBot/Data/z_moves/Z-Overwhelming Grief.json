@@ -1,0 +1,12 @@
+{
+  "name": "Z-Overwhelming Grief",
+  "type": "Dark",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "Foe",
+  "effect": "The user faints. Reduce foe's Strength. Dexterity. Special. Defense and Sp. Defense by 2. Inflicts Drowsy.  Inflicts Paralysis. Lasts for a whole scene. Roll 3 Chance dice to Flinch the foe.",
+  "description": "Octavius pierces the foe with one of his golden tendrils, filling their mind with an overwhelming barrage of images of his own death and downfall, leaving them in a state of overwhelming grief and depression.",
+  "og_move": "Memento",
+  "category": "Support"
+}

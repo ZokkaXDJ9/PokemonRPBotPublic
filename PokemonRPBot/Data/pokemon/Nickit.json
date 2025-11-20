@@ -1,0 +1,110 @@
+{
+    "number": 827,
+    "name": "Nickit",
+    "types": [
+        "Dark"
+    ],
+    "abilities": {
+        "normal": [
+            "Run Away",
+            "Unburden"
+        ],
+        "hidden": [
+            "Stakeout"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/2",
+    "dexterity": "2/4",
+    "vitality": "1/2",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Beat Up",
+            "Hone Claws",
+            "Quick Attack",
+            "Tail Whip"
+        ],
+        "silver": [
+            "Assurance",
+            "Nasty Plot",
+            "Night Slash",
+            "Snarl",
+            "Sucker Punch",
+            "Tail Slap"
+        ],
+        "gold": [
+            "Foul Play"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Assurance",
+            "Attract",
+            "Baton Pass",
+            "Beat Up",
+            "Dig",
+            "Endure",
+            "Facade",
+            "Fake Tears",
+            "Foul Play",
+            "Mud Shot",
+            "Nasty Plot",
+            "Play Rough",
+            "Protect",
+            "Rest",
+            "Round",
+            "Screech",
+            "Sleep Talk",
+            "Snarl",
+            "Snore",
+            "Substitute",
+            "Swift",
+            "Tail Slap",
+            "Taunt",
+            "Thief",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Assist",
+            "Camouflage",
+            "Captivate",
+            "Double Slap",
+            "Embargo",
+            "Feint Attack",
+            "Foresight",
+            "Me First",
+            "Odor Sleuth",
+            "Punishment",
+            "Pursuit",
+            "Rock Climb",
+            "Snatch",
+            "Wake-Up Slap"
+        ],
+        "tutor": [
+            "Lash Out"
+        ],
+        "egg": [
+            "Howl",
+            "Knock Off",
+            "Quick Guard",
+            "Torment"
+        ],
+        "level1_g3_7": []
+    }
+}

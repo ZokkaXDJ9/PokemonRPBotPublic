@@ -1,0 +1,127 @@
+{
+    "number": 859,
+    "name": "Impidimp",
+    "types": [
+        "Dark",
+        "Fairy"
+    ],
+    "abilities": {
+        "normal": [
+            "Prankster",
+            "Frisk"
+        ],
+        "hidden": [
+            "Pickpocket"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "2/4",
+    "vitality": "1/2",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Bite",
+            "Confide",
+            "Fake Out",
+            "Flatter"
+        ],
+        "silver": [
+            "Assurance",
+            "Dark Pulse",
+            "Fake Tears",
+            "Sucker Punch",
+            "Swagger",
+            "Torment"
+        ],
+        "gold": [
+            "Foul Play",
+            "Nasty Plot",
+            "Play Rough"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Assurance",
+            "Attract",
+            "Burning Jealousy",
+            "Chilling Water",
+            "Dark Pulse",
+            "Dazzling Gleam",
+            "Drain Punch",
+            "Draining Kiss",
+            "Endure",
+            "Facade",
+            "Fake Tears",
+            "Fling",
+            "Foul Play",
+            "Lash Out",
+            "Leech Life",
+            "Light Screen",
+            "Low Kick",
+            "Mega Kick",
+            "Mega Punch",
+            "Metronome",
+            "Misty Terrain",
+            "Nasty Plot",
+            "Play Rough",
+            "Protect",
+            "Reflect",
+            "Rest",
+            "Retaliate",
+            "Revenge",
+            "Round",
+            "Scary Face",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Take Down",
+            "Taunt",
+            "Tera Blast",
+            "Thief",
+            "Throat Chop",
+            "Thunder Wave",
+            "Trailblaze",
+            "Trick",
+            "Uproar",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Assist",
+            "Camouflage",
+            "Captivate",
+            "Chip Away",
+            "Double Slap",
+            "Embargo",
+            "Flash",
+            "Lucky Chant",
+            "Nightmare",
+            "Punishment",
+            "Pursuit",
+            "Signal Beam",
+            "Smelling Salts",
+            "Snatch",
+            "Synchronoise"
+        ],
+        "tutor": [
+            "Burning Jealousy",
+            "Lash Out"
+        ],
+        "egg": [
+            "Parting Shot"
+        ],
+        "level1_g3_7": []
+    }
+}

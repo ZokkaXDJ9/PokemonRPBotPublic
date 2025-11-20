@@ -1,0 +1,11 @@
+{
+    "name": "Tera Starstorm",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "If used by a Pokemon that is Steller type, this move becomes Stellar type. \n At Silver Rank, increase this move's power to 5.\n At Gold Rank, if the User is Stellar type, add 2 additional dice to this Move's damage pool.\n At Platinum Rank, increase this move's power to 7.\n At Diamond Rank, if the User is Stellar Type, this move can hit an additional target. Roll Accuracy and Damage separately for both targets as if you were using a Double Action Move.",
+    "description": "The pokemon uses the awesome power of terastalization to fire a colorless beam of energy at the foe. The beam is spread if the pokemon is Stellar.",
+    "category": "Special"
+}

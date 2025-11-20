@@ -1,0 +1,142 @@
+{
+    "number": 541,
+    "name": "Swadloon",
+    "types": [
+        "Bug",
+        "Grass"
+    ],
+    "abilities": {
+        "normal": [
+            "Leaf Guard",
+            "Chlorophyll"
+        ],
+        "hidden": [
+            "Overcoat"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "3/6",
+    "special": "1/3",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Bug Bite",
+            "Razor Leaf",
+            "String Shot",
+            "Tackle"
+        ],
+        "silver": [
+            "Endure",
+            "Protect",
+            "Sticky Web",
+            "Struggle Bug"
+        ],
+        "gold": [
+            "Bug Buzz",
+            "Flail"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Baton Pass",
+            "Bug Bite",
+            "Bug Buzz",
+            "Calm Mind",
+            "Charm",
+            "Confide",
+            "Cut",
+            "Double Team",
+            "Dream Eater",
+            "Electroweb",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Flash",
+            "Frustration",
+            "Giga Drain",
+            "Grass Knot",
+            "Grassy Glide",
+            "Grassy Terrain",
+            "Hidden Power",
+            "Iron Defense",
+            "Light Screen",
+            "Lunge",
+            "Magical Leaf",
+            "Nature Power",
+            "Payback",
+            "Pounce",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Seed Bomb",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Solar Beam",
+            "Struggle Bug",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Take Down",
+            "Tera Blast",
+            "Toxic",
+            "Trailblaze",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Bug Bite",
+            "Electroweb",
+            "Giga Drain",
+            "Grass Whistle",
+            "GrassWhistle",
+            "Iron Defense",
+            "Magic Coat",
+            "Protect",
+            "Razor Leaf",
+            "Seed Bomb",
+            "Signal Beam",
+            "Sleep Talk",
+            "Snore",
+            "String Shot",
+            "Synthesis",
+            "Tackle",
+            "Worry Seed"
+        ],
+        "egg": [
+            "Agility",
+            "Air Slash",
+            "Baton Pass",
+            "Camouflage",
+            "Grassy Terrain",
+            "Me First",
+            "Mind Reader",
+            "Razor Wind",
+            "Screech",
+            "Silver Wind"
+        ],
+        "level1_g3_7": [
+            "Bug Bite",
+            "GrassWhistle",
+            "Razor Leaf",
+            "String Shot",
+            "Tackle",
+            "Grass Whistle",
+            "Protect"
+        ]
+    }
+}

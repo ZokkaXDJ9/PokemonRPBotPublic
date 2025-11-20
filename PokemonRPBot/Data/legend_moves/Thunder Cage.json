@@ -1,0 +1,11 @@
+{
+    "name": "Thunder Cage",
+    "type": "Electric",
+    "power": 1,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Blocks. Deal 1 Electric type damage at the end of each Round. Lasts 4 Rounds. -1 Accuracy. \n At Silver Rank, increase this move's base power to 2.\n At Gold Rank, this move's power is increased by an additional 3, while the user is above 50% HP.\n At Platinum Rank, increase this move's base power to 3.\n At Diamond Rank, increase the end of round damage by 1.",
+    "description": "The Pok\u00e9mon summons a cage of electricity around its foe. The foe should be careful not to touch the sides, or get a very painful shock.",
+    "category": "Special"
+}

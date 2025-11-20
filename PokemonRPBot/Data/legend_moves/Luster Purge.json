@@ -1,0 +1,11 @@
+{
+    "name": "Luster Purge",
+    "type": "Psychic",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Reduce the target's Special Defense. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, this also move reduces the target's Special.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move's stat reductions stack on repeated usage against the same target.",
+    "description": "The user engulfs itself in a blinding light and shoots a beam at its foe. This light leaves the foe powerless to resist against anyone.",
+    "category": "Special"
+}

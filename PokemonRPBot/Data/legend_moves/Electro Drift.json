@@ -1,0 +1,11 @@
+{
+    "name": "Electro Drift",
+    "type": "Electric",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "If this move is super effective on the target, add 2 dice to the Damage Pool. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, this move inflicts wounds if it is super effective on the target. Increase the conditional damage to 4 dice.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, the user may use Special for Accuracy on this move. Increase the conditional damage to 6 dice.",
+    "description": "The Pok\u00e9mon races forward at ultrafast speeds, piercing its target with futuristic electricity. This electricty hurts certain pokemon much more than usual.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Frigid Spout",
+    "type": "Water",
+    "power": 1,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Double Action. \n At Silver Rank, increase this move's power to 2.\n At Gold Rank, this move inflicts Frostbite if both attacks hit.\n At Platinum Rank, increase this move's power to 3.\n At Diamond Rank, this move becomes Triple Action instead.",
+    "description": "Suicune unleashes blasts of ice-cold water that may leave frostbite",
+    "category": "Special"
+}

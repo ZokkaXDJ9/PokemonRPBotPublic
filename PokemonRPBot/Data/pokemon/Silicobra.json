@@ -1,0 +1,118 @@
+{
+    "number": 843,
+    "name": "Silicobra",
+    "types": [
+        "Ground"
+    ],
+    "abilities": {
+        "normal": [
+            "Sand Spit",
+            "Shed Skin"
+        ],
+        "hidden": [
+            "Sand Veil"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "2/5",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Brutal Swing",
+            "Minimize",
+            "Sand Attack",
+            "Wrap"
+        ],
+        "silver": [
+            "Bulldoze",
+            "Dig",
+            "Glare",
+            "Headbutt"
+        ],
+        "gold": [
+            "Coil",
+            "Sand Tomb",
+            "Sandstorm",
+            "Slam"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Body Slam",
+            "Brutal Swing",
+            "Bulldoze",
+            "Dig",
+            "Drill Run",
+            "Earth Power",
+            "Earthquake",
+            "Endure",
+            "Facade",
+            "Mud Shot",
+            "Mud-Slap",
+            "Poison Tail",
+            "Protect",
+            "Rest",
+            "Rock Blast",
+            "Rock Slide",
+            "Rock Tomb",
+            "Round",
+            "Sand Tomb",
+            "Sandstorm",
+            "Scale Shot",
+            "Scary Face",
+            "Scorching Sands",
+            "Screech",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Snore",
+            "Stealth Rock",
+            "Stone Edge",
+            "Substitute",
+            "Take Down",
+            "Tera Blast",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Camouflage",
+            "Constrict",
+            "Feint Attack",
+            "Magnitude",
+            "Mud Bomb",
+            "Mud Sport",
+            "Rock Climb",
+            "Steamroller",
+            "Wring Out"
+        ],
+        "tutor": [
+            "Scale Shot",
+            "Scorching Sands",
+            "Skitter Smack"
+        ],
+        "egg": [
+            "Belch",
+            "Dragon Rush",
+            "Last Resort",
+            "Mud-Slap",
+            "Poison Tail"
+        ],
+        "level1_g3_7": []
+    }
+}

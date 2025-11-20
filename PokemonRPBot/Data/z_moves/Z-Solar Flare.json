@@ -1,0 +1,12 @@
+{
+  "name": "Z-Solar Flare",
+  "type": "Fire",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality/Insight",
+  "target": "Battlefield",
+  "effect": "Sunny Weather is activated for the next 5 Rounds. Increase the User's Strength by 3.",
+  "description": "Autumn focuses herself to cause a massive burst of solar energy around her.",
+  "og_move": "Sunny Day",
+  "category": "Support"
+}

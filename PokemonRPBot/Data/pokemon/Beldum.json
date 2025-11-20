@@ -1,0 +1,74 @@
+{
+    "number": 374,
+    "name": "Beldum",
+    "types": [
+        "Steel",
+        "Psychic"
+    ],
+    "abilities": {
+        "normal": [
+            "Clear Body"
+        ],
+        "hidden": [
+            "Light Metal"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "1/2",
+    "vitality": "2/5",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Tackle"
+        ],
+        "silver": [],
+        "gold": [],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Iron Defense",
+            "Iron Head",
+            "Normal",
+            "Steel Beam",
+            "Take Down",
+            "Tera Blast",
+            "Zen Headbutt",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Protect",
+            "Rest",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Sleep Talk",
+            "Snore",
+            "Splash",
+            "Substitute",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Iron Defense",
+            "Iron Head",
+            "Take Down",
+            "Zen Headbutt"
+        ],
+        "egg": [],
+        "level1_g3_7": [
+            "Take Down"
+        ]
+    }
+}

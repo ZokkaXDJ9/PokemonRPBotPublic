@@ -1,0 +1,12 @@
+{
+    "name": "Z-Let it Snowy",
+    "type": "Ice",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Wind Based. This move cause Frostbite. Roll Flinch 3 chance dices against the foe. If performed under Hail Weather or Snow Weather, Ignore this move's Reduced Accuracy and gain Never Fail. If performed under Sunny Weather Accuracy becomes -3 instead. -2 Accuracy. Special rises by 2.",
+    "description": "This blizzard may not last long, but it turns the land into a snowy wonderland. Let it freeze, let it be cold... we will build a snowman!",
+    "og_move": "Blizzard",
+    "category": "Special"
+}

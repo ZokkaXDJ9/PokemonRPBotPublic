@@ -1,0 +1,130 @@
+{
+    "number": 844,
+    "name": "Sandaconda",
+    "types": [
+        "Ground"
+    ],
+    "abilities": {
+        "normal": [
+            "Sand Spit",
+            "Shed Skin"
+        ],
+        "hidden": [
+            "Sand Veil"
+        ]
+    },
+    "base_hp": 5,
+    "strength": "3/6",
+    "dexterity": "2/5",
+    "vitality": "3/7",
+    "special": "2/4",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Brutal Swing",
+            "Minimize",
+            "Sand Attack",
+            "Skull Bash",
+            "Wrap"
+        ],
+        "silver": [
+            "Bulldoze",
+            "Dig",
+            "Glare",
+            "Headbutt"
+        ],
+        "gold": [
+            "Coil",
+            "Sand Tomb",
+            "Sandstorm",
+            "Slam"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Body Press",
+            "Body Slam",
+            "Brutal Swing",
+            "Bulldoze",
+            "Dig",
+            "Drill Run",
+            "Earth Power",
+            "Earthquake",
+            "Endeavor",
+            "Endure",
+            "Facade",
+            "Fire Fang",
+            "Giga Impact",
+            "High Horsepower",
+            "Hurricane",
+            "Hyper Beam",
+            "Iron Defense",
+            "Iron Head",
+            "Mud Shot",
+            "Mud-Slap",
+            "Outrage",
+            "Poison Tail",
+            "Protect",
+            "Rest",
+            "Rock Blast",
+            "Rock Slide",
+            "Rock Tomb",
+            "Round",
+            "Sand Tomb",
+            "Sandstorm",
+            "Scale Shot",
+            "Scary Face",
+            "Scorching Sands",
+            "Screech",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Snore",
+            "Stealth Rock",
+            "Stone Edge",
+            "Substitute",
+            "Take Down",
+            "Tera Blast",
+            "Thunder Fang",
+            "Zen Headbutt",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Camouflage",
+            "Constrict",
+            "Feint Attack",
+            "Magnitude",
+            "Mud Bomb",
+            "Mud Sport",
+            "Rock Climb",
+            "Steamroller",
+            "Wring Out"
+        ],
+        "tutor": [
+            "Scale Shot",
+            "Scorching Sands",
+            "Skitter Smack"
+        ],
+        "egg": [
+            "Belch",
+            "Dragon Rush",
+            "Last Resort",
+            "Mud-Slap",
+            "Poison Tail"
+        ],
+        "level1_g3_7": []
+    }
+}

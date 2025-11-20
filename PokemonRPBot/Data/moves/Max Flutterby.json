@@ -1,0 +1,11 @@
+{
+  "name": "Max Flutterby",
+  "type": "Bug",
+  "damage": "Strength / Special + Original",
+  "power": 2,
+  "accuracy": "Original Move",
+  "target": "Foe",
+  "effect": "This move replaces all bug type moves when Dynamaxed. Deals the base move's damage + 2 to a single enemy and reduces all opponents Special by 1.",
+  "description": "A super-sized attack that has the Dynamaxed Pokemon summon a swarm of insects to infest the foe.",
+  "category": "Physical/Special"
+}

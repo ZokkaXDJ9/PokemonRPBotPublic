@@ -1,0 +1,121 @@
+{
+    "number": 946,
+    "name": "Bramblin",
+    "types": [
+        "Grass",
+        "Ghost"
+    ],
+    "abilities": {
+        "normal": [
+            "Wind Rider"
+        ],
+        "hidden": [
+            "Infiltrator"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Absorb",
+            "Astonish",
+            "Defense Curl",
+            "Rapid Spin",
+            "Rollout"
+        ],
+        "silver": [
+            "Bullet Seed",
+            "Disable",
+            "Hex",
+            "Infestation",
+            "Mega Drain"
+        ],
+        "gold": [
+            "Curse",
+            "Giga Drain",
+            "Pain Split",
+            "Phantom Force",
+            "Power Whip"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Bullet Seed",
+            "Confuse Ray",
+            "Curse",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Giga Drain",
+            "Grass Knot",
+            "Grassy Glide",
+            "Grassy Terrain",
+            "Hex",
+            "Leaf Storm",
+            "Night Shade",
+            "Pain Split",
+            "Phantom Force",
+            "Poltergeist",
+            "Pounce",
+            "Protect",
+            "Rest",
+            "Scary Face",
+            "Seed Bomb",
+            "Shadow Ball",
+            "Sleep Talk",
+            "Solar Beam",
+            "Spikes",
+            "Spite",
+            "Substitute",
+            "Tera Blast",
+            "Thief",
+            "Trailblaze",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Embargo",
+            "Flash",
+            "Grass Whistle",
+            "Natural Gift",
+            "Needle Arm",
+            "Ominous Wind",
+            "Pursuit",
+            "Rototiller",
+            "Signal Beam",
+            "Snatch",
+            "Wring Out",
+            "Grudge",
+            "Leaf Tornado",
+            "Nature Power"
+        ],
+        "tutor": [],
+        "egg": [
+            "Beat Up",
+            "Block",
+            "Leech Seed",
+            "Shadow Sneak",
+            "Strength Sap"
+        ],
+        "level1_g3_7": []
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Gulp Missile",
+  "description": "This Pokemon is an excellent hunter, when diving into a pool of water it will always come out with prey. And it will sometimes use the prey as a weapon.",
+  "effect": "If this Pokemon uses the Moves Surf or Dive, it will ready a \u201cmissile\u201c. If the Pokemon is dealt damage by a foe while readied fire the \u201cmissile\u201c and deal 2 Dice of Damage and lower the foe's Defense or Inflict Paralysis (chosen randomly). Only one projectile may be loaded at a time. This Ability cannot be copied, replaced or suppressed (ignoring the effects of Skill Swap, Worry Seed, Gastro Acid, Trace etc.)"
+}

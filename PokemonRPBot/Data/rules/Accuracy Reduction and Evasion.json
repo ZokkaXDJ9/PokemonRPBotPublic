@@ -1,0 +1,6 @@
+{
+  "name": "Accuracy Reduction and Evasion",
+  "flavor": "Got a little bit of dirt in your eye?",
+  "text": "- Characters with Accuracy Stat Changes roll the same number of Accuracy Dice and add or subtract successes accordingly (subject to the standard +/-3 limit to stat changes).\n- Evasion Stat changes on the User confers a similar bonus/penalty for Foes targeting the character. Foes targeting a character with a positive Evasion Stat Change subtract successes from their accuracy roll (or adds successes if the target has a negative Evasion Stat Change).\n- Characters with positive Evasion Stat Changes may spend 1 point to perform the Dodge action against an incoming move.",
+  "example": ""
+}

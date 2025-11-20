@@ -1,0 +1,113 @@
+{
+    "number": 951,
+    "name": "Capsakid",
+    "types": [
+        "Grass"
+    ],
+    "abilities": {
+        "normal": [
+            "Chlorophyll",
+            "Insomnia"
+        ],
+        "hidden": [
+            "Klutz"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Bite",
+            "Growth",
+            "Leafage",
+            "Leer"
+        ],
+        "silver": [
+            "Bullet Seed",
+            "Headbutt",
+            "Razor Leaf",
+            "Sunny Day",
+            "Zen Headbutt"
+        ],
+        "gold": [
+            "Crunch",
+            "Seed Bomb",
+            "Solar Beam"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Bullet Seed",
+            "Crunch",
+            "Endeavor",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Giga Drain",
+            "Grass Knot",
+            "Grassy Glide",
+            "Grassy Terrain",
+            "Helping Hand",
+            "Leaf Storm",
+            "Magical Leaf",
+            "Protect",
+            "Rest",
+            "Sandstorm",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Solar Beam",
+            "Stomping Tantrum",
+            "Substitute",
+            "Sunny Day",
+            "Super Fang",
+            "Take Down",
+            "Tera Blast",
+            "Thief",
+            "Trailblaze",
+            "Zen Headbutt",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Dragon Rage",
+            "Flame Burst",
+            "Grass Whistle",
+            "Natural Gift",
+            "Needle Arm",
+            "Pursuit",
+            "Rage",
+            "Aromatherapy",
+            "Laser Focus",
+            "Leaf Tornado",
+            "Nature Power"
+        ],
+        "tutor": [],
+        "egg": [
+            "Ingrain",
+            "Leech Seed",
+            "Rage Powder",
+            "Rollout",
+            "Worry Seed"
+        ],
+        "level1_g3_7": []
+    }
+}

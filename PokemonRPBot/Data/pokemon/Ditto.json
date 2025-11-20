@@ -1,0 +1,67 @@
+{
+    "number": 132,
+    "name": "Ditto",
+    "types": [
+        "Normal"
+    ],
+    "abilities": {
+        "normal": [
+            "Limber"
+        ],
+        "hidden": [
+            "Imposter"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Transform"
+        ],
+        "silver": [],
+        "gold": [],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Transform",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Protect",
+            "Rest",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Sleep Talk",
+            "Snore",
+            "Splash",
+            "Substitute",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Transform"
+        ],
+        "egg": [],
+        "level1_g3_7": [
+            "Transform"
+        ]
+    }
+}

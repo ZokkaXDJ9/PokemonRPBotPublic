@@ -1,0 +1,12 @@
+{
+  "name": "Z-Mugen Onsa",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Clever",
+  "target": "Foe",
+  "effect": "Reduce the foe's Defense by 2. Inflicts Drowsy and Confused. Sound Based.",
+  "description": "Rather than a sharp noise to disrupt the target, this technique uses a haunting melody that induces hallucinations in its target, lowering their guard as they're forced to fight phantoms that do not exist.",
+  "og_move": "Screech",
+  "category": "Support"
+}

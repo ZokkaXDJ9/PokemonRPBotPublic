@@ -1,0 +1,131 @@
+{
+    "number": 726,
+    "name": "Torracat",
+    "types": [
+        "Fire"
+    ],
+    "abilities": {
+        "normal": [
+            "Blaze"
+        ],
+        "hidden": [
+            "Intimidate"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/5",
+    "dexterity": "2/5",
+    "vitality": "2/4",
+    "special": "2/5",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Ember",
+            "Growl",
+            "Lick",
+            "Roar",
+            "Scratch"
+        ],
+        "silver": [
+            "Bite",
+            "Double Kick",
+            "Fire Fang",
+            "Fury Swipes",
+            "Leer",
+            "Scary Face",
+            "Swagger"
+        ],
+        "gold": [
+            "Flamethrower",
+            "Flare Blitz",
+            "Outrage",
+            "Thrash"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Attract",
+            "Body Slam",
+            "Bulk Up",
+            "Confide",
+            "Crunch",
+            "Double Team",
+            "Double-Edge",
+            "Endeavor",
+            "Endure",
+            "Facade",
+            "Fire Blast",
+            "Fire Fang",
+            "Fire Pledge",
+            "Fire Spin",
+            "Flame Charge",
+            "Flamethrower",
+            "Flare Blitz",
+            "Frustration",
+            "Heat Wave",
+            "Helping Hand",
+            "Hidden Power",
+            "Leech Life",
+            "Nasty Plot",
+            "Outrage",
+            "Overheat",
+            "Pay Day",
+            "Protect",
+            "Rest",
+            "Return",
+            "Revenge",
+            "Roar",
+            "Round",
+            "Scary Face",
+            "Shadow Claw",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swords Dance",
+            "Take Down",
+            "Taunt",
+            "Temper Flare",
+            "Tera Blast",
+            "Torment",
+            "Toxic",
+            "Trailblaze",
+            "U-turn",
+            "Will-O-Wisp",
+            "Work Up",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Secret Power",
+            "Splash"
+        ],
+        "tutor": [
+            "Ember",
+            "Fire Pledge",
+            "Growl",
+            "Lick",
+            "Scratch"
+        ],
+        "egg": [
+            "Body Slam",
+            "Crunch",
+            "Fake Out",
+            "Heat Wave",
+            "Nasty Plot",
+            "Parting Shot",
+            "Power Trip",
+            "Revenge"
+        ],
+        "level1_g3_7": [
+            "Ember",
+            "Growl",
+            "Lick",
+            "Scratch"
+        ]
+    }
+}

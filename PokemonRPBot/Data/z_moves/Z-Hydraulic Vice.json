@@ -1,0 +1,12 @@
+{
+    "name": "Z-Hydraulic Vice",
+    "type": "Steel",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Roll 3 Chance Dice to Flinch the Foe. Inflicts 3 Typeless Damage every turn for 4 turns. Blocks user and makes all attacks targeting them unable to fail for the duration of the effect. Effect immediately ends if user faints.",
+    "description": "A brutal move where the user bites down on the target and absolutely refuses to let go, vibrating their metal teeth at a frequency that devastates the target continuously. However, remaining so close to an opponent has it's downsides...",
+    "og_move": "Iron Head",
+    "category": "Physical"
+}

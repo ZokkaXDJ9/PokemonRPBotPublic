@@ -1,0 +1,5 @@
+{
+  "name": "Flower Veil",
+  "description": "This Pokemon makes flowers grow in gardens and near other Pokemon to protect them from harm.",
+  "effect": "Grass typed Users and Allies are immune to negative Stat Changes from foe's moves and status conditions targeting them, as well as the Initiative change of Paralysis. This protection extends to the User and Allies regardless of type while under Grassy Terrain."
+}

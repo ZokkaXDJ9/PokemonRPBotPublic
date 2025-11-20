@@ -1,0 +1,12 @@
+{
+  "name": "Z-Area Discharge",
+  "type": "Electric",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Battlefield",
+  "effect": "The battlefield becomes Electric Terrain for 6 rounds, all Electric Attacks will deal 1 Extra Dice of Damage. Anyone on the ground will be cured from \"Drowsy\" Status. The User gains 3 dexterity",
+  "description": "With a massive amount of electricity that gets discharged into the area in every direction, the field is pulsating with electricity. Clouds get hit as well, as they turn dangerously grey. The electric environment charges the user and gives him more power.",
+  "og_move": "Electric Terrain",
+  "category": "Support"
+}

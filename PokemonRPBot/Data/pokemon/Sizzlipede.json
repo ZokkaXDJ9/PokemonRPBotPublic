@@ -1,0 +1,110 @@
+{
+    "number": 850,
+    "name": "Sizzlipede",
+    "types": [
+        "Fire",
+        "Bug"
+    ],
+    "abilities": {
+        "normal": [
+            "Flash Fire",
+            "White Smoke"
+        ],
+        "hidden": [
+            "Flame Body"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Bite",
+            "Ember",
+            "Smokescreen",
+            "Wrap"
+        ],
+        "silver": [
+            "Bug Bite",
+            "Coil",
+            "Flame Wheel",
+            "Slam"
+        ],
+        "gold": [
+            "Burn Up",
+            "Crunch",
+            "Fire Lash",
+            "Fire Spin",
+            "Lunge"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Brutal Swing",
+            "Bug Buzz",
+            "Crunch",
+            "Endure",
+            "Facade",
+            "Fire Spin",
+            "Heat Crash",
+            "Heat Wave",
+            "Leech Life",
+            "Power Whip",
+            "Protect",
+            "Rest",
+            "Round",
+            "Scald",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Sunny Day",
+            "Venoshock",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Bide",
+            "Constrict",
+            "Dragon Rage",
+            "Flame Burst",
+            "Flash",
+            "Foresight",
+            "Natural Gift",
+            "Rock Climb",
+            "Signal Beam",
+            "Silver Wind",
+            "Sonic Boom",
+            "Twineedle",
+            "Wring Out"
+        ],
+        "tutor": [
+            "Scorching Sands",
+            "Skitter Smack"
+        ],
+        "egg": [
+            "Defense Curl",
+            "Knock Off",
+            "Rollout",
+            "Struggle Bug"
+        ],
+        "level1_g3_7": []
+    }
+}

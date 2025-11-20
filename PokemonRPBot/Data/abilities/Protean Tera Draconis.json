@@ -1,0 +1,5 @@
+{
+  "name": "Protean Tera Draconis",
+  "description": "Vapid's Tera Staff allows him to quickly adapt the flow of his own energy to the type of whichever move he intends to perform next.",
+  "effect": "Whenever this Pokemon uses a move, first change its secondary type to that of the move. This can result in double Dragon typing. If the move is an attack and deals damage, use the appropriate STAB.\nTerastalization only affects this Pokemon's Primary Type, though the original Dragon STAB is not retained.\nTera Blast will be Stellar Type when used."
+}

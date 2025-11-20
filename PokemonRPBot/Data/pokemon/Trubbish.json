@@ -1,0 +1,131 @@
+{
+    "number": 568,
+    "name": "Trubbish",
+    "types": [
+        "Poison"
+    ],
+    "abilities": {
+        "normal": [
+            "Stench",
+            "Sticky Hold"
+        ],
+        "hidden": [
+            "Aftermath"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "2/4",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Acid Spray",
+            "Amnesia",
+            "Poison Gas",
+            "Pound",
+            "Recycle",
+            "Toxic Spikes"
+        ],
+        "silver": [
+            "Belch",
+            "Clear Smog",
+            "Double Slap",
+            "DoubleSlap",
+            "Sludge",
+            "Sludge Bomb",
+            "Stockpile",
+            "Swallow",
+            "Take Down",
+            "Toxic"
+        ],
+        "gold": [
+            "Explosion",
+            "Gunk Shot",
+            "Pain Split"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Dark Pulse",
+            "Double Team",
+            "Drain Punch",
+            "Endure",
+            "Explosion",
+            "Facade",
+            "Frustration",
+            "Giga Drain",
+            "Gunk Shot",
+            "Hidden Power",
+            "Infestation",
+            "Payback",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Rock Blast",
+            "Round",
+            "Seed Bomb",
+            "Self-Destruct",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Sludge Wave",
+            "Snore",
+            "Spikes",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Thief",
+            "Toxic",
+            "Toxic Spikes",
+            "Venom Drench",
+            "Venoshock",
+            "Agility",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Corrosive Gas",
+            "Dark Pulse",
+            "Drain Punch",
+            "Giga Drain",
+            "Gunk Shot",
+            "Pain Split",
+            "Poison Gas",
+            "Pound",
+            "Recycle",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Spite"
+        ],
+        "egg": [
+            "Autotomize",
+            "Curse",
+            "Haze",
+            "Mud Sport",
+            "Rock Blast",
+            "Rollout",
+            "Sand Attack",
+            "Self-Destruct",
+            "Spikes"
+        ],
+        "level1_g3_7": [
+            "Poison Gas",
+            "Pound"
+        ]
+    }
+}

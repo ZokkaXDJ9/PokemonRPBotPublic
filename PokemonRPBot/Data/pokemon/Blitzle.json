@@ -1,0 +1,129 @@
+{
+    "number": 522,
+    "name": "Blitzle",
+    "types": [
+        "Electric"
+    ],
+    "abilities": {
+        "normal": [
+            "Lightning Rod",
+            "Motor Drive"
+        ],
+        "hidden": [
+            "Sap Sipper"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "2/5",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Charge",
+            "Quick Attack",
+            "Tail Whip"
+        ],
+        "silver": [
+            "Agility",
+            "Discharge",
+            "Flame Charge",
+            "Pursuit",
+            "Shock Wave",
+            "Spark",
+            "Stomp",
+            "Thunder Wave"
+        ],
+        "gold": [
+            "Thrash",
+            "Wild Charge"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Attract",
+            "Baton Pass",
+            "Body Slam",
+            "Charge",
+            "Charge Beam",
+            "Confide",
+            "Double Team",
+            "Double-Edge",
+            "Eerie Impulse",
+            "Electric Terrain",
+            "Electro Ball",
+            "Electroweb",
+            "Endeavor",
+            "Endure",
+            "Facade",
+            "Flame Charge",
+            "Flash",
+            "Frustration",
+            "Helping Hand",
+            "Hidden Power",
+            "Light Screen",
+            "Low Kick",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Sleep Talk",
+            "Smart Strike",
+            "Substitute",
+            "Sunny Day",
+            "Supercell Slam",
+            "Swagger",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "Thunder",
+            "Thunder Wave",
+            "Thunderbolt",
+            "Toxic",
+            "Trailblaze",
+            "Uproar",
+            "Volt Switch",
+            "Wild Charge",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Bounce",
+            "Low Kick",
+            "Magnet Rise",
+            "Quick Attack",
+            "Shock Wave",
+            "Signal Beam",
+            "Sleep Talk",
+            "Snatch",
+            "Snore"
+        ],
+        "egg": [
+            "Double Kick",
+            "Double-Edge",
+            "Endure",
+            "Feint",
+            "Me First",
+            "Rage",
+            "Sand Attack",
+            "Screech",
+            "Shock Wave",
+            "Snatch",
+            "Take Down"
+        ],
+        "level1_g3_7": [
+            "Quick Attack"
+        ]
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "number": 814,
+    "name": "Raboot",
+    "types": [
+        "Fire"
+    ],
+    "abilities": {
+        "normal": [
+            "Blaze"
+        ],
+        "hidden": [
+            "Libero"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/5",
+    "dexterity": "3/6",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Ember",
+            "Growl",
+            "Quick Attack",
+            "Tackle"
+        ],
+        "silver": [
+            "Agility",
+            "Double Kick",
+            "Flame Charge",
+            "Headbutt"
+        ],
+        "gold": [
+            "Bounce",
+            "Counter",
+            "Double-Edge"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Agility",
+            "Ally Switch",
+            "Assurance",
+            "Attract",
+            "Baton Pass",
+            "Blaze Kick",
+            "Bounce",
+            "Bulk Up",
+            "Burning Jealousy",
+            "Captivate",
+            "Double-Edge",
+            "Electro Ball",
+            "Embargo",
+            "Endure",
+            "Facade",
+            "Fire Blast",
+            "Fire Fang",
+            "Fire Pledge",
+            "Fire Spin",
+            "Flame Burst",
+            "Flame Charge",
+            "Flamethrower",
+            "Flare Blitz",
+            "Focus Energy",
+            "Gunk Shot",
+            "Heat Wave",
+            "Helping Hand",
+            "Low Kick",
+            "Low Sweep",
+            "Lucky Chant",
+            "Mega Kick",
+            "Mud Shot",
+            "Overheat",
+            "Protect",
+            "Pursuit",
+            "Rest",
+            "Reversal",
+            "Rock Climb",
+            "Round",
+            "Sleep Talk",
+            "Snatch",
+            "Snore",
+            "Substitute",
+            "Sunny Day",
+            "Super Fang",
+            "Swift",
+            "Swords Dance",
+            "Take Down",
+            "Taunt",
+            "Temper Flare",
+            "Tera Blast",
+            "Trailblaze",
+            "U-turn",
+            "Weather Ball",
+            "Work Up",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash"
+        ],
+        "tutor": [],
+        "egg": [
+            "High Jump Kick",
+            "Sand Attack",
+            "Sucker Punch",
+            "Super Fang"
+        ],
+        "level1_g3_7": []
+    }
+}

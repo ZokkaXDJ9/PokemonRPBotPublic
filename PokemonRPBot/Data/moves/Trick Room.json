@@ -1,0 +1,11 @@
+{
+  "name": "Trick Room",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Battlefield",
+  "effect": "Low Priority 7. Invert the order of Initiative. Lasts 4 Rounds.",
+  "description": "This reality altering move can manipulate time, so slow creatures are fast, and fast creatures are slow.",
+  "category": "Support"
+}

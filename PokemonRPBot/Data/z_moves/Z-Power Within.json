@@ -1,0 +1,12 @@
+{
+  "name": "Z-Power Within",
+  "type": "Normal",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Increase the Users Strength by 2. If the Target's weight is 200kgs or greater, Increase the User's Strength by 3, instead. Flinches the target.",
+  "description": "Using the power of a Z-Crystal, Lennoth strains his muscles to go above and beyond physical limitations. He's able to maintain this strain for a short amount of time.",
+  "og_move": "Strength",
+  "category": "Physical"
+}

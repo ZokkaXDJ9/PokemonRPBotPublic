@@ -1,0 +1,113 @@
+{
+    "number": 746,
+    "name": "Wishiwashi (Solo Form)",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Schooling"
+        ],
+        "hidden": []
+    },
+    "base_hp": 3,
+    "strength": "1/2",
+    "dexterity": "1/3",
+    "vitality": "1/2",
+    "special": "1/2",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Beat Up",
+            "Feint Attack",
+            "Growl",
+            "Helping Hand",
+            "Water Gun"
+        ],
+        "silver": [
+            "Aqua Ring",
+            "Aqua Tail",
+            "Brine",
+            "Dive",
+            "Soak",
+            "Take Down",
+            "Tearful Look",
+            "Uproar"
+        ],
+        "gold": [
+            "Double-Edge",
+            "Endeavor",
+            "Hydro Pump"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Beat Up",
+            "Brine",
+            "Bulldoze",
+            "Confide",
+            "Dive",
+            "Double Team",
+            "Earthquake",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Hail",
+            "Helping Hand",
+            "Hidden Power",
+            "Hydro Pump",
+            "Ice Beam",
+            "Iron Tail",
+            "Liquidation",
+            "Mud Shot",
+            "Muddy Water",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Scald",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Toxic",
+            "U-turn",
+            "Uproar",
+            "Waterfall",
+            "Whirlpool",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Aqua Tail",
+            "Covet",
+            "Endeavor",
+            "Flip Turn",
+            "Growl",
+            "Helping Hand",
+            "Iron Tail",
+            "Scale Shot",
+            "Snore",
+            "Water Gun",
+            "Water Pulse"
+        ],
+        "egg": [],
+        "level1_g3_7": [
+            "Growl",
+            "Water Gun"
+        ]
+    }
+}

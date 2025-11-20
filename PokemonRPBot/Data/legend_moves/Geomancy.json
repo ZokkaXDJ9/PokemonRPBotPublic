@@ -1,0 +1,11 @@
+{
+    "name": "Geomancy",
+    "type": "Fairy",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "The user restore HP to an ally equal to half the damage dealt, rounded down. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, change this move's accuracy to Strength.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move instead restores HP equal to the damage dealt.",
+    "description": "Through a mystical connection this Pokemon redirects the life force of an enemy into an ally.",
+    "category": "Physical"
+}

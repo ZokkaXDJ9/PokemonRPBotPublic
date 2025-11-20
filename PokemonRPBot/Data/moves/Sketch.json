@@ -1,0 +1,11 @@
+{
+  "name": "Sketch",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Never Fail. Permanently copies a move the target used. Once Copied \"Sketch\" disappears.",
+  "description": "The Pokemon draws its foe performing a move. It learns how to perform that move in the process.",
+  "category": "Support"
+}

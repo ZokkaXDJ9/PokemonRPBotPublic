@@ -1,0 +1,11 @@
+{
+  "name": "Detect",
+  "type": "Fighting",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "User",
+  "effect": "Reaction. Shield Move. Reduce the damage taken by the user equal to their Rank bonus +1 against the instigating attack, minus the number of rounds this move has been used consecutively by the user. May also instead be used to negate the effects of one Support Move that targets the user. Reduces minimum damage received on attacks to 0 until end of round.",
+  "description": "The user detects the intentions of the attacker and acts out to minimize the damage.",
+  "category": "Support"
+}

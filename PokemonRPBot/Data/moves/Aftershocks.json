@@ -1,0 +1,11 @@
+{
+  "name": "Aftershocks",
+  "type": "Ground",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality/Insight",
+  "target": "Battlefield",
+  "effect": "Quaking Ground Weather is activated for the next 4 Rounds.",
+  "description": "The earth beneath the user's feet begins to rumble precipitously, as if at any moment it could rise or fall.",
+  "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Milk Drink",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User",
+  "effect": "Heal 5 HP. If successful, spend 1 Will point to activate. May cure Wound Damage.",
+  "description": "The Pokemon drinks a glass of its own milk. The rich taste and nutrients revitalize it.",
+  "category": "Support"
+}

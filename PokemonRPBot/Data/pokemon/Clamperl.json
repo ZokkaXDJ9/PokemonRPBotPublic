@@ -1,0 +1,114 @@
+{
+    "number": 366,
+    "name": "Clamperl",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Shell Armor"
+        ],
+        "hidden": [
+            "Rattled"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "2/4",
+    "special": "2/5",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Iron Defense",
+            "Water Gun",
+            "Whirlpool"
+        ],
+        "silver": [],
+        "gold": [
+            "Shell Smash"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Blizzard",
+            "Brine",
+            "Captivate",
+            "Confide",
+            "Dive",
+            "Double Team",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Hail",
+            "Hidden Power",
+            "Ice Beam",
+            "Iron Defense",
+            "Natural Gift",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Scald",
+            "Secret Power",
+            "Shell Smash",
+            "Sleep Talk",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Toxic",
+            "Water Gun",
+            "Water Pulse",
+            "Waterfall",
+            "Whirlpool",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Metronome",
+            "Nasty Plot",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Body Slam",
+            "Clamp",
+            "Dive",
+            "Double-Edge",
+            "Icy Wind",
+            "Iron Defense",
+            "Mimic",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Water Gun",
+            "Water Pulse",
+            "Whirlpool"
+        ],
+        "egg": [
+            "Aqua Ring",
+            "Barrier",
+            "Body Slam",
+            "Brine",
+            "Confuse Ray",
+            "Endure",
+            "Mud Sport",
+            "Muddy Water",
+            "Refresh",
+            "Supersonic",
+            "Water Pulse"
+        ],
+        "level1_g3_7": [
+            "Clamp",
+            "Iron Defense",
+            "Water Gun",
+            "Whirlpool"
+        ]
+    }
+}

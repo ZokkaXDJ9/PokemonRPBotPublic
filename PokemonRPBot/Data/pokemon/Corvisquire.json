@@ -1,0 +1,117 @@
+{
+    "number": 822,
+    "name": "Corvisquire",
+    "types": [
+        "Flying"
+    ],
+    "abilities": {
+        "normal": [
+            "Keen Eye",
+            "Unnerve"
+        ],
+        "hidden": [
+            "Big Pecks"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "2/5",
+    "vitality": "2/4",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Hone Claws",
+            "Leer",
+            "Peck",
+            "Power Trip"
+        ],
+        "silver": [
+            "Fury Attack",
+            "Pluck",
+            "Scary Face",
+            "Taunt"
+        ],
+        "gold": [
+            "Brave Bird",
+            "Drill Peck",
+            "Swagger"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Aerial Ace",
+            "Agility",
+            "Air Cutter",
+            "Air Slash",
+            "Assurance",
+            "Attract",
+            "Brave Bird",
+            "Dual Wingbeat",
+            "Endure",
+            "Facade",
+            "Fake Tears",
+            "Fly",
+            "Focus Energy",
+            "Hurricane",
+            "Nasty Plot",
+            "Payback",
+            "Protect",
+            "Rest",
+            "Retaliate",
+            "Revenge",
+            "Reversal",
+            "Round",
+            "Scary Face",
+            "Sleep Talk",
+            "Snore",
+            "Spite",
+            "Substitute",
+            "Sunny Day",
+            "Swift",
+            "Tailwind",
+            "Take Down",
+            "Taunt",
+            "Tera Blast",
+            "Thief",
+            "U-turn",
+            "Work Up",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Feint Attack",
+            "Foresight",
+            "Me First",
+            "Mirror Move",
+            "Ominous Wind",
+            "Pursuit",
+            "Razor Wind",
+            "Sky Drop"
+        ],
+        "tutor": [
+            "Dual Wingbeat"
+        ],
+        "egg": [
+            "Defog",
+            "Rock Smash",
+            "Roost",
+            "Sand Attack",
+            "Sky Attack",
+            "Spite",
+            "Tailwind"
+        ],
+        "level1_g3_7": []
+    }
+}

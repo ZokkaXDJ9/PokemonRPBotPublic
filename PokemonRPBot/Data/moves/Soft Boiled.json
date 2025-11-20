@@ -1,0 +1,11 @@
+{
+  "name": "Soft Boiled",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "User",
+  "effect": "Heal 5 HP. If successful spend 1 Will point to activate. May cure Wound Damage.",
+  "description": "The user boils a freshly layed egg and restores Health with the energy stored within.",
+  "category": "Support"
+}

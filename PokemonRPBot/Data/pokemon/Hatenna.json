@@ -1,0 +1,129 @@
+{
+    "number": 856,
+    "name": "Hatenna",
+    "types": [
+        "Psychic"
+    ],
+    "abilities": {
+        "normal": [
+            "Healer",
+            "Anticipation"
+        ],
+        "hidden": [
+            "Magic Bounce"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/2",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Confusion",
+            "Disarming Voice",
+            "Life Dew",
+            "Play Nice"
+        ],
+        "silver": [
+            "Aromatherapy",
+            "Aromatic Mist",
+            "Dazzling Gleam",
+            "Heal Pulse",
+            "Psybeam"
+        ],
+        "gold": [
+            "Calm Mind",
+            "Healing Wish",
+            "Psychic"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Baton Pass",
+            "Calm Mind",
+            "Charm",
+            "Dark Pulse",
+            "Dazzling Gleam",
+            "Disarming Voice",
+            "Draining Kiss",
+            "Endure",
+            "Expanding Force",
+            "Facade",
+            "Future Sight",
+            "Giga Drain",
+            "Helping Hand",
+            "Imprison",
+            "Light Screen",
+            "Magical Leaf",
+            "Metronome",
+            "Misty Terrain",
+            "Mystical Fire",
+            "Play Rough",
+            "Protect",
+            "Psybeam",
+            "Psych Up",
+            "Psychic",
+            "Psychic Terrain",
+            "Psyshock",
+            "Reflect",
+            "Rest",
+            "Round",
+            "Safeguard",
+            "Skill Swap",
+            "Sleep Talk",
+            "Snore",
+            "Stored Power",
+            "Substitute",
+            "Swift",
+            "Tera Blast",
+            "Thunder Wave",
+            "Trick",
+            "Trick Room",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Captivate",
+            "Double Slap",
+            "Embargo",
+            "Flash",
+            "Heal Block",
+            "Heart Stamp",
+            "Lucky Chant",
+            "Meditate",
+            "Miracle Eye",
+            "Nightmare",
+            "Psywave",
+            "Signal Beam",
+            "Snatch",
+            "Synchronoise",
+            "Telekinesis",
+            "Wring Out"
+        ],
+        "tutor": [
+            "Expanding Force"
+        ],
+        "egg": [
+            "After You",
+            "Aromatic Mist",
+            "Mystical Fire",
+            "Nuzzle",
+            "Quash"
+        ],
+        "level1_g3_7": []
+    }
+}

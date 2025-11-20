@@ -1,0 +1,121 @@
+{
+    "number": 882,
+    "name": "Dracovish",
+    "types": [
+        "Water",
+        "Dragon"
+    ],
+    "abilities": {
+        "normal": [
+            "Water Absorb",
+            "Strong Jaw"
+        ],
+        "hidden": [
+            "Sand Rush"
+        ]
+    },
+    "base_hp": 5,
+    "strength": "3/6",
+    "dexterity": "2/5",
+    "vitality": "3/6",
+    "special": "2/4",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Protect",
+            "Tackle",
+            "Water Gun"
+        ],
+        "silver": [
+            "Ancient Power",
+            "Bite",
+            "Brutal Swing"
+        ],
+        "gold": [
+            "Crunch",
+            "Dragon Breath",
+            "Dragon Pulse",
+            "Dragon Rush",
+            "Fishious Rend",
+            "Stomp",
+            "Super Fang"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Body Slam",
+            "Brine",
+            "Brutal Swing",
+            "Bulldoze",
+            "Crunch",
+            "Dive",
+            "Dragon Pulse",
+            "Earth Power",
+            "Earthquake",
+            "Endure",
+            "Facade",
+            "Giga Impact",
+            "Hydro Pump",
+            "Hyper Beam",
+            "Ice Fang",
+            "Iron Head",
+            "Leech Life",
+            "Liquidation",
+            "Low Kick",
+            "Mega Kick",
+            "Outrage",
+            "Protect",
+            "Psychic Fangs",
+            "Rain Dance",
+            "Rest",
+            "Rock Blast",
+            "Rock Slide",
+            "Rock Tomb",
+            "Round",
+            "Scald",
+            "Sleep Talk",
+            "Snore",
+            "Stomping Tantrum",
+            "Stone Edge",
+            "Substitute",
+            "Surf",
+            "Waterfall",
+            "Whirlpool",
+            "Zen Headbutt",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Bide",
+            "Bubble",
+            "Clamp",
+            "Dragon Rage",
+            "Feint Attack",
+            "Mud Bomb",
+            "Mud Sport",
+            "Pursuit",
+            "Rock Climb",
+            "Signal Beam"
+        ],
+        "tutor": [
+            "Meteor Beam"
+        ],
+        "egg": [],
+        "level1_g3_7": []
+    }
+}

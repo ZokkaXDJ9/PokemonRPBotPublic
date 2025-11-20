@@ -1,0 +1,6 @@
+{
+    "name": "Room Service",
+    "description": "Reduces the user's Initiative by 2 during Trick Room.",
+    "category": "Held Item",
+    "rarity": "Common"
+}

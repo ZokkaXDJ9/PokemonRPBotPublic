@@ -1,0 +1,123 @@
+{
+    "number": 851,
+    "name": "Centiskorch",
+    "types": [
+        "Fire",
+        "Bug"
+    ],
+    "abilities": {
+        "normal": [
+            "Flash Fire",
+            "White Smoke"
+        ],
+        "hidden": [
+            "Flame Body"
+        ]
+    },
+    "base_hp": 6,
+    "strength": "3/7",
+    "dexterity": "2/4",
+    "vitality": "2/4",
+    "special": "2/5",
+    "insight": "3/6",
+    "moves": {
+        "bronze": [
+            "Bite",
+            "Ember",
+            "Inferno",
+            "Smokescreen",
+            "Wrap"
+        ],
+        "silver": [
+            "Bug Bite",
+            "Coil",
+            "Flame Wheel",
+            "Slam"
+        ],
+        "gold": [
+            "Burn Up",
+            "Crunch",
+            "Fire Lash",
+            "Fire Spin",
+            "Lunge"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Brutal Swing",
+            "Bug Buzz",
+            "Crunch",
+            "Endure",
+            "Facade",
+            "Fire Blast",
+            "Fire Fang",
+            "Fire Spin",
+            "Flamethrower",
+            "Flare Blitz",
+            "Giga Impact",
+            "Heat Crash",
+            "Heat Wave",
+            "Hyper Beam",
+            "Leech Life",
+            "Mystical Fire",
+            "Overheat",
+            "Power Whip",
+            "Protect",
+            "Rest",
+            "Round",
+            "Scald",
+            "Sleep Talk",
+            "Snore",
+            "Solar Beam",
+            "Substitute",
+            "Sunny Day",
+            "Thunder Fang",
+            "Venoshock",
+            "Will-O-Wisp",
+            "X-Scissor",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Bide",
+            "Constrict",
+            "Dragon Rage",
+            "Flame Burst",
+            "Flash",
+            "Foresight",
+            "Natural Gift",
+            "Rock Climb",
+            "Signal Beam",
+            "Silver Wind",
+            "Sonic Boom",
+            "Twineedle",
+            "Wring Out"
+        ],
+        "tutor": [
+            "Scorching Sands",
+            "Skitter Smack"
+        ],
+        "egg": [
+            "Defense Curl",
+            "Knock Off",
+            "Rollout",
+            "Struggle Bug"
+        ],
+        "level1_g3_7": []
+    }
+}

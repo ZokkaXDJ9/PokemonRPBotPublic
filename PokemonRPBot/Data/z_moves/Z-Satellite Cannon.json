@@ -1,0 +1,12 @@
+{
+  "name": "Z-Satellite Cannon",
+  "type": "Fairy",
+  "power": 10,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Charge up move. On the charge turn, the user raises their Special by 2. Reduce foe's Special, reduce foe's Defense and Special Defense. Recoil. If Fairy Dust Weather is active roll 1 Chance die to inflict the Foe with a random status from Poison, Burn, Frostbite or Paralysis (e.g. by using the /select_random command).",
+  "description": "Summon power directly from the moon, even more than what should be possible for a normal pokemon to handle. The Pokemon blasts the foe with light.",
+  "og_move": "Moonblast",
+  "category": "Special"
+}

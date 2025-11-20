@@ -1,0 +1,129 @@
+{
+    "number": 838,
+    "name": "Carkol",
+    "types": [
+        "Rock",
+        "Fire"
+    ],
+    "abilities": {
+        "normal": [
+            "Steam Engine",
+            "Flame Body"
+        ],
+        "hidden": [
+            "Flash Fire"
+        ]
+    },
+    "base_hp": 5,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "3/6",
+    "special": "2/4",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Flame Charge",
+            "Rapid Spin",
+            "Smack Down",
+            "Smokescreen",
+            "Tackle"
+        ],
+        "silver": [
+            "Ancient Power",
+            "Incinerate",
+            "Rock Polish"
+        ],
+        "gold": [
+            "Burn Up",
+            "Heat Crash",
+            "Rock Blast",
+            "Stealth Rock",
+            "Stone Edge"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Body Press",
+            "Body Slam",
+            "Bulldoze",
+            "Curse",
+            "Dig",
+            "Endure",
+            "Facade",
+            "Fire Blast",
+            "Fire Spin",
+            "Flame Charge",
+            "Flamethrower",
+            "Flare Blitz",
+            "Gyro Ball",
+            "Heat Crash",
+            "Heat Wave",
+            "Heavy Slam",
+            "High Horsepower",
+            "Iron Defense",
+            "Iron Head",
+            "Meteor Beam",
+            "Mud-Slap",
+            "Overheat",
+            "Power Gem",
+            "Protect",
+            "Reflect",
+            "Rest",
+            "Rock Blast",
+            "Rock Slide",
+            "Rock Tomb",
+            "Round",
+            "Sand Tomb",
+            "Sandstorm",
+            "Scald",
+            "Scorching Sands",
+            "Self-Destruct",
+            "Sleep Talk",
+            "Smack Down",
+            "Snore",
+            "Spikes",
+            "Stealth Rock",
+            "Stone Edge",
+            "Substitute",
+            "Sunny Day",
+            "Take Down",
+            "Temper Flare",
+            "Tera Blast",
+            "Will-O-Wisp",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Chip Away",
+            "Flame Burst",
+            "Flash",
+            "Magnitude",
+            "Mud Sport",
+            "Pursuit",
+            "Rage",
+            "Rock Climb"
+        ],
+        "tutor": [
+            "Meteor Beam",
+            "Scorching Sands"
+        ],
+        "egg": [
+            "Block",
+            "Explosion",
+            "Mud-Slap"
+        ],
+        "level1_g3_7": []
+    }
+}

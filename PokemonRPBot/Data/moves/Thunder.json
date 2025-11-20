@@ -1,0 +1,11 @@
+{
+    "name": "Thunder",
+    "type": "Electric",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Inflicts Wounds. Roll 3 Chance Dice to Paralyze foe. If performed under Rain or Thunderstorm Weather, Ignore this move's Reduced Accuracy and gain Never Fail. If performed under Sunny Weather, Accuracy becomes -3 instead. -2 Accuracy.",
+    "description": "The Pokemon commands a tremendous lightning to strike a specific point on the ground. It's quite dangerous.",
+    "category": "Special"
+}

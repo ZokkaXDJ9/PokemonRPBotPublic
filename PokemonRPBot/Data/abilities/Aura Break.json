@@ -1,0 +1,5 @@
+{
+    "name": "Aura Break",
+    "description": "Anyone emitting a particularly evil aura will be purified, anyone with an aura of purity will be corrupted by evil by coming close to this Pokemon",
+    "effect": "Terrain Effects set by the User or one of their Allies solely benefit the User and their Allies (ex: Electric Terrain would not cure opponents of Drowsy. Under Misty Terrain Dragon Type Attacks used by the User and Allies still add their Power to their Damage Pool)."
+}

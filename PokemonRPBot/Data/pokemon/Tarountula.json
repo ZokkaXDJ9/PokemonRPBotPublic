@@ -1,0 +1,118 @@
+{
+    "number": 917,
+    "name": "Tarountula",
+    "types": [
+        "Bug"
+    ],
+    "abilities": {
+        "normal": [
+            "Insomnia"
+        ],
+        "hidden": [
+            "Stakeout"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/2",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Assurance",
+            "String Shot",
+            "Struggle Bug",
+            "Tackle"
+        ],
+        "silver": [
+            "Block",
+            "Bug Bite",
+            "Counter",
+            "Feint",
+            "Gastro Acid",
+            "Headbutt",
+            "Sticky Web"
+        ],
+        "gold": [
+            "Circle Throw",
+            "Skitter Smack",
+            "Throat Chop"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Body Slam",
+            "Bug Bite",
+            "Bug Buzz",
+            "Bullet Seed",
+            "Endure",
+            "Facade",
+            "False Swipe",
+            "Giga Drain",
+            "Grass Knot",
+            "Knock Off",
+            "Leech Life",
+            "Lunge",
+            "Poison Jab",
+            "Pounce",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Shadow Claw",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Spikes",
+            "Struggle Bug",
+            "Substitute",
+            "Sunny Day",
+            "Take Down",
+            "Tera Blast",
+            "Thief",
+            "Throat Chop",
+            "Toxic Spikes",
+            "Trailblaze",
+            "X-Scissor",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Camouflage",
+            "Constrict",
+            "Natural Gift",
+            "Powder",
+            "Pursuit",
+            "Signal Beam",
+            "Silver Wind",
+            "Snatch",
+            "Sonic Boom",
+            "Spider Web",
+            "Laser Focus",
+            "Mind Reader"
+        ],
+        "tutor": [],
+        "egg": [
+            "First Impression",
+            "Lunge",
+            "Memento",
+            "Sucker Punch"
+        ],
+        "level1_g3_7": []
+    }
+}

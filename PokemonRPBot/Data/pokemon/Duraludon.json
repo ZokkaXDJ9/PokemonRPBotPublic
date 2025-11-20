@@ -1,0 +1,128 @@
+{
+    "number": 884,
+    "name": "Duraludon",
+    "types": [
+        "Steel",
+        "Dragon"
+    ],
+    "abilities": {
+        "normal": [
+            "Light Metal",
+            "Heavy Metal"
+        ],
+        "hidden": [
+            "Stalwart"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "3/6",
+    "dexterity": "2/5",
+    "vitality": "3/7",
+    "special": "3/7",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Leer",
+            "Metal Claw",
+            "Rock Smash"
+        ],
+        "silver": [
+            "Breaking Swipe",
+            "Dragon Tail",
+            "Hone Claws",
+            "Metal Sound"
+        ],
+        "gold": [
+            "Dragon Claw",
+            "Flash Cannon",
+            "Focus Energy",
+            "Hyper Beam",
+            "Iron Defense",
+            "Laser Focus",
+            "Metal Burst"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Body Press",
+            "Body Slam",
+            "Breaking Swipe",
+            "Brick Break",
+            "Dark Pulse",
+            "Double-Edge",
+            "Draco Meteor",
+            "Dragon Cheer",
+            "Dragon Claw",
+            "Dragon Pulse",
+            "Dragon Tail",
+            "Endure",
+            "Facade",
+            "Flash Cannon",
+            "Foul Play",
+            "Giga Impact",
+            "Gyro Ball",
+            "Heavy Slam",
+            "Hyper Beam",
+            "Iron Defense",
+            "Iron Head",
+            "Light Screen",
+            "Metal Claw",
+            "Metal Sound",
+            "Outrage",
+            "Protect",
+            "Reflect",
+            "Rest",
+            "Roar",
+            "Rock Slide",
+            "Rock Tomb",
+            "Round",
+            "Scary Face",
+            "Screech",
+            "Sleep Talk",
+            "Snarl",
+            "Snore",
+            "Solar Beam",
+            "Stealth Rock",
+            "Steel Beam",
+            "Stomping Tantrum",
+            "Stone Edge",
+            "Substitute",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Thunder",
+            "Thunder Wave",
+            "Thunderbolt",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Bide",
+            "Dragon Rage",
+            "Magnet Bomb",
+            "Mirror Shot",
+            "Rock Climb",
+            "Signal Beam"
+        ],
+        "tutor": [
+            "Steel Roller"
+        ],
+        "egg": [
+            "Mirror Coat",
+            "Night Slash",
+            "Slash"
+        ],
+        "level1_g3_7": []
+    }
+}

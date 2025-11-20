@@ -1,0 +1,5 @@
+{
+  "name": "Serene Cure",
+  "description": "This Pokemon's body will siphon toxins from the earth and even other mons. When exposed to the right flower it may undergo a transformation.",
+  "effect": "At the end of the round, if this Pokemon has a Status Ailment, it Rolls 4 Chance Dice to heal itself. The User is only cured of one Status at a time. If afflicted by multiple Statuses the User selects which status to remove at random. As a Bonus Action on their turn the User may select an Ally afflicted by a Status and transfer one Status to themselves, curing the target (this effect cannot be used on the Blocked, Disabled or Rampage Statuses). While undergoing a Stat Reset the character may choose to change forms."
+}

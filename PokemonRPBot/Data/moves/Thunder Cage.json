@@ -1,0 +1,11 @@
+{
+  "name": "Thunder Cage",
+  "type": "Electric",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Blocks. Deal 2 Damage at the end of each Round. Lasts 4 Rounds. -1 Accuracy.",
+  "description": "The Pokémon summons a cage of electricity around its foe. The foe should be careful not to touch the sides, or get a very painful shock.",
+  "category": "Special"
+}

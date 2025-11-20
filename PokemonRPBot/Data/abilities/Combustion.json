@@ -1,0 +1,5 @@
+{
+  "name": "Combustion",
+  "description": "This Pokemon's fiery spirit and blazing hot body allows it to set its own moves on fire! Please pet with caution!",
+  "effect": "Normal-Type Attacks that the Pokemon uses will deal damage as if they were Fire-Type. Affecting STAB, weakness and resistance. Add 1 Damage Dice to the User's Fire Moves."
+}

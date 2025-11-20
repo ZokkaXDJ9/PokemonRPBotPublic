@@ -1,0 +1,137 @@
+{
+    "number": 707,
+    "name": "Klefki",
+    "types": [
+        "Steel",
+        "Fairy"
+    ],
+    "abilities": {
+        "normal": [
+            "Prankster"
+        ],
+        "hidden": [
+            "Magician"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/5",
+    "dexterity": "2/5",
+    "vitality": "3/6",
+    "special": "2/5",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Astonish",
+            "Fairy Lock",
+            "Fairy Wind",
+            "Tackle"
+        ],
+        "silver": [
+            "Crafty Shield",
+            "Draining Kiss",
+            "Foul Play",
+            "Imprison",
+            "Metal Sound",
+            "Recycle",
+            "Spikes",
+            "Torment"
+        ],
+        "gold": [
+            "Flash Cannon",
+            "Heal Block",
+            "Last Resort",
+            "Magic Room",
+            "Mirror Shot",
+            "Play Rough"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Calm Mind",
+            "Confide",
+            "Cut",
+            "Dazzling Gleam",
+            "Double Team",
+            "Draining Kiss",
+            "Endure",
+            "Facade",
+            "Flash Cannon",
+            "Foul Play",
+            "Frustration",
+            "Giga Impact",
+            "Hidden Power",
+            "Hyper Beam",
+            "Imprison",
+            "Iron Defense",
+            "Light Screen",
+            "Magic Room",
+            "Metal Sound",
+            "Misty Terrain",
+            "Play Rough",
+            "Protect",
+            "Psych Up",
+            "Psychic",
+            "Psyshock",
+            "Rain Dance",
+            "Reflect",
+            "Rest",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Sandstorm",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Snore",
+            "Spikes",
+            "Steel Beam",
+            "Stored Power",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Tera Blast",
+            "Thief",
+            "Thunder Wave",
+            "Torment",
+            "Toxic",
+            "Trick Room",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down"
+        ],
+        "tutor": [
+            "Covet",
+            "Defog",
+            "Fairy Lock",
+            "Foul Play",
+            "Iron Defense",
+            "Last Resort",
+            "Magic Coat",
+            "Magic Room",
+            "Magnet Rise",
+            "Recycle",
+            "Snore",
+            "Tackle"
+        ],
+        "egg": [
+            "Iron Defense",
+            "Lock-On",
+            "Magnet Rise",
+            "Switcheroo",
+            "Thief"
+        ],
+        "level1_g3_7": [
+            "Fairy Lock",
+            "Tackle"
+        ]
+    }
+}

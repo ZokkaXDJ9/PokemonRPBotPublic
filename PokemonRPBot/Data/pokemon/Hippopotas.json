@@ -1,0 +1,141 @@
+{
+    "number": 449,
+    "name": "Hippopotas",
+    "types": [
+        "Ground"
+    ],
+    "abilities": {
+        "normal": [
+            "Sand Stream"
+        ],
+        "hidden": [
+            "Sand Force"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/5",
+    "dexterity": "1/3",
+    "vitality": "2/5",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Bite",
+            "Sand Attack",
+            "Tackle",
+            "Yawn"
+        ],
+        "silver": [
+            "Crunch",
+            "Dig",
+            "Roar",
+            "Sand Tomb",
+            "Sandstorm",
+            "Take Down"
+        ],
+        "gold": [
+            "Double-Edge",
+            "Earthquake",
+            "Fissure",
+            "Rest",
+            "Slack Off"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Amnesia",
+            "Attract",
+            "Body Press",
+            "Body Slam",
+            "Bulldoze",
+            "Captivate",
+            "Confide",
+            "Crunch",
+            "Curse",
+            "Dig",
+            "Double Team",
+            "Double-Edge",
+            "Earth Power",
+            "Earthquake",
+            "Endure",
+            "Facade",
+            "Fire Fang",
+            "Frustration",
+            "Helping Hand",
+            "Hidden Power",
+            "High Horsepower",
+            "Ice Fang",
+            "Iron Tail",
+            "Mud Shot",
+            "Mud-Slap",
+            "Muddy Water",
+            "Natural Gift",
+            "Protect",
+            "Rest",
+            "Return",
+            "Revenge",
+            "Roar",
+            "Rock Slide",
+            "Rock Smash",
+            "Rock Tomb",
+            "Round",
+            "Sand Tomb",
+            "Sandstorm",
+            "Scorching Sands",
+            "Secret Power",
+            "Sleep Talk",
+            "Snore",
+            "Stealth Rock",
+            "Stomping Tantrum",
+            "Stone Edge",
+            "Strength",
+            "Substitute",
+            "Sunny Day",
+            "Superpower",
+            "Swagger",
+            "Take Down",
+            "Tera Blast",
+            "Thunder Fang",
+            "Toxic",
+            "Water Pulse",
+            "Weather Ball",
+            "Agility",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Earth Power",
+            "Iron Tail",
+            "Mud-Slap",
+            "Sand Attack",
+            "Scorching Sands",
+            "Sleep Talk",
+            "Snore",
+            "Stealth Rock",
+            "Stomping Tantrum",
+            "Superpower",
+            "Tackle",
+            "Water Pulse"
+        ],
+        "egg": [
+            "Body Slam",
+            "Curse",
+            "Revenge",
+            "Sand Tomb",
+            "Slack Off",
+            "Sleep Talk",
+            "Spit Up",
+            "Stockpile",
+            "Swallow",
+            "Whirlwind"
+        ],
+        "level1_g3_7": [
+            "Sand Attack",
+            "Tackle"
+        ]
+    }
+}

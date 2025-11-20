@@ -1,0 +1,112 @@
+{
+    "number": 953,
+    "name": "Rellor",
+    "types": [
+        "Bug"
+    ],
+    "abilities": {
+        "normal": [
+            "Compound Eyes"
+        ],
+        "hidden": [
+            "Shed Skin"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "1/2",
+    "vitality": "2/4",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Defense Curl",
+            "Sand Attack",
+            "Struggle Bug",
+            "Tackle"
+        ],
+        "silver": [
+            "Bug Bite",
+            "Dig",
+            "Mud Shot",
+            "Rollout",
+            "Take Down"
+        ],
+        "gold": [
+            "Lunge"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Bug Bite",
+            "Bug Buzz",
+            "Dig",
+            "Endure",
+            "Facade",
+            "Fling",
+            "Gunk Shot",
+            "Iron Defense",
+            "Leech Life",
+            "Lunge",
+            "Mud Shot",
+            "Mud-Slap",
+            "Pounce",
+            "Protect",
+            "Rest",
+            "Rock Tomb",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Struggle Bug",
+            "Substitute",
+            "Take Down",
+            "Tera Blast",
+            "Thief",
+            "Weather Ball",
+            "X-Scissor",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Embargo",
+            "Heal Block",
+            "Miracle Eye",
+            "Natural Gift",
+            "Nightmare",
+            "Psywave",
+            "Signal Beam",
+            "Silver Wind",
+            "Snatch",
+            "Sonic Boom",
+            "Tail Glow",
+            "Telekinesis",
+            "Twineedle",
+            "Crafty Shield",
+            "Laser Focus",
+            "Magic Coat",
+            "Mind Reader"
+        ],
+        "tutor": [],
+        "egg": [
+            "Cosmic Power",
+            "Memento",
+            "Recover",
+            "Weather Ball"
+        ],
+        "level1_g3_7": []
+    }
+}

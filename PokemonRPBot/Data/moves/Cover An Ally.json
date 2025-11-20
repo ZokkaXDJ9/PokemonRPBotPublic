@@ -1,0 +1,11 @@
+{
+  "name": "Cover An Ally",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "One Ally",
+  "effect": "Shield Move. The user will provide cover to the target, redirecting one attack targeting an ally to the user. For damage calculation any type immunities the user may have are treated as Very Ineffective (-2) against the instigating move. This may be used to redirect one instance of damage from an attacking move for the purposes of All Foes or Area targeting attacks. This can be executed at any time provided the user has not yet acted in the round.",
+  "description": "Taking one for the team while heroic, usually bites like you wouldn't believe.",
+  "category": "Support"
+}

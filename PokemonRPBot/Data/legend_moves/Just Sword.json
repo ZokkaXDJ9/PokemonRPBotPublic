@@ -1,0 +1,11 @@
+{
+    "name": "Just Sword",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "High Critical. This move is either fighting type, or the user's primary typing, whichever is more effective. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, Ignore any Increases to the foe's Defense.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, change this move's accuracy to Strength.",
+    "description": "Need Description.",
+    "category": "Physical"
+}

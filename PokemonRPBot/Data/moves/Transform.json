@@ -1,0 +1,11 @@
+{
+  "name": "Transform",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "Foe",
+  "effect": "Never Fail. The User transforms into a copy of its target with same Ability, Attributes, Stat Changes, and Moves.",
+  "description": "The user modifies its own DNA structure to become an identical clone of any Pokemon or object it can see.",
+  "category": "Support"
+}

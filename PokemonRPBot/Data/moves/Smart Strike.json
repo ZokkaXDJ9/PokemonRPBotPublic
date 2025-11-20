@@ -1,0 +1,11 @@
+{
+  "name": "Smart Strike",
+  "type": "Steel",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Never Fail. Inflicts Wounds.",
+  "description": "The user stabs the foe using one of its sharp horns with astounding precision, the resulting wound will be very deep and must be treated immediately.",
+  "category": "Physical"
+}

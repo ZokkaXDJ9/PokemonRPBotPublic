@@ -1,0 +1,12 @@
+{
+  "name": "Z-What is Cast...",
+  "type": "Dark",
+  "power": 7,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. High Critical. Inflicts Confusion. Switcher Move.",
+  "description": "The user quickly slashes through the target as soon as it gets the chance. Often making him bleed through the wound, something that hurts with every move.",
+  "og_move": "Night Slash",
+  "category": "Physical"
+}

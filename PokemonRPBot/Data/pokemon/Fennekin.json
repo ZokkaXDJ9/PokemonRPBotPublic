@@ -1,0 +1,137 @@
+{
+    "number": 653,
+    "name": "Fennekin",
+    "types": [
+        "Fire"
+    ],
+    "abilities": {
+        "normal": [
+            "Blaze"
+        ],
+        "hidden": [
+            "Magician"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Ember",
+            "Scratch",
+            "Tail Whip"
+        ],
+        "silver": [
+            "Fire Spin",
+            "Flame Charge",
+            "Howl",
+            "Light Screen",
+            "Lucky Chant",
+            "Psybeam",
+            "Psyshock"
+        ],
+        "gold": [
+            "Fire Blast",
+            "Flamethrower",
+            "Magic Room",
+            "Psychic",
+            "Sunny Day",
+            "Will-O-Wisp"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Attract",
+            "Burning Jealousy",
+            "Calm Mind",
+            "Charm",
+            "Confide",
+            "Cut",
+            "Double Team",
+            "Dream Eater",
+            "Echoed Voice",
+            "Embargo",
+            "Encore",
+            "Endure",
+            "Facade",
+            "Fire Blast",
+            "Fire Pledge",
+            "Fire Spin",
+            "Flame Charge",
+            "Flamethrower",
+            "Flare Blitz",
+            "Foul Play",
+            "Frustration",
+            "Grass Knot",
+            "Heat Wave",
+            "Helping Hand",
+            "Hidden Power",
+            "Imprison",
+            "Incinerate",
+            "Light Screen",
+            "Mud Shot",
+            "Mud-Slap",
+            "Overheat",
+            "Power-Up Punch",
+            "Protect",
+            "Psybeam",
+            "Psych Up",
+            "Psychic",
+            "Psychic Terrain",
+            "Psyshock",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Skill Swap",
+            "Sleep Talk",
+            "Solar Beam",
+            "Stored Power",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "Thief",
+            "Toxic",
+            "Trick",
+            "Trick Room",
+            "Will-O-Wisp",
+            "Work Up",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Fire Pledge",
+            "Scratch",
+            "Tail Whip"
+        ],
+        "egg": [
+            "Copycat",
+            "Heat Wave",
+            "Hypnosis",
+            "Magic Coat",
+            "Magic Room",
+            "Psychic Terrain",
+            "Wish"
+        ],
+        "level1_g3_7": [
+            "Scratch",
+            "Tail Whip"
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Arcane Domain",
+  "description": "The pure energy coursing through this area leaves battles yielding unexpected effects.",
+  "effect": "- Fairy types lose their immunity to dragon type attacks.\n- Dragon types lose their weakness to fairy type attacks.\n- Dragon type attacks have 3 chance dice to inflict Burn, Frostbite or Paralysis at random."
+}

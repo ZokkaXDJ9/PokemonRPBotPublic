@@ -1,0 +1,26 @@
+{
+  "number": 20009,
+  "name": "Delta Wings",
+  "types": ["Fairy", "Steel"],
+  "abilities": {
+    "normal": ["Quark Drive"],
+    "hidden": ["Super Luck"]
+  },
+  "base_hp": 5,
+  "strength": "1/2",
+  "dexterity": "4/8",
+  "vitality": "3/7",
+  "special": "3/7",
+  "insight": "3/7",
+
+  "moves": {
+    "bronze": ["Magnet Bomb", "Mirror Shot"],
+    "silver": ["Moonblast", "Flash Cannon"],
+    "gold": ["Steel Beam", "Echoed Voice"],
+    "platinum": [],
+    "diamond": [],
+    "tm": ["Metal Sound", "Thunder", "Ice Beam", "Thunderbolt", "Cosmic Power"],
+    "egg": [],
+    "tutor": ["Autotomize"]
+  }
+}

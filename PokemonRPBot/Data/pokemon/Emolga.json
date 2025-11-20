@@ -1,0 +1,142 @@
+{
+    "number": 587,
+    "name": "Emolga",
+    "types": [
+        "Electric",
+        "Flying"
+    ],
+    "abilities": {
+        "normal": [
+            "Static"
+        ],
+        "hidden": [
+            "Motor Drive"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/5",
+    "dexterity": "3/6",
+    "vitality": "2/4",
+    "special": "2/5",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Charge",
+            "Double Team",
+            "Nuzzle",
+            "Quick Attack",
+            "Tail Whip"
+        ],
+        "silver": [
+            "Acrobatics",
+            "Electro Ball",
+            "Pursuit",
+            "Shock Wave",
+            "Spark",
+            "Thunder Shock"
+        ],
+        "gold": [
+            "Agility",
+            "Discharge",
+            "Encore",
+            "Light Screen",
+            "Volt Switch"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Aerial Ace",
+            "Agility",
+            "Air Slash",
+            "Attract",
+            "Baton Pass",
+            "Charge Beam",
+            "Charm",
+            "Confide",
+            "Cut",
+            "Double Team",
+            "Eerie Impulse",
+            "Electro Ball",
+            "Electroweb",
+            "Encore",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Flash",
+            "Fling",
+            "Frustration",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Tail",
+            "Light Screen",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Roost",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Solar Beam",
+            "Speed Swap",
+            "Substitute",
+            "Swagger",
+            "Swift",
+            "Taunt",
+            "Thunder",
+            "Thunder Wave",
+            "Thunderbolt",
+            "Toxic",
+            "U-turn",
+            "Volt Switch",
+            "Wild Charge",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Covet",
+            "Defog",
+            "Dual Wingbeat",
+            "Electroweb",
+            "Helping Hand",
+            "Iron Tail",
+            "Knock Off",
+            "Last Resort",
+            "Rising Voltage",
+            "Roost",
+            "Shock Wave",
+            "Signal Beam",
+            "Sleep Talk",
+            "Snore",
+            "Tailwind",
+            "Thunder Shock"
+        ],
+        "egg": [
+            "Air Slash",
+            "Astonish",
+            "Baton Pass",
+            "Charm",
+            "Covet",
+            "Defog",
+            "Ion Deluge",
+            "Iron Tail",
+            "Roost",
+            "Shock Wave",
+            "Speed Swap",
+            "Tickle"
+        ],
+        "level1_g3_7": [
+            "Thunder Shock"
+        ]
+    }
+}

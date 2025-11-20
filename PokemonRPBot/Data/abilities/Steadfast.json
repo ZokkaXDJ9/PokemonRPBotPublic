@@ -1,0 +1,5 @@
+{
+  "name": "Steadfast",
+  "description": "This Pokemon becomes even more dependable when adversity strikes.",
+  "effect": "Each time this Pokemon is affected by Flinch, Increase its Dexterity by 1. This Stat Change is able to stack with itself (but still subject the standard +/-3 limit)."
+}

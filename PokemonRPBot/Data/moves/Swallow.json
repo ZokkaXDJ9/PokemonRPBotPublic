@@ -1,0 +1,11 @@
+{
+    "name": "Swallow",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "User",
+    "effect": "Must have used the move \"Stockpile\" prior to this Move, otherwise it will fail. If successful spend 1 Will point to activate. The User may remove the Stat Changes from \"Stockpile\", and recovers 8 HP for each swallowed (if the User has Stockpiled multiple times they may choose how many to expend). Only applies the healing under stress.",
+    "description": "The Pokemon swallows the energy she was storing to restore some damage, it recovers its normal size afterwards.",
+    "category": "Support"
+}

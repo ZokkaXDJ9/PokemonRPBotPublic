@@ -1,0 +1,133 @@
+{
+    "number": 521,
+    "name": "Unfezant",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": {
+        "normal": [
+            "Big Pecks",
+            "Super Luck"
+        ],
+        "hidden": [
+            "Rivalry"
+        ]
+    },
+    "base_hp": 5,
+    "strength": "3/7",
+    "dexterity": "3/6",
+    "vitality": "2/5",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Growl",
+            "Gust",
+            "Leer",
+            "Quick Attack"
+        ],
+        "silver": [
+            "Air Cutter",
+            "Air Slash",
+            "Detect",
+            "Feather Dance",
+            "Roost",
+            "Swagger",
+            "Taunt"
+        ],
+        "gold": [
+            "Facade",
+            "FeatherDance",
+            "Razor Wind",
+            "Sky Attack",
+            "Tailwind"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Aerial Ace",
+            "Agility",
+            "Air Slash",
+            "Attract",
+            "Brave Bird",
+            "Confide",
+            "Double Team",
+            "Echoed Voice",
+            "Endure",
+            "Facade",
+            "Fly",
+            "Focus Energy",
+            "Frustration",
+            "Giga Impact",
+            "Heat Wave",
+            "Hidden Power",
+            "Hurricane",
+            "Hyper Beam",
+            "Pluck",
+            "Protect",
+            "Psych Up",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Roost",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Steel Wing",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Taunt",
+            "Toxic",
+            "U-turn",
+            "Uproar",
+            "Work Up",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Defog",
+            "Dual Wingbeat",
+            "Growl",
+            "Gust",
+            "Heat Wave",
+            "Leer",
+            "Quick Attack",
+            "Roost",
+            "Sky Attack",
+            "Sleep Talk",
+            "Snore",
+            "Tailwind",
+            "Uproar"
+        ],
+        "egg": [
+            "Bestow",
+            "Defog",
+            "Hypnosis",
+            "Lucky Chant",
+            "Morning Sun",
+            "Night Slash",
+            "Steel Wing",
+            "Uproar",
+            "Wish"
+        ],
+        "level1_g3_7": [
+            "Growl",
+            "Gust",
+            "Leer",
+            "Quick Attack"
+        ]
+    }
+}

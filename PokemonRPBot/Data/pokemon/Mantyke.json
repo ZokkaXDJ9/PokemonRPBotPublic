@@ -1,0 +1,127 @@
+{
+    "number": 458,
+    "name": "Mantyke",
+    "types": [
+        "Water",
+        "Flying"
+    ],
+    "abilities": {
+        "normal": [
+            "Swift Swim",
+            "Water Absorb"
+        ],
+        "hidden": [
+            "Water Veil"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/2",
+    "dexterity": "1/3",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "3/7",
+    "moves": {
+        "bronze": [
+            "Bubble Beam",
+            "Supersonic",
+            "Tackle",
+            "Water Gun",
+            "Wing Attack"
+        ],
+        "silver": [
+            "Agility",
+            "Air Slash",
+            "Confuse Ray",
+            "Headbutt",
+            "Take Down",
+            "Water Pulse",
+            "Wide Guard"
+        ],
+        "gold": [
+            "Aqua Ring",
+            "Bounce",
+            "Hydro Pump"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Aerial Ace",
+            "Agility",
+            "Air Slash",
+            "Amnesia",
+            "Attract",
+            "Blizzard",
+            "Bounce",
+            "Bulldoze",
+            "Captivate",
+            "Confide",
+            "Dive",
+            "Double Team",
+            "Earthquake",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Hail",
+            "Helping Hand",
+            "Hidden Power",
+            "Hydro Pump",
+            "Ice Beam",
+            "Icy Wind",
+            "Natural Gift",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Rock Slide",
+            "Round",
+            "Scald",
+            "Secret Power",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Swift",
+            "Toxic",
+            "Water Pulse",
+            "Waterfall",
+            "Whirlpool",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Aerial Ace",
+            "Air Cutter",
+            "Bounce",
+            "Bubble",
+            "Bulldoze",
+            "Dive",
+            "Helping Hand",
+            "Ice Beam",
+            "Icy Wind",
+            "Mud-Slap",
+            "Rest",
+            "Rock Slide",
+            "Signal Beam",
+            "Sleep Talk",
+            "Snore",
+            "Swift",
+            "Tackle",
+            "Tailwind",
+            "Water Pulse"
+        ],
+        "egg": [],
+        "level1_g3_7": [
+            "Bubble",
+            "Tackle"
+        ]
+    }
+}

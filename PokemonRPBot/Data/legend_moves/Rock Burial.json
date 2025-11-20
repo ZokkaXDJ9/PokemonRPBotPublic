@@ -1,0 +1,11 @@
+{
+    "name": "Rock Burial",
+    "type": "Rock",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Blocks. Deal 1 Rock type damage at the end of each Round. Lasts 4 Rounds. -1 Accuracy. \n At Silver Rank, increase this move's base power to 2.\n At Gold Rank, this move's power is increased by an additional 3, while the user is above 50% HP.\n At Platinum Rank, increase this move's base power to 3.\n At Diamond Rank, increase the end of round damage by 1.",
+    "description": "Need Description",
+    "category": "Physical"
+}

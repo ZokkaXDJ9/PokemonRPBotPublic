@@ -1,0 +1,5 @@
+{
+  "name": "Quick Draw",
+  "description": "This Pokémon can move at incredible speeds... but only if they really feel like it.",
+  "effect": "At the start of the Round, roll 3 Chance Dice. On a success the User may declare and add Priority 2 to one of their Active Moves. If the User does not use this Priority immediately they may save and declare it on subsequent Rounds (the User does not roll their Chance Dice at Round start while Quick Draw is active). After the User has spent their Priority they must roll a successful Chance Dice again to re-activate Quick Draw."
+}

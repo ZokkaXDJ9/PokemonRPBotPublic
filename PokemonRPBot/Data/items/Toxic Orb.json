@@ -1,0 +1,6 @@
+{
+  "name": "Toxic Orb",
+  "description": "Inflicts the user with Poisoned when held and grants immunity to the secondary effects of status effects and Badly Poisoned.",
+  "category": "Held Item",
+  "rarity": "Uncommon"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Infected Data",
+  "description": "Contact with this Pokemon may add it's rampant data to the genetic material of it's foes, weakening them.",
+  "effect": "If a foe makes contact with this Pokemon with an attack, reduce one of the attackers stats, at random."
+}

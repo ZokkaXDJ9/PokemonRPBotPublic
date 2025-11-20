@@ -1,0 +1,12 @@
+{
+  "name": "Z-Ultimate Shocker",
+  "type": "Electric",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Paralyze the foe. Apply Flinch to the foe. Reduce foes dexterity by 2. +1 Accuracy.",
+  "description": "Tessa jumps at her target, applying a tide of bright lightning streams directly to it's chest. This will disturb the targets heartbeat, causing crippling pain and paralysis.",
+  "og_move": "Thunder Wave",
+  "category": "Support"
+}

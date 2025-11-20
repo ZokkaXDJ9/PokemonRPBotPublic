@@ -1,0 +1,5 @@
+{
+  "name": "Hadron Engine",
+  "description": "This pokemon's engine is overflowing with energy!",
+  "effect": "This Pokemon can start Pollution Weather or Electric Terrain at the start of the Round, once per battle. The effects last for 2 Rounds. While either Pollution Weather or Electric Terrain are active, increase the base of the User's highest Stat by 2 (In case of ties, select randomly between the mon's highest stats). If the User's highest stat is Vitality or Insight instead increase the User's base Defense or Special Defense by 1 respectively. This Ability cannot be copied (ignoring the effects of Skill Swap, Trace etc.)"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Genetic Anomaly",
+    "description": "Every Eevee and their evolution's have unstable DNA. This pokemon has, whether willingly or not, learnt to tap into some of the instability within them to aid them when they're at their weakest.",
+    "effect": "The first time this pokemon is brought to half HP or lower by an attack, replace this pokemon's Normal typing with a type that is resistant or immune to the triggering attack (of the User's choice among applicable options). Afterward, Normal-Type attacks that the pokemon uses will instead deal damage as if they were of the replaced type (affecting STAB, weakness and resistance). This Ability cannot be copied, replaced or suppressed (ignoring the effects of Skill Swap, Worry Seed, Gastro Acid, Trace etc.)"
+}

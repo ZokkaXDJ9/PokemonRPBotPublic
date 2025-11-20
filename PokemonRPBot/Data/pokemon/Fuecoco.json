@@ -1,0 +1,123 @@
+{
+    "number": 909,
+    "name": "Fuecoco",
+    "types": [
+        "Fire"
+    ],
+    "abilities": {
+        "normal": [
+            "Blaze"
+        ],
+        "hidden": [
+            "Unaware"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "1/3",
+    "dexterity": "1/3",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Ember",
+            "Leer",
+            "Round",
+            "Tackle"
+        ],
+        "silver": [
+            "Bite",
+            "Flamethrower",
+            "Hyper Voice",
+            "Incinerate",
+            "Roar",
+            "Snarl",
+            "Yawn"
+        ],
+        "gold": [
+            "Fire Blast"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Body Slam",
+            "Crunch",
+            "Curse",
+            "Dig",
+            "Disarming Voice",
+            "Encore",
+            "Endure",
+            "Facade",
+            "Fire Blast",
+            "Fire Fang",
+            "Fire Pledge",
+            "Fire Spin",
+            "Flame Charge",
+            "Flamethrower",
+            "Flare Blitz",
+            "Heat Wave",
+            "Helping Hand",
+            "Hyper Voice",
+            "Mud-Slap",
+            "Outrage",
+            "Overheat",
+            "Protect",
+            "Rest",
+            "Roar",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snarl",
+            "Stomping Tantrum",
+            "Substitute",
+            "Sunny Day",
+            "Take Down",
+            "Temper Flare",
+            "Tera Blast",
+            "Thunder Fang",
+            "Will-O-Wisp",
+            "Zen Headbutt",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Captivate",
+            "Embargo",
+            "Flame Burst",
+            "Lucky Chant",
+            "Magnitude",
+            "Nightmare",
+            "Ominous Wind",
+            "Rage",
+            "Rock Climb",
+            "Snatch",
+            "Synchronoise",
+            "Grudge",
+            "Laser Focus",
+            "Magic Coat",
+            "Nature Power",
+            "Revenge"
+        ],
+        "tutor": [],
+        "egg": [
+            "Belch",
+            "Curse",
+            "Encore",
+            "Slack Off"
+        ],
+        "level1_g3_7": []
+    }
+}

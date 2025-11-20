@@ -1,0 +1,11 @@
+{
+  "name": "Minimize",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "User",
+  "effect": "The first time this move is used in combat, Increase the User's Evasion by 2 (subsequent uses instead increase the User's Evasion by 1). If the User rolls a Critical Strike with this move, Increase the User's Special or remove one negative Stat Change (instead of the normal bonus for a Critical Strike).",
+  "description": "The Pokemon compacts its body, appearing smaller than its normal size.",
+  "category": "Support"
+}

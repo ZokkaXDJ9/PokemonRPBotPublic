@@ -1,0 +1,5 @@
+{
+    "name": "Light Metal",
+    "description": "The material covering its body will be light as a feather, causing this Pokemon to weigh from 50% to 75% less than it is supposed to.",
+    "effect": "This Pokemon weighs 50% less than normal. Moves with damage based on weight get their damage pool modified accordingly (scale the User's species to 100% and calculate damage based on half the listed weight)."
+}

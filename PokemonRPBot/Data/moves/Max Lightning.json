@@ -1,0 +1,11 @@
+{
+  "name": "Max Lightning",
+  "type": "Electric",
+  "damage": "Strength / Special + Original",
+  "power": 2,
+  "accuracy": "Original Move",
+  "target": "Foe",
+  "effect": "This move replaces all electric type moves when Dynamaxed. Deals the base move's damage + 2 to a single enemy and summons Electric Terrain for 5 rounds.",
+  "description": "A super-sized attack that has the Dynamaxed Pokemon summon a flurry of stormclouds that strike the foe in succession.",
+  "category": "Physical/Special"
+}

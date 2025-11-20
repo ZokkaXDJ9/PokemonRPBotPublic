@@ -1,0 +1,5 @@
+{
+  "name": "Innards Out",
+  "description": "Pyukumuku, this is not what we meant when we asked you to 'Spill your guts'!",
+  "effect": "When the User faints, the last foe that attacked it is dealt damage equal to the User's Vitality."
+}

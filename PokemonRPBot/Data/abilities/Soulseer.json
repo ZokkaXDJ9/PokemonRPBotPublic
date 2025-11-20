@@ -1,0 +1,5 @@
+{
+  "name": "Soulseer",
+  "description": "While this pokemon's sight may be hampered by it's injuries, it develops a supernatural sense to aim for it's foes.",
+  "effect": "When this Pokemon's HP is at half or less, remove the Rank Bonus from it's Accuracy dice on it's Attacks, but all it's Attacks cannot be Dodged and gain High Critical."
+}

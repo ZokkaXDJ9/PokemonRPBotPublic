@@ -1,0 +1,130 @@
+{
+    "number": 222,
+    "name": "Corsola (Galarian)",
+    "types": [
+        "Ghost"
+    ],
+    "abilities": {
+        "normal": [
+            "Weak Armor"
+        ],
+        "hidden": [
+            "Cursed Body"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "3/6",
+    "special": "2/4",
+    "insight": "3/6",
+    "moves": {
+        "bronze": [
+            "Harden",
+            "Tackle",
+            "Astonish",
+            "Disable"
+        ],
+        "silver": [
+            "Spite",
+            "Ancient Power",
+            "Hex",
+            "Curse"
+        ],
+        "gold": [
+            "Strength Sap",
+            "Power Gem",
+            "Night Shade",
+            "Grudge",
+            "Mirror Coat"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Protect",
+            "Nasty Plot",
+            "Rest",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Sleep Talk",
+            "Snore",
+            "Splash",
+            "Substitute",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Dig",
+            "Screech",
+            "Light Screen",
+            "Reflect",
+            "Safeguard",
+            "Self-Destruct",
+            "Rock Slide",
+            "Icy Wind",
+            "Giga Drain",
+            "Sandstorm",
+            "Rain Dance",
+            "Sunny Day",
+            "Hail",
+            "Whirlpool",
+            "Will-O-Wisp",
+            "Rock Tomb",
+            "Icicle Spear",
+            "Rock Blast",
+            "Brine",
+            "Hex",
+            "Bulldoze",
+            "Stomping Tantrum",
+            "Body Slam",
+            "Hydro Pump",
+            "Surf",
+            "Ice Beam",
+            "Blizzard",
+            "Earthquake",
+            "Psychic",
+            "Amnesia",
+            "Shadow Ball",
+            "Iron Defense",
+            "Calm Mind",
+            "Power Gem",
+            "Earth Power",
+            "Stone Edge",
+            "Stealth Rock",
+            "Scald",
+            "Throat Chop",
+            "Liquidation",
+            "Bide",
+            "Embargo",
+            "Heal Block",
+            "Lucky Chant",
+            "Nightmare",
+            "Ominous Wind",
+            "Snatch",
+            "Spike Cannon"
+        ],
+        "egg": [
+            "Confuse Ray",
+            "Destiny Bond",
+            "Haze",
+            "Head Smash",
+            "Nature Power",
+            "Water Pulse"
+        ],
+        "tutor": [
+            "Meteor Beam"
+        ]
+    }
+}

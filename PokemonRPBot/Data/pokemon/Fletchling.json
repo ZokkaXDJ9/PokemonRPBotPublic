@@ -1,0 +1,125 @@
+{
+    "number": 661,
+    "name": "Fletchling",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": {
+        "normal": [
+            "Big Pecks"
+        ],
+        "hidden": [
+            "Gale Wings"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Ember",
+            "Growl",
+            "Peck",
+            "Quick Attack"
+        ],
+        "silver": [
+            "Acrobatics",
+            "Aerial Ace",
+            "Agility",
+            "Flail",
+            "Natural Gift",
+            "Razor Wind",
+            "Roost"
+        ],
+        "gold": [
+            "Flame Charge",
+            "Fly",
+            "Me First",
+            "Steel Wing",
+            "Tailwind"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Aerial Ace",
+            "Agility",
+            "Air Cutter",
+            "Air Slash",
+            "Attract",
+            "Brave Bird",
+            "Confide",
+            "Double Team",
+            "Double-Edge",
+            "Dual Wingbeat",
+            "Endure",
+            "Facade",
+            "Feather Dance",
+            "Flame Charge",
+            "Flare Blitz",
+            "Fly",
+            "Frustration",
+            "Heat Wave",
+            "Hidden Power",
+            "Hurricane",
+            "Overheat",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Roost",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Steel Wing",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Swords Dance",
+            "Tailwind",
+            "Take Down",
+            "Taunt",
+            "Tera Blast",
+            "Thief",
+            "Toxic",
+            "U-turn",
+            "Will-O-Wisp",
+            "Work Up",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash"
+        ],
+        "tutor": [
+            "Defog",
+            "Dual Wingbeat",
+            "Growl",
+            "Heat Wave",
+            "Snatch",
+            "Snore",
+            "Tackle",
+            "Tailwind"
+        ],
+        "egg": [
+            "Defog",
+            "Flame Charge",
+            "Quick Guard",
+            "Snatch",
+            "Tailwind"
+        ],
+        "level1_g3_7": [
+            "Growl",
+            "Tackle"
+        ]
+    }
+}

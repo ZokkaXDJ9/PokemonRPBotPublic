@@ -1,0 +1,7 @@
+{
+  "name": "Bleed",
+  "description": "A vicious attack hit you and you are bleeding...",
+  "resist": "Moves that cure the Poisoned Status remove one stack of Bleed. Targets that receive 5HP of healing in a Round removes one stack of Bleed (healing does not need to be consecutive, or change the target's current HP to count towards removing a stack of Bleed).",
+  "effect": "This status may stack with itself once. You take 1 Wound Damage at the end of each of your turns for each stack of Bleed. When an opponent applies the second stack of Bleed, they may choose to reduce the target's Strength, Special, or Dexterity by 1 (only one stat may be reduced by Bleed at a time and is subject to the standard +/-3 limit for Stat Changes).",
+  "duration": "Until cured or end of Combat."
+}

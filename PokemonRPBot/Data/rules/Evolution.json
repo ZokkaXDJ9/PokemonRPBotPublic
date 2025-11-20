@@ -1,0 +1,6 @@
+{
+    "name": "Evolution",
+    "flavor": "Sometimes they just grow a little too fast!",
+    "text": "- Evolution is possible upon reaching the required level.\n- Evolution thresholds: Level 3 for second stage, Level 6 for third stage evolutions.\n- Characters utilize the learnable moves of the highest attainable form in their evolutionary line based on their level.\n- Exceptions to the above may apply for Pok\u00e9mon with poor second-stage stats, such as Weedle/Kakuna/Beedrill.\n- Characters who choose not to evolve at the required level can still receive evolved stats but retain the ability of their current form. The one exception is if a pokemon's evolved form would have access to only one ability with a detrimental effect, then the character uses that ability instead ex:Vigoroth cannot gain Slaking's stats without replacing Vital Spirit with Truant.",
+    "example": ""
+}

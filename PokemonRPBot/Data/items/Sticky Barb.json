@@ -1,0 +1,6 @@
+{
+    "name": "Sticky Barb",
+    "description": "Damages the User for 3 hp at the end of each Round. If hit by a foe with no held items, it will transfer onto them.",
+    "category": "Held Item",
+    "rarity": "Uncommon"
+}

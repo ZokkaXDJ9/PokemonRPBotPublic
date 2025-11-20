@@ -1,0 +1,5 @@
+{
+  "name": "Quaking Ground",
+  "description": "The ground is shaking so hard, and rocks are flung upwards. It's hard to reliably stay mid-air. Ground types can use this quaking to bolster themselfes.",
+  "effect": "- Flying and Levitating Pokemon can be hit by Ground Type Moves and lose their Flying Type Based Immunities.\n- Removes active terrain effects and terrain can't be set for the duration.\n- Attacks against ground types need an additional 6 to crit."
+}

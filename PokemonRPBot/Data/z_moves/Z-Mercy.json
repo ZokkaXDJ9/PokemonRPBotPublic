@@ -1,0 +1,12 @@
+{
+  "name": "Z-Mercy",
+  "type": "Fairy",
+  "power": 12,
+  "damage": "Insight",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Sound Based. Reduce the User's Special by 2. Flinches the target. -3 Accuracy.",
+  "description": "Amica unleashes a massive soul shattering screech to inflict the ultimate mercy on her foe.",
+  "og_move": "Disarming Voice",
+  "category": "Special"
+}

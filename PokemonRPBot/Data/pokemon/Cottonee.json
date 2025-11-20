@@ -1,0 +1,136 @@
+{
+    "number": 546,
+    "name": "Cottonee",
+    "types": [
+        "Grass",
+        "Fairy"
+    ],
+    "abilities": {
+        "normal": [
+            "Prankster",
+            "Infiltrator"
+        ],
+        "hidden": [
+            "Chlorophyll"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/2",
+    "dexterity": "2/4",
+    "vitality": "2/4",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Absorb",
+            "Fairy Wind",
+            "Growth",
+            "Helping Hand",
+            "Leech Seed",
+            "Stun Spore"
+        ],
+        "silver": [
+            "Charm",
+            "Cotton Spore",
+            "Giga Drain",
+            "Mega Drain",
+            "Poison Powder",
+            "Razor Leaf"
+        ],
+        "gold": [
+            "Cotton Guard",
+            "Endeavor",
+            "Energy Ball",
+            "Solar Beam",
+            "Sunny Day"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Beat Up",
+            "Charm",
+            "Confide",
+            "Dazzling Gleam",
+            "Double Team",
+            "Dream Eater",
+            "Encore",
+            "Endeavor",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Fake Tears",
+            "Flash",
+            "Frustration",
+            "Giga Drain",
+            "Grass Knot",
+            "Grassy Glide",
+            "Grassy Terrain",
+            "Helping Hand",
+            "Hidden Power",
+            "Misty Terrain",
+            "Nature Power",
+            "Protect",
+            "Rest",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Solar Beam",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Taunt",
+            "Tera Blast",
+            "Toxic",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down"
+        ],
+        "tutor": [
+            "Absorb",
+            "Covet",
+            "Defog",
+            "Endeavor",
+            "Fairy Wind",
+            "Giga Drain",
+            "Grassy Glide",
+            "Helping Hand",
+            "Knock Off",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Tailwind",
+            "Worry Seed"
+        ],
+        "egg": [
+            "Beat Up",
+            "Captivate",
+            "Encore",
+            "Fake Tears",
+            "Grass Whistle",
+            "Memento",
+            "Misty Terrain",
+            "Natural Gift",
+            "Nature Power",
+            "Switcheroo",
+            "Tickle",
+            "Worry Seed"
+        ],
+        "level1_g3_7": [
+            "Absorb",
+            "Fairy Wind"
+        ]
+    }
+}

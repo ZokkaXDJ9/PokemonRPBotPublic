@@ -1,0 +1,11 @@
+{
+  "name": "Springtide Storm",
+  "type": "Fairy",
+  "power": 1,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "Wind Based. Roll 2 Chance Dice to reduce the target's Strength and Special. -2 Accuracy. \n At Silver Rank, increase this move's power to 2.\n At Gold Rank, roll 2 Chance Dice to reduce the target's Dexterity by 1.\n At Platinum Rank, increase this move's power to 3.\n At Diamond Rank, double this move's chance dice amounts.",
+  "description": "A gentle breeze suddenly turned into a maelstrom of love. It hurts a lot, but it hurts in a good way~",
+  "category": "Special"
+}

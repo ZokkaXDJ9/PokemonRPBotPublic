@@ -1,0 +1,105 @@
+{
+    "number": 895,
+    "name": "Regidrago",
+    "types": [
+        "Dragon"
+    ],
+    "abilities": {
+        "normal": [
+            "Dragon’s Maw"
+        ],
+        "hidden": []
+    },
+    "base_hp": 11,
+    "strength": "3/6",
+    "dexterity": "2/5",
+    "vitality": "2/4",
+    "special": "3/6",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Bite",
+            "Twister",
+            "Vise Grip"
+        ],
+        "silver": [
+            "Ancient Power",
+            "Crunch",
+            "Dragon Breath",
+            "Focus Energy"
+        ],
+        "gold": [
+            "Dragon Claw",
+            "Dragon Dance",
+            "Dragon Energy",
+            "Explosion",
+            "Hammer Arm",
+            "Hyper Beam",
+            "Laser Focus",
+            "Thrash"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Body Slam",
+            "Breaking Swipe",
+            "Crunch",
+            "Draco Meteor",
+            "Dragon Cheer",
+            "Dragon Claw",
+            "Dragon Dance",
+            "Dragon Pulse",
+            "Earth Power",
+            "Earthquake",
+            "Endure",
+            "Facade",
+            "Fire Fang",
+            "Focus Energy",
+            "Giga Impact",
+            "Hyper Beam",
+            "Ice Fang",
+            "Light Screen",
+            "Outrage",
+            "Protect",
+            "Reflect",
+            "Rest",
+            "Reversal",
+            "Round",
+            "Scale Shot",
+            "Self-Destruct",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "Thunder Fang",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Captivate",
+            "Dragon Rage",
+            "Pursuit",
+            "Signal Beam"
+        ],
+        "tutor": [
+            "Scale Shot"
+        ],
+        "egg": [],
+        "level1_g3_7": []
+    }
+}

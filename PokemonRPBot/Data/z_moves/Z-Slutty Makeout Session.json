@@ -1,0 +1,12 @@
+{
+  "name": "Z-Slutty Makeout Session",
+  "type": "Fairy",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Makes Contact. The User restores HP equal to half the damage dealt, rounded down. Inflicts Flinch, Poisoned and In Love. User gains -1 Defense and Special Defense.",
+  "description": "Haru takes the foe by surprise, by leaping at them and starts very sluttily making out with them... This will leave them desperately craving for more, but open him up to attacks.",
+  "og_move": "Draining Kiss",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Court Change",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Battlefield",
+    "effect": "Swap any Screen Moves (i.e.Light Screen, Reflect etc.), Hazards (i.e. Toxic Spikes, Sticky Web etc.) and Effects on the foe's side of the field (i.e. Tailwind, Grassy Terrain etc.) for the one's on the User's side.",
+    "description": "The Pokemon signals the referee for half-time, the referee complies and both parties swap their sides of the field. Wait. Did we forget something?",
+    "category": "Support"
+}

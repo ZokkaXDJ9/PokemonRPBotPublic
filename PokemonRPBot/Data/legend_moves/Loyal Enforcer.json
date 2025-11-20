@@ -1,0 +1,11 @@
+{
+    "name": "Loyal Enforcer",
+    "type": "Poison",
+    "power": 2,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Ranged. This Move's Damage Pool, can be rolled with either the Strength or Special Attribute, dealing Physical or Special Damage respectively. Choose whatever is most convenient for the user. If using Special then the move is considered Special instead of Physical. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, trigger poison on the target, if the target is Poisoned. This increments the damage of Badly Poisoned.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, trigger poison on the target twice, if the target is Poisoned. This increments the damage of Badly Poisoned each time.",
+    "description": "Needs Description",
+    "category": "Physical"
+}

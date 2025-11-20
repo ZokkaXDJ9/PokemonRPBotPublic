@@ -1,0 +1,132 @@
+{
+    "number": 751,
+    "name": "Dewpider",
+    "types": [
+        "Water",
+        "Bug"
+    ],
+    "abilities": {
+        "normal": [
+            "Water Bubble"
+        ],
+        "hidden": [
+            "Water Absorb"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/2",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Bite",
+            "Bug Bite",
+            "Infestation",
+            "Spider Web",
+            "Water Gun"
+        ],
+        "silver": [
+            "Aqua Ring",
+            "Bubble Beam",
+            "Crunch",
+            "Entrainment",
+            "Headbutt",
+            "Leech Life",
+            "Soak"
+        ],
+        "gold": [
+            "Liquidation",
+            "Lunge",
+            "Mirror Coat"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Blizzard",
+            "Bug Bite",
+            "Bug Buzz",
+            "Chilling Water",
+            "Confide",
+            "Crunch",
+            "Double Team",
+            "Endeavor",
+            "Endure",
+            "Facade",
+            "Frost Breath",
+            "Frustration",
+            "Giga Drain",
+            "Hidden Power",
+            "Hydro Pump",
+            "Ice Beam",
+            "Icy Wind",
+            "Infestation",
+            "Iron Defense",
+            "Leech Life",
+            "Liquidation",
+            "Lunge",
+            "Magic Room",
+            "Poison Jab",
+            "Pounce",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Scald",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Tera Blast",
+            "Toxic",
+            "Trailblaze",
+            "Water Pulse",
+            "Waterfall",
+            "Wonder Room",
+            "X-Scissor",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down"
+        ],
+        "tutor": [
+            "Bubble",
+            "Bug Bite",
+            "Giga Drain",
+            "Icy Wind",
+            "Iron Defense",
+            "Liquidation",
+            "Magic Coat",
+            "Magic Room",
+            "Signal Beam",
+            "Skitter Smack",
+            "Snore",
+            "Water Pulse",
+            "Water Sport",
+            "Wonder Room"
+        ],
+        "egg": [
+            "Aurora Beam",
+            "Power Split",
+            "Spit Up",
+            "Sticky Web",
+            "Stockpile"
+        ],
+        "level1_g3_7": [
+            "Bubble",
+            "Water Sport"
+        ]
+    }
+}

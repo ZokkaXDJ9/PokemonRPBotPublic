@@ -1,0 +1,11 @@
+{
+    "name": "Genesis Burst",
+    "type": "Psychic",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Allows the User to switch out one of their active moves with another of their learned moves for the remainder of the quest. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, the User may switch two moves instead.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, the User may also switch moves for learnable moves they haven't learned yet.",
+    "description": "Need Description",
+    "category": "Special"
+}

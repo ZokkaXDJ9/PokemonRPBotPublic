@@ -1,0 +1,121 @@
+{
+    "number": 290,
+    "name": "Nincada",
+    "types": [
+        "Bug",
+        "Ground"
+    ],
+    "abilities": {
+        "normal": [
+            "Compound Eyes"
+        ],
+        "hidden": [
+            "Run Away"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/3",
+    "vitality": "3/6",
+    "special": "1/2",
+    "insight": "1/2",
+    "moves": {
+        "bronze": [
+            "Absorb",
+            "False Swipe",
+            "Harden",
+            "Leech Life",
+            "Sand Attack",
+            "Scratch"
+        ],
+        "silver": [
+            "Bide",
+            "Fury Swipes",
+            "Metal Claw",
+            "Mind Reader",
+            "Mud-Slap"
+        ],
+        "gold": [
+            "Dig"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Aerial Ace",
+            "Bug Buzz",
+            "Confide",
+            "Cut",
+            "Dig",
+            "Double Team",
+            "Endure",
+            "Facade",
+            "False Swipe",
+            "Flash",
+            "Frustration",
+            "Giga Drain",
+            "Hidden Power",
+            "Hone Claws",
+            "Leech Life",
+            "Natural Gift",
+            "Protect",
+            "Rest",
+            "Return",
+            "Round",
+            "Sandstorm",
+            "Secret Power",
+            "Shadow Ball",
+            "Sleep Talk",
+            "Snore",
+            "Solar Beam",
+            "Struggle Bug",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Toxic",
+            "X-Scissor",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Bug Bite",
+            "Double-Edge",
+            "Fury Cutter",
+            "Giga Drain",
+            "Harden",
+            "Mimic",
+            "Mud-Slap",
+            "Scratch",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Snore",
+            "Spite",
+            "Substitute"
+        ],
+        "egg": [
+            "Bug Bite",
+            "Bug Buzz",
+            "Endure",
+            "Feint Attack",
+            "Final Gambit",
+            "Flail",
+            "Gust",
+            "Night Slash",
+            "Silver Wind"
+        ],
+        "level1_g3_7": [
+            "Harden",
+            "Scratch"
+        ]
+    }
+}

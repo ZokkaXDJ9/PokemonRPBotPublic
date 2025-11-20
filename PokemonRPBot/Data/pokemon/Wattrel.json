@@ -1,0 +1,120 @@
+{
+    "number": 940,
+    "name": "Wattrel",
+    "types": [
+        "Electric",
+        "Flying"
+    ],
+    "abilities": {
+        "normal": [
+            "Wind Power",
+            "Volt Absorb"
+        ],
+        "hidden": [
+            "Competitive"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Growl",
+            "Peck",
+            "Quick Attack",
+            "Thunder Shock"
+        ],
+        "silver": [
+            "Agility",
+            "Dual Wingbeat",
+            "Pluck",
+            "Roost",
+            "Spark",
+            "Uproar"
+        ],
+        "gold": [
+            "Discharge",
+            "Volt Switch"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Aerial Ace",
+            "Agility",
+            "Air Cutter",
+            "Air Slash",
+            "Brave Bird",
+            "Charge",
+            "Charge Beam",
+            "Dual Wingbeat",
+            "Eerie Impulse",
+            "Electric Terrain",
+            "Electro Ball",
+            "Electroweb",
+            "Endeavor",
+            "Endure",
+            "Facade",
+            "Feather Dance",
+            "Fly",
+            "Hurricane",
+            "Protect",
+            "Rest",
+            "Sleep Talk",
+            "Substitute",
+            "Swift",
+            "Tailwind",
+            "Take Down",
+            "Tera Blast",
+            "Thunder",
+            "Thunder Wave",
+            "Thunderbolt",
+            "U-turn",
+            "Uproar",
+            "Volt Switch",
+            "Weather Ball",
+            "Wild Charge",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Captivate",
+            "Flash",
+            "Foresight",
+            "Ion Deluge",
+            "Mirror Move",
+            "Ominous Wind",
+            "Razor Wind",
+            "Silver Wind",
+            "Sky Drop",
+            "Sonic Boom"
+        ],
+        "tutor": [],
+        "egg": [
+            "Endeavor",
+            "Feather Dance",
+            "Spit Up",
+            "Stockpile",
+            "Swallow",
+            "Weather Ball"
+        ],
+        "level1_g3_7": []
+    }
+}

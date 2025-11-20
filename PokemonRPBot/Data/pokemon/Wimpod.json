@@ -1,0 +1,93 @@
+{
+    "number": 767,
+    "name": "Wimpod",
+    "types": [
+        "Bug",
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Wimp Out"
+        ],
+        "hidden": []
+    },
+    "base_hp": 2,
+    "strength": "1/3",
+    "dexterity": "2/5",
+    "vitality": "1/3",
+    "special": "1/2",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Defense Curl",
+            "Sand Attack",
+            "Struggle Bug"
+        ],
+        "silver": [],
+        "gold": [],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Assurance",
+            "Attract",
+            "Bug Buzz",
+            "Confide",
+            "Double Team",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Hail",
+            "Hidden Power",
+            "Leech Life",
+            "Mud Shot",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Scald",
+            "Screech",
+            "Sleep Talk",
+            "Snore",
+            "Spikes",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Swift",
+            "Taunt",
+            "Toxic",
+            "Waterfall",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Sand Attack",
+            "Skitter Smack",
+            "Snore",
+            "Struggle Bug"
+        ],
+        "egg": [
+            "Aqua Jet",
+            "Harden",
+            "Metal Claw",
+            "Rollout",
+            "Spikes",
+            "Wide Guard"
+        ],
+        "level1_g3_7": [
+            "Sand Attack",
+            "Struggle Bug"
+        ]
+    }
+}

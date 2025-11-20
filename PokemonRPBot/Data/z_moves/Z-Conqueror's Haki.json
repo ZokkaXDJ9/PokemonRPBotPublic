@@ -1,0 +1,12 @@
+{
+  "name": "Z-Conqueror's Haki",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User and Battlefield",
+  "effect": "Priority 1. Increase the User's Dexterity by 2, Evasion and Strength by 1. Sets up Aura Burst for 4 Rounds.",
+  "description": "The user relaxes and lightens its body to move faster. His Aura starts flowing out, flowing into the whole.",
+  "og_move": "Agility",
+  "category": "Support"
+}

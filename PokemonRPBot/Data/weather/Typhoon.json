@@ -1,0 +1,5 @@
+{
+  "name": "Typhoon",
+  "description": "A great torrent quickly floods the field, in just a matter of seconds everything is underwater and you struggle to stay afloat trough the crashing waves around.",
+  "effect": "- All Water-Type moves have +1 minimum damage and deal 1 flat damage at the end of damage calculation.\n- All Water moves gain the Never Fail and High Critical trait.\n- All Fire-Type Moves fail to be executed.\n- No one can be affected by the Burn Status Condition.\n- Moves that add positive effects in Sunny Weather fail to be executed.\n- Other Weather conditions fail to activate through any means."
+}

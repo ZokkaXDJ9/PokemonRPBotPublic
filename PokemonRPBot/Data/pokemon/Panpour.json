@@ -1,0 +1,139 @@
+{
+    "number": 515,
+    "name": "Panpour",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Gluttony"
+        ],
+        "hidden": [
+            "Torrent"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Leer",
+            "Lick",
+            "Water Gun"
+        ],
+        "silver": [
+            "Acrobatics",
+            "Bite",
+            "Fling",
+            "Fury Swipes",
+            "Scald",
+            "Taunt",
+            "Water Sport"
+        ],
+        "gold": [
+            "Brine",
+            "Crunch",
+            "Natural Gift",
+            "Recycle"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Attract",
+            "Blizzard",
+            "Confide",
+            "Cut",
+            "Dig",
+            "Dive",
+            "Double Team",
+            "Facade",
+            "Fling",
+            "Frustration",
+            "Grass Knot",
+            "Hail",
+            "Hidden Power",
+            "Hone Claws",
+            "Ice Beam",
+            "Low Sweep",
+            "Payback",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Rock Smash",
+            "Rock Tomb",
+            "Round",
+            "Scald",
+            "Shadow Claw",
+            "Sleep Talk",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Taunt",
+            "Thief",
+            "Torment",
+            "Toxic",
+            "Waterfall",
+            "Work Up",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Endure",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Aqua Tail",
+            "Covet",
+            "Endeavor",
+            "Focus Punch",
+            "Gastro Acid",
+            "Gunk Shot",
+            "Helping Hand",
+            "Ice Punch",
+            "Icy Wind",
+            "Iron Tail",
+            "Knock Off",
+            "Low Kick",
+            "Play Nice",
+            "Recycle",
+            "Role Play",
+            "Scratch",
+            "Sleep Talk",
+            "Snore",
+            "Uproar",
+            "Water Pledge",
+            "Water Pulse"
+        ],
+        "egg": [
+            "Aqua Ring",
+            "Aqua Tail",
+            "Astonish",
+            "Covet",
+            "Disarming Voice",
+            "Hydro Pump",
+            "Low Kick",
+            "Mud Sport",
+            "Nasty Plot",
+            "Role Play",
+            "Tickle"
+        ],
+        "level1_g3_7": [
+            "Scratch",
+            "Play Nice"
+        ]
+    }
+}

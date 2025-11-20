@@ -1,0 +1,138 @@
+{
+    "number": 371,
+    "name": "Bagon",
+    "types": [
+        "Dragon"
+    ],
+    "abilities": {
+        "normal": [
+            "Rock Head"
+        ],
+        "hidden": [
+            "Sheer Force"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/5",
+    "dexterity": "2/4",
+    "vitality": "2/4",
+    "special": "1/3",
+    "insight": "1/2",
+    "moves": {
+        "bronze": [
+            "Bite",
+            "Dragon Breath",
+            "Ember",
+            "Leer"
+        ],
+        "silver": [
+            "Crunch",
+            "Dragon Claw",
+            "Dragon Breath",
+            "Focus Energy",
+            "Headbutt",
+            "Scary Face"
+        ],
+        "gold": [
+            "Double-Edge",
+            "Flamethrower",
+            "Outrage",
+            "Zen Headbutt"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Aerial Ace",
+            "Attract",
+            "Body Slam",
+            "Brick Break",
+            "Captivate",
+            "Confide",
+            "Crunch",
+            "Cut",
+            "Double Team",
+            "Double-Edge",
+            "Draco Meteor",
+            "Dragon Cheer",
+            "Dragon Claw",
+            "Dragon Dance",
+            "Dragon Pulse",
+            "Dragon Tail",
+            "Endure",
+            "Facade",
+            "Fire Blast",
+            "Fire Fang",
+            "Fire Spin",
+            "Flamethrower",
+            "Focus Energy",
+            "Frustration",
+            "Helping Hand",
+            "Hidden Power",
+            "Hone Claws",
+            "Hydro Pump",
+            "Hyper Voice",
+            "Incinerate",
+            "Iron Defense",
+            "Iron Head",
+            "Mud-Slap",
+            "Natural Gift",
+            "Outrage",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Roar",
+            "Rock Slide",
+            "Rock Smash",
+            "Rock Tomb",
+            "Round",
+            "Scary Face",
+            "Secret Power",
+            "Shadow Claw",
+            "Sleep Talk",
+            "Snore",
+            "Strength",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Take Down",
+            "Tera Blast",
+            "Thunder Fang",
+            "Toxic",
+            "Zen Headbutt",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Metronome",
+            "Nasty Plot",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Body Slam",
+            "Double-Edge",
+            "Draco Meteor",
+            "Mimic",
+            "Rage",
+            "Rock Slide",
+            "Substitute"
+        ],
+        "egg": [
+            "Defense Curl",
+            "Dragon Dance",
+            "Dragon Pulse",
+            "Dragon Rage",
+            "Dragon Rush",
+            "Endure",
+            "Fire Fang",
+            "Hydro Pump",
+            "Shadow Claw",
+            "Thrash",
+            "Twister"
+        ],
+        "level1_g3_7": [
+            "Rage"
+        ]
+    }
+}

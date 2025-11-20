@@ -1,0 +1,11 @@
+{
+  "name": "Bubble",
+  "type": "Water",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "Roll 1 Chance Dice to Reduce the Dexterity of those affected.",
+  "description": "A spray of bubbles flies around the enemies, some of the bubbles stick to their bodies hindering their movement.",
+  "category": "Special"
+}

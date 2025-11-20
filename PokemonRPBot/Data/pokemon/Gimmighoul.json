@@ -1,0 +1,80 @@
+{
+    "number": 999,
+    "name": "Gimmighoul",
+    "types": [
+        "Ghost"
+    ],
+    "abilities": {
+        "normal": [
+            "Rattled"
+        ],
+        "hidden": []
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/2",
+    "vitality": "2/4",
+    "special": "2/5",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Astonish",
+            "Tackle"
+        ],
+        "silver": [],
+        "gold": [],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Confuse Ray",
+            "Endure",
+            "Hex",
+            "Light Screen",
+            "Nasty Plot",
+            "Night Shade",
+            "Power Gem",
+            "Protect",
+            "Reflect",
+            "Rest",
+            "Shadow Ball",
+            "Sleep Talk",
+            "Substitute",
+            "Take Down",
+            "Tera Blast",
+            "Thief",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Facade",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Captivate",
+            "Embargo",
+            "Flash",
+            "Magnet Bomb",
+            "Mirror Shot",
+            "Nightmare",
+            "Pursuit",
+            "Snatch",
+            "Autotomize",
+            "Grudge",
+            "Magic Coat"
+        ],
+        "tutor": [],
+        "egg": [],
+        "level1_g3_7": []
+    }
+}

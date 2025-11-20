@@ -1,0 +1,123 @@
+{
+    "number": 349,
+    "name": "Feebas",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Swift Swim",
+            "Oblivious"
+        ],
+        "hidden": [
+            "Adaptability"
+        ]
+    },
+    "base_hp": 2,
+    "strength": "1/2",
+    "dexterity": "2/4",
+    "vitality": "1/2",
+    "special": "1/2",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Splash"
+        ],
+        "silver": [
+            "Flail",
+            "Tackle"
+        ],
+        "gold": [],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Blizzard",
+            "Brine",
+            "Captivate",
+            "Chilling Water",
+            "Confide",
+            "Confuse Ray",
+            "Dive",
+            "Double Team",
+            "Double-Edge",
+            "Dragon Pulse",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Hail",
+            "Haze",
+            "Hidden Power",
+            "Ice Beam",
+            "Icy Wind",
+            "Iron Tail",
+            "Light Screen",
+            "Mud Shot",
+            "Muddy Water",
+            "Natural Gift",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Scald",
+            "Scale Shot",
+            "Secret Power",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Swift",
+            "Tera Blast",
+            "Toxic",
+            "Water Pulse",
+            "Waterfall",
+            "Whirlpool",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Splash",
+            "Swords Dance",
+            "Take Down"
+        ],
+        "tutor": [
+            "Dive",
+            "Double-Edge",
+            "Dragon Pulse",
+            "Icy Wind",
+            "Iron Tail",
+            "Mimic",
+            "Scale Shot",
+            "Sleep Talk",
+            "Snore",
+            "Splash",
+            "Substitute",
+            "Swift",
+            "Water Pulse"
+        ],
+        "egg": [
+            "Brine",
+            "Captivate",
+            "Confuse Ray",
+            "Dragon Breath",
+            "Dragon Pulse",
+            "Haze",
+            "Hypnosis",
+            "Iron Tail",
+            "Light Screen",
+            "Mirror Coat",
+            "Mist",
+            "Mud Sport",
+            "Tickle"
+        ],
+        "level1_g3_7": [
+            "Splash"
+        ]
+    }
+}

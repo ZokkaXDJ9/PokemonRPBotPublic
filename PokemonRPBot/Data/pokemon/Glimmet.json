@@ -1,0 +1,113 @@
+{
+    "number": 969,
+    "name": "Glimmet",
+    "types": [
+        "Rock",
+        "Poison"
+    ],
+    "abilities": {
+        "normal": [
+            "Toxic Debris"
+        ],
+        "hidden": [
+            "Corrosion"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "1/3",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "3/6",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Acid Spray",
+            "Harden",
+            "Rock Throw",
+            "Smack Down"
+        ],
+        "silver": [
+            "Ancient Power",
+            "Rock Polish",
+            "Rock Slide",
+            "Sandstorm",
+            "Self-Destruct",
+            "Stealth Rock",
+            "Venoshock"
+        ],
+        "gold": [
+            "Acid Armor",
+            "Power Gem",
+            "Sludge Wave"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acid Spray",
+            "Confuse Ray",
+            "Dazzling Gleam",
+            "Endure",
+            "Facade",
+            "Gunk Shot",
+            "Iron Defense",
+            "Light Screen",
+            "Meteor Beam",
+            "Mud Shot",
+            "Power Gem",
+            "Protect",
+            "Rain Dance",
+            "Reflect",
+            "Rest",
+            "Rock Blast",
+            "Rock Slide",
+            "Rock Tomb",
+            "Sand Tomb",
+            "Sandstorm",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Sludge Wave",
+            "Smack Down",
+            "Spikes",
+            "Stealth Rock",
+            "Stone Edge",
+            "Substitute",
+            "Sunny Day",
+            "Tera Blast",
+            "Toxic",
+            "Toxic Spikes",
+            "Venoshock",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Bide",
+            "Constrict",
+            "Ice Ball",
+            "Rock Climb",
+            "Snatch",
+            "Spike Cannon"
+        ],
+        "tutor": [],
+        "egg": [
+            "Explosion",
+            "Memento",
+            "Toxic"
+        ],
+        "level1_g3_7": []
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Gluttony",
+  "description": "This Pokemon eats all day long, it has no problem to find food sources since it's not a picky eater at all.",
+  "effect": "Consuming Berries/Seeds doesn't expend the User's Bonus Action for the Round. The User may eat these items at any point in the Round."
+}

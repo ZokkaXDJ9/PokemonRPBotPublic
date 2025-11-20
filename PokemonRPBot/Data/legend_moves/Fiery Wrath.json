@@ -1,0 +1,11 @@
+{
+    "name": "Fiery Wrath",
+    "type": "Dark",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Inflicts Wounds. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, this move Flinches the Foe.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, a random different Foe takes defense ignoring damage equal to 50% of the HP the original target lost.",
+    "description": "The Pok\u00e9mon turns into an avatar of wrath, before crashing into the opposing side. The resulting causes pain and anger in all affected, possibly to the point they struggle to aim.",
+    "category": "Special"
+}

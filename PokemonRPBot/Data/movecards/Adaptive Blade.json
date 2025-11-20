@@ -1,0 +1,12 @@
+{
+  "name": "Adaptive Blade",
+  "type": "Any",
+  "power": 0,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Choose the type of this move on use.",
+  "description": "The user summons a blade, that adjusts to their desired type.",
+  "category": "Physical",
+  "price": 9
+}

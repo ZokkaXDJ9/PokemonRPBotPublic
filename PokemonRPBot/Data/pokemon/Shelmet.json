@@ -1,0 +1,122 @@
+{
+    "number": 616,
+    "name": "Shelmet",
+    "types": [
+        "Bug"
+    ],
+    "abilities": {
+        "normal": [
+            "Hydration",
+            "Shell Armor"
+        ],
+        "hidden": [
+            "Overcoat"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "1/3",
+    "dexterity": "1/2",
+    "vitality": "2/5",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Absorb",
+            "Acid",
+            "Bide",
+            "Curse",
+            "Protect"
+        ],
+        "silver": [
+            "Acid Armor",
+            "Giga Drain",
+            "Guard Swap",
+            "Mega Drain",
+            "Struggle Bug",
+            "Yawn"
+        ],
+        "gold": [
+            "Body Slam",
+            "Bug Buzz",
+            "Final Gambit",
+            "Recover"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Baton Pass",
+            "Body Slam",
+            "Bug Buzz",
+            "Confide",
+            "Double Team",
+            "Encore",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Frustration",
+            "Giga Drain",
+            "Guard Swap",
+            "Hidden Power",
+            "Infestation",
+            "Leech Life",
+            "Mud Shot",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Snore",
+            "Spikes",
+            "Struggle Bug",
+            "Substitute",
+            "Swagger",
+            "Toxic",
+            "Toxic Spikes",
+            "Venoshock",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Absorb",
+            "Bug Bite",
+            "Gastro Acid",
+            "Giga Drain",
+            "Leech Life",
+            "Signal Beam",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Snore"
+        ],
+        "egg": [
+            "Baton Pass",
+            "Double-Edge",
+            "Encore",
+            "Endure",
+            "Feint",
+            "Guard Split",
+            "Mind Reader",
+            "Mud-Slap",
+            "Pursuit",
+            "Spikes",
+            "Toxic Spikes"
+        ],
+        "level1_g3_7": [
+            "Leech Life",
+            "Absorb"
+        ]
+    }
+}

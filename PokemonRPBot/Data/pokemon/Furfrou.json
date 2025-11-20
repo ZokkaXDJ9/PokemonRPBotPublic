@@ -1,0 +1,113 @@
+{
+    "number": 676,
+    "name": "Furfrou",
+    "types": [
+        "Normal"
+    ],
+    "abilities": {
+        "normal": [
+            "Fur Coat"
+        ],
+        "hidden": []
+    },
+    "base_hp": 5,
+    "strength": "2/5",
+    "dexterity": "3/6",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "3/6",
+    "moves": {
+        "bronze": [
+            "Baby-Doll Eyes",
+            "Sand Attack"
+        ],
+        "silver": [
+            "Bite",
+            "Headbutt",
+            "Odor Sleuth",
+            "Retaliate",
+            "Tail Whip"
+        ],
+        "gold": [
+            "Charm",
+            "Cotton Guard",
+            "Sucker Punch",
+            "Take Down"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Charge Beam",
+            "Confide",
+            "Dark Pulse",
+            "Dig",
+            "Double Team",
+            "Echoed Voice",
+            "Facade",
+            "Flash",
+            "Frustration",
+            "Giga Impact",
+            "Grass Knot",
+            "Hidden Power",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Retaliate",
+            "Return",
+            "Roar",
+            "Rock Smash",
+            "Round",
+            "Sleep Talk",
+            "Snarl",
+            "Substitute",
+            "Sunny Day",
+            "Surf",
+            "Swagger",
+            "Thunder Wave",
+            "Toxic",
+            "U-turn",
+            "Wild Charge",
+            "Work Up",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Endure",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Endeavor",
+            "Growl",
+            "Helping Hand",
+            "Hyper Voice",
+            "Iron Tail",
+            "Last Resort",
+            "Role Play",
+            "Snore",
+            "Tackle",
+            "Uproar",
+            "Zen Headbutt"
+        ],
+        "egg": [
+            "Captivate",
+            "Mimic",
+            "Refresh",
+            "Role Play",
+            "Work Up"
+        ],
+        "level1_g3_7": [
+            "Growl",
+            "Tackle"
+        ]
+    }
+}

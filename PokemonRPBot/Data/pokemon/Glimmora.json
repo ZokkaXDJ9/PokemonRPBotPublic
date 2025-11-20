@@ -1,0 +1,122 @@
+{
+    "number": 970,
+    "name": "Glimmora",
+    "types": [
+        "Rock",
+        "Poison"
+    ],
+    "abilities": {
+        "normal": [
+            "Toxic Debris"
+        ],
+        "hidden": [
+            "Corrosion"
+        ]
+    },
+    "base_hp": 5,
+    "strength": "2/4",
+    "dexterity": "2/5",
+    "vitality": "3/6",
+    "special": "3/7",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Acid Spray",
+            "Harden",
+            "Mortal Spin",
+            "Rock Throw",
+            "Smack Down",
+            "Spiky Shield",
+            "Toxic Spikes"
+        ],
+        "silver": [
+            "Ancient Power",
+            "Rock Polish",
+            "Rock Slide",
+            "Sandstorm",
+            "Self-Destruct",
+            "Stealth Rock",
+            "Venoshock"
+        ],
+        "gold": [
+            "Acid Armor",
+            "Power Gem",
+            "Sludge Wave"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acid Spray",
+            "Confuse Ray",
+            "Dazzling Gleam",
+            "Earth Power",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Flash Cannon",
+            "Giga Impact",
+            "Gunk Shot",
+            "Hyper Beam",
+            "Iron Defense",
+            "Light Screen",
+            "Meteor Beam",
+            "Mud Shot",
+            "Power Gem",
+            "Protect",
+            "Rain Dance",
+            "Reflect",
+            "Rest",
+            "Rock Blast",
+            "Rock Slide",
+            "Rock Tomb",
+            "Sand Tomb",
+            "Sandstorm",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Sludge Wave",
+            "Smack Down",
+            "Solar Beam",
+            "Spikes",
+            "Stealth Rock",
+            "Stone Edge",
+            "Substitute",
+            "Sunny Day",
+            "Tera Blast",
+            "Toxic",
+            "Toxic Spikes",
+            "Venoshock",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Bide",
+            "Constrict",
+            "Ice Ball",
+            "Rock Climb",
+            "Snatch",
+            "Spike Cannon"
+        ],
+        "tutor": [],
+        "egg": [
+            "Explosion",
+            "Memento",
+            "Toxic"
+        ],
+        "level1_g3_7": []
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "number": 741,
+    "name": "Oricorio (Pom-Pom Style)",
+    "types": [
+        "Electric",
+        "Flying"
+    ],
+    "abilities": {
+        "normal": [
+            "Dancer"
+        ],
+        "hidden": []
+    },
+    "base_hp": 5,
+    "strength": "2/5",
+    "dexterity": "3/6",
+    "vitality": "2/5",
+    "special": "3/6",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Growl",
+            "Helping Hand",
+            "Peck",
+            "Pound"
+        ],
+        "silver": [
+            "Acrobatics",
+            "Air Cutter",
+            "Baton Pass",
+            "Captivate",
+            "Double Slap",
+            "Feather Dance",
+            "Flatter",
+            "Roost",
+            "Teeter Dance"
+        ],
+        "gold": [
+            "Agility",
+            "Air Slash",
+            "Hurricane",
+            "Mirror Move",
+            "Revelation Dance"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Aerial Ace",
+            "Agility",
+            "Air Cutter",
+            "Air Slash",
+            "Alluring Voice",
+            "Attract",
+            "Baton Pass",
+            "Calm Mind",
+            "Charm",
+            "Confide",
+            "Double Team",
+            "Dual Wingbeat",
+            "Embargo",
+            "Endure",
+            "Facade",
+            "Feather Dance",
+            "Fly",
+            "Frustration",
+            "Helping Hand",
+            "Hidden Power",
+            "Hurricane",
+            "Icy Wind",
+            "Protect",
+            "Psych Up",
+            "Quash",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Reversal",
+            "Roost",
+            "Round",
+            "Safeguard",
+            "Sandstorm",
+            "Sleep Talk",
+            "Steel Wing",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Swords Dance",
+            "Tailwind",
+            "Take Down",
+            "Taunt",
+            "Tera Blast",
+            "Toxic",
+            "Trailblaze",
+            "U-turn",
+            "Work Up",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash"
+        ],
+        "tutor": [
+            "Covet",
+            "Defog",
+            "Helping Hand",
+            "Icy Wind",
+            "Pound",
+            "Role Play",
+            "Sky Attack",
+            "Snore",
+            "Tailwind"
+        ],
+        "egg": [
+            "Attract",
+            "Captivate",
+            "Defog",
+            "Pluck",
+            "Quiver Dance",
+            "Safeguard",
+            "Tailwind"
+        ],
+        "level1_g3_7": [
+            "Pound"
+        ]
+    }
+}

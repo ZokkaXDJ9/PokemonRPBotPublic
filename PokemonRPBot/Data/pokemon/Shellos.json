@@ -1,0 +1,142 @@
+{
+    "number": 422,
+    "name": "Shellos",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Sticky Hold",
+            "Storm Drain"
+        ],
+        "hidden": [
+            "Sand Force"
+        ]
+    },
+    "base_hp": 5,
+    "strength": "1/3",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Harden",
+            "Mud Sport",
+            "Mud-Slap",
+            "Recover",
+            "Water Gun",
+            "Water Pulse"
+        ],
+        "silver": [
+            "Ancient Power",
+            "Body Slam",
+            "Hidden Power",
+            "Mud Bomb",
+            "Muddy Water",
+            "Rain Dance"
+        ],
+        "gold": [
+            "Earth Power",
+            "Memento"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Amnesia",
+            "Attract",
+            "Blizzard",
+            "Body Slam",
+            "Brine",
+            "Bulldoze",
+            "Captivate",
+            "Chilling Water",
+            "Confide",
+            "Curse",
+            "Dive",
+            "Double Team",
+            "Earth Power",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Hail",
+            "Helping Hand",
+            "Hidden Power",
+            "Hydro Pump",
+            "Ice Beam",
+            "Icy Wind",
+            "Infestation",
+            "Liquidation",
+            "Mud Shot",
+            "Mud-Slap",
+            "Muddy Water",
+            "Natural Gift",
+            "Pain Split",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Rock Slide",
+            "Rock Tomb",
+            "Round",
+            "Sandstorm",
+            "Scald",
+            "Secret Power",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Snore",
+            "Snowscape",
+            "Stealth Rock",
+            "Stone Edge",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Take Down",
+            "Tera Blast",
+            "Toxic",
+            "Water Pulse",
+            "Waterfall",
+            "Whirlpool",
+            "Agility",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Ancient Power",
+            "Dive",
+            "Earth Power",
+            "Icy Wind",
+            "Mud-Slap",
+            "Pain Split",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Snore",
+            "Water Pulse"
+        ],
+        "egg": [
+            "Acid Armor",
+            "Amnesia",
+            "Brine",
+            "Clear Smog",
+            "Counter",
+            "Curse",
+            "Fissure",
+            "Memento",
+            "Mirror Coat",
+            "Mist",
+            "Sludge",
+            "Spit Up",
+            "Stockpile",
+            "Swallow",
+            "Trump Card",
+            "Yawn"
+        ],
+        "level1_g3_7": [
+            "Mud-Slap"
+        ]
+    }
+}

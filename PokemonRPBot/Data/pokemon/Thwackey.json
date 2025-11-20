@@ -1,0 +1,130 @@
+{
+    "number": 811,
+    "name": "Thwackey",
+    "types": [
+        "Grass"
+    ],
+    "abilities": {
+        "normal": [
+            "Overgrow"
+        ],
+        "hidden": [
+            "Grassy Surge"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/5",
+    "dexterity": "2/5",
+    "vitality": "2/5",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Branch Poke",
+            "Double Hit",
+            "Growl",
+            "Scratch",
+            "Taunt"
+        ],
+        "silver": [
+            "Knock Off",
+            "Razor Leaf",
+            "Screech",
+            "Slam"
+        ],
+        "gold": [
+            "Endeavor",
+            "Uproar",
+            "Wood Hammer"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Assurance",
+            "Attract",
+            "Bide",
+            "Body Slam",
+            "Bullet Seed",
+            "Captivate",
+            "Double-Edge",
+            "Drain Punch",
+            "Endeavor",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "False Swipe",
+            "Flash",
+            "Fling",
+            "Focus Energy",
+            "Giga Drain",
+            "Grass Knot",
+            "Grass Pledge",
+            "Grass Whistle",
+            "Grassy Glide",
+            "Grassy Terrain",
+            "Karate Chop",
+            "Knock Off",
+            "Leaf Storm",
+            "Low Kick",
+            "Magical Leaf",
+            "Mega Kick",
+            "Mega Punch",
+            "Natural Gift",
+            "Needle Arm",
+            "Protect",
+            "Rage",
+            "Refresh",
+            "Rest",
+            "Rock Climb",
+            "Round",
+            "Scary Face",
+            "Screech",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Solar Beam",
+            "Solar Blade",
+            "Substitute",
+            "Sunny Day",
+            "Swift",
+            "Swords Dance",
+            "Take Down",
+            "Taunt",
+            "Tera Blast",
+            "Thief",
+            "Trailblaze",
+            "U-turn",
+            "Uproar",
+            "Work Up",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash"
+        ],
+        "tutor": [
+            "Grassy Glide"
+        ],
+        "egg": [
+            "Fake Out",
+            "Growth",
+            "Hammer Arm",
+            "Leech Seed",
+            "Nature Power",
+            "Strength",
+            "Worry Seed"
+        ],
+        "level1_g3_7": []
+    }
+}

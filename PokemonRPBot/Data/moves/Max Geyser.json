@@ -1,0 +1,11 @@
+{
+  "name": "Max Geyser",
+  "type": "Water",
+  "damage": "Strength / Special + Original",
+  "power": 2,
+  "accuracy": "Original Move",
+  "target": "Foe",
+  "effect": "This move replaces all water type moves when Dynamaxed. Deals the base move's damage + 2 to a single enemy and summons Rainy weather for 5 rounds.",
+  "description": "A super-sized attack that has the Dynamaxed Pokemon releasing a geyser of water under the for.",
+  "category": "Physical/Special"
+}

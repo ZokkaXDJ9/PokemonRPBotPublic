@@ -1,0 +1,11 @@
+{
+    "name": "Spectral Thief",
+    "type": "Ghost",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "If successful, before damage calculation, copy all Attribute Increases and Decreases the foe may have. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, steal all Attribute Increases the foe may have instead of only copying them.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move no longer Steals Attributes Decreases from the foe.",
+    "description": "Through the shadows, the user sneaks on its target to steal its life force and consume it, leaving the victim with a sense of grief and loss.",
+    "category": "Physical"
+}

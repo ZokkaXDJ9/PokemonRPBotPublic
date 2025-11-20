@@ -1,0 +1,12 @@
+{
+  "name": "Z-Triple Layer Barrier",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Battlefield",
+  "effect": "User and Allies will receive 1 less Damage from Physical and Special Attacks. If the user is Silver Rank or higher, User and Allies instead receive 2 less damage from Special attacks. At Diamond Rank or higher, 3 less. This effect doesn't stack with Reflect and Light Screen. Lasts 6 Rounds. Prio 1.",
+  "description": "Chester creates barriers around him and the party to reduce as much damage as possible, creating three layers of energy that reduce the impact.",
+  "og_move": "[Low Sweep??? UPDATE!]",
+  "category": "Support"
+}

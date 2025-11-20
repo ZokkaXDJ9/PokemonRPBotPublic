@@ -1,0 +1,11 @@
+{
+  "name": "Sky Uppercut",
+  "type": "Fighting",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Fist Based. -1 Accuracy.",
+  "description": "The user attacks with an uppercut, throwing the foe skyward with lots of force.",
+  "category": "Physical"
+}

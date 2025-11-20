@@ -1,0 +1,12 @@
+{
+  "name": "Z-Toxic Beauty",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Beauty",
+  "target": "Foe",
+  "effect": "Reduce Foe's Strength and Special by 1. Inflicts Badly poisoned. Inflicts In Love. - 3 Accuracy",
+  "description": "All it takes is a single glance towards her to miss the toxins entering her foe's blood. Leaving them weakened and unwilling harm her or her allies.",
+  "og_move": "Captivate",
+  "category": "Support"
+}

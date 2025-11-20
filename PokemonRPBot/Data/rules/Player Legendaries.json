@@ -1,0 +1,6 @@
+{
+  "name": "Player Legendaries",
+  "flavor": "Look at that, they are everywhere!",
+  "text": "Creating a legendary as a playable character needs you to meet the following requirements:\n- 20 total character levels (Stored GM exp counts towards that)\n- A Platinum Rank character\n- 10 quest participations (Player or GM)\n- Being a server member for at least 2 months\nTo create a legendary, please make a post inside the <#1271585309595009074> forum.\n\n**Getting more legendary slots:**\n- Each 50 levels beyond 20 (so 70, 120 etc)\n- Prior Legendary has to be at least Platinum Rank\n\n**Legendary Moves:**\n- Instead of getting an egg move at Bronze, legendary pokemon get access to their legendary move. At later ranks, they gain egg moves as normal\n- To use a Legendary Move, type /legend_move instead of /move \n- Legendary Moves can only be used Rank times on a quest\n- There is a 2 round cooldown between each Legendary Move\n- They don\u2019t count towards your move slots",
+  "example": ""
+}

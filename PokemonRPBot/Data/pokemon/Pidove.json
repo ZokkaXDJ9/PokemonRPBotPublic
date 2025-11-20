@@ -1,0 +1,122 @@
+{
+    "number": 519,
+    "name": "Pidove",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": {
+        "normal": [
+            "Big Pecks",
+            "Super Luck"
+        ],
+        "hidden": [
+            "Rivalry"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Growl",
+            "Gust",
+            "Leer",
+            "Quick Attack"
+        ],
+        "silver": [
+            "Air Cutter",
+            "Air Slash",
+            "Detect",
+            "Feather Dance",
+            "Razor Wind",
+            "Roost",
+            "Swagger",
+            "Taunt"
+        ],
+        "gold": [
+            "Facade",
+            "FeatherDance",
+            "Sky Attack",
+            "Tailwind"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Aerial Ace",
+            "Agility",
+            "Air Slash",
+            "Attract",
+            "Confide",
+            "Double Team",
+            "Echoed Voice",
+            "Endure",
+            "Facade",
+            "Fly",
+            "Focus Energy",
+            "Frustration",
+            "Heat Wave",
+            "Hidden Power",
+            "Pluck",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Roost",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Steel Wing",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Taunt",
+            "Toxic",
+            "U-turn",
+            "Uproar",
+            "Work Up",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Defog",
+            "Dual Wingbeat",
+            "Gust",
+            "Heat Wave",
+            "Roost",
+            "Sky Attack",
+            "Sleep Talk",
+            "Snore",
+            "Tailwind",
+            "Uproar"
+        ],
+        "egg": [
+            "Bestow",
+            "Defog",
+            "Hypnosis",
+            "Lucky Chant",
+            "Morning Sun",
+            "Night Slash",
+            "Steel Wing",
+            "Uproar",
+            "Wish"
+        ],
+        "level1_g3_7": [
+            "Gust"
+        ]
+    }
+}

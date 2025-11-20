@@ -1,0 +1,114 @@
+{
+    "number": 854,
+    "name": "Sinistea",
+    "types": [
+        "Ghost"
+    ],
+    "abilities": {
+        "normal": [
+            "Weak Armor"
+        ],
+        "hidden": [
+            "Cursed Body"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "2/5",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Aromatic Mist",
+            "Astonish",
+            "Withdraw"
+        ],
+        "silver": [
+            "Aromatherapy",
+            "Mega Drain",
+            "Protect",
+            "Sucker Punch",
+            "Sweet Scent"
+        ],
+        "gold": [
+            "Giga Drain",
+            "Memento",
+            "Nasty Plot",
+            "Shadow Ball",
+            "Shell Smash"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Ally Switch",
+            "Baton Pass",
+            "Calm Mind",
+            "Confuse Ray",
+            "Curse",
+            "Dark Pulse",
+            "Endure",
+            "Facade",
+            "Foul Play",
+            "Giga Drain",
+            "Hex",
+            "Imprison",
+            "Magical Leaf",
+            "Metronome",
+            "Nasty Plot",
+            "Night Shade",
+            "Payback",
+            "Phantom Force",
+            "Poltergeist",
+            "Protect",
+            "Psybeam",
+            "Psychic",
+            "Psyshock",
+            "Rest",
+            "Round",
+            "Shadow Ball",
+            "Skill Swap",
+            "Sleep Talk",
+            "Snore",
+            "Spite",
+            "Stored Power",
+            "Substitute",
+            "Tera Blast",
+            "Trick",
+            "Trick Room",
+            "Will-O-Wisp",
+            "Wonder Room",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Camouflage",
+            "Captivate",
+            "Embargo",
+            "Foresight",
+            "Nightmare",
+            "Ominous Wind",
+            "Signal Beam",
+            "Snatch",
+            "Telekinesis"
+        ],
+        "tutor": [
+            "Poltergeist"
+        ],
+        "egg": [
+            "Ally Switch"
+        ],
+        "level1_g3_7": []
+    }
+}

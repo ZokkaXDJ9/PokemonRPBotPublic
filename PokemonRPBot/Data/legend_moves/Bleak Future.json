@@ -1,0 +1,11 @@
+{
+    "name": "Bleak Future",
+    "type": "Psychic",
+    "power": 4,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Inflicts Wounds. Strikes at the end of the Round after the next. Bypass Shield Moves and Cover. If the target retires or switches out from battle, the damage will be dealt to the next opponent or to one of its allies. \n At Silver Rank, increase this move's power to 7.\n At Gold Rank, this move Flinches the Foe on their next turn after this move was used.\n At Platinum Rank, increase this move's power to 10.\n At Diamond Rank, this move Flinches the Foe on their next two turns after this move was used.",
+    "description": "Need Description",
+    "category": "Special"
+}

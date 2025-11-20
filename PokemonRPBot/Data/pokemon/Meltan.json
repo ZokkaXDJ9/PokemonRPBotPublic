@@ -1,0 +1,82 @@
+{
+    "number": 808,
+    "name": "Meltan",
+    "types": [
+        "Steel"
+    ],
+    "abilities": {
+        "normal": [
+            "Magnet Pull"
+        ],
+        "hidden": []
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Harden",
+            "Tail Whip",
+            "Thunder Shock"
+        ],
+        "silver": [
+            "Acid Armor",
+            "Headbutt",
+            "Thunder Wave"
+        ],
+        "gold": [
+            "Flash Cannon"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acid Armor",
+            "Endure",
+            "Facade",
+            "Flash Cannon",
+            "Gyro Ball",
+            "Harden",
+            "Headbutt",
+            "Iron Defense",
+            "Protect",
+            "Rest",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Tail Whip",
+            "Thunder Shock",
+            "Thunder Wave",
+            "Thunderbolt",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Harden",
+            "Headbutt"
+        ],
+        "egg": [],
+        "level1_g3_7": [
+            "Harden",
+            "Headbutt"
+        ]
+    }
+}

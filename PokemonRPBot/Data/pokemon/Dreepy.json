@@ -1,0 +1,89 @@
+{
+    "number": 885,
+    "name": "Dreepy",
+    "types": [
+        "Dragon",
+        "Ghost"
+    ],
+    "abilities": {
+        "normal": [
+            "Clear Body",
+            "Infiltrator"
+        ],
+        "hidden": [
+            "Cursed Body"
+        ]
+    },
+    "base_hp": 2,
+    "strength": "2/4",
+    "dexterity": "2/5",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Astonish",
+            "Bite",
+            "Infestation",
+            "Quick Attack"
+        ],
+        "silver": [],
+        "gold": [],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Baton Pass",
+            "Confuse Ray",
+            "Curse",
+            "Draco Meteor",
+            "Dragon Tail",
+            "Endure",
+            "Facade",
+            "Helping Hand",
+            "Protect",
+            "Rest",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Swift",
+            "Tera Blast",
+            "Thunder Wave",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Dragon Rage",
+            "Embargo",
+            "Nightmare",
+            "Ominous Wind",
+            "Razor Wind",
+            "Signal Beam",
+            "Snatch",
+            "Telekinesis"
+        ],
+        "tutor": [],
+        "egg": [
+            "Confuse Ray",
+            "Curse",
+            "Disable",
+            "Double Team",
+            "Dragon Tail",
+            "Grudge",
+            "Sucker Punch"
+        ],
+        "level1_g3_7": []
+    }
+}

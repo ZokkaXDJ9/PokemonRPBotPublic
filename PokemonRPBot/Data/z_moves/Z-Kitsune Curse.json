@@ -1,0 +1,12 @@
+{
+  "name": "Z-Kitsune Curse",
+  "type": "Ice",
+  "power": 7,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Accuracy -2. Afflict Frostbite and Burn to the Target. If performed under Hail or Snow Weather, Ignore this moves Reduced Accuracy and the Move can't be evaded. (If performed under Sunny Weather Accuracy becomes -3 instead.)",
+  "description": "Salem splays her tails and howls to the sky. Summoning countless wisps of foxfire to barrage her target and afflict them with a deadly curse.",
+  "og_move": "Blizzard",
+  "category": "Special"
+}

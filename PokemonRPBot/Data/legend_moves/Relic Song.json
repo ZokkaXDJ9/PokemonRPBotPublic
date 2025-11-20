@@ -1,0 +1,11 @@
+{
+    "name": "Relic Song",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Sound Based. Roll 2 Chance Dice to inflict Drowsy. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, double this move's chance dice amount to inflict Drowsy.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move rolls chance dice to inflict Drowsy against two additional Foes. ",
+    "description": "The user sings and dances to a melody so beautiful you won't notice you were crying while listening to it.",
+    "category": "Special"
+}

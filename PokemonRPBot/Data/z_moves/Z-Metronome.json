@@ -1,0 +1,12 @@
+{
+  "name": "Z-Metronome",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "???",
+  "target": "Who knows?",
+  "effect": "The user randomly uses a Z-Move of anyone he knows. If the move has a special requirement, like being a reaction move, it will store the use and use it the next time the requirement is met.",
+  "description": "Delta Wings scans its database for all known Z-Moves, then uses one at random.",
+  "og_move": "Metronome",
+  "category": "Status"
+}

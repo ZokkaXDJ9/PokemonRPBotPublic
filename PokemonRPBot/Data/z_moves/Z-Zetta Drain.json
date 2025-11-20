@@ -1,0 +1,12 @@
+{
+  "name": "Z-Zetta-Drain",
+  "type": "Grass",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "High Critical. User restores HP equal to half the damage dealt, rounded down. +1 Priority.",
+  "description": "Edwin uses his innate, feral instincts to show the target no mercy as he quickly strikes to drain them of all their energy.",
+  "og_move": "Giga Drain",
+  "category": "Special"
+}

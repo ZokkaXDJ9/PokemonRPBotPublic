@@ -1,0 +1,11 @@
+{
+  "name": "Gravity",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Battlefield",
+  "effect": "Flying and Levitating Pokemon can be hit by Ground Type Moves and remove their Flying Type Based Immunities (making them susceptible to Terrain and Hazard move effects). Lasts 4 Rounds.",
+  "description": "The gravity is intensified, bringing everyone to their knees. Flying pokemon are slammed to the ground.",
+  "category": "Support"
+}

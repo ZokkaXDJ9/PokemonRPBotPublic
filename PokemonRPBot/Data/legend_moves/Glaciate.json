@@ -1,0 +1,11 @@
+{
+    "name": "Glaciate",
+    "type": "Ice",
+    "power": 1,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Reduces Dexterity by 1. \n At Silver Rank, increase this move's power to 2.\n At Gold Rank, this move inflicts Frostbite.\n At Platinum Rank, increase this move's power to 3.\n At Diamond Rank, this move's Dexterity reduction can stack with itself.",
+    "description": "The air is so cold it hurts to move, to see, to breath. Escaping should be your top priority, for every second you don't your life will be at peril.",
+    "category": "Special"
+}

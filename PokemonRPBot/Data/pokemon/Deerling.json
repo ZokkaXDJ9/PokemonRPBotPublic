@@ -1,0 +1,141 @@
+{
+    "number": 585,
+    "name": "Deerling",
+    "types": [
+        "Normal",
+        "Grass"
+    ],
+    "abilities": {
+        "normal": [
+            "Chlorophyll",
+            "Sap Sipper"
+        ],
+        "hidden": [
+            "Serene Grace"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "2/5",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Double Kick",
+            "Growl",
+            "Sand Attack",
+            "Tackle"
+        ],
+        "silver": [
+            "Aromatherapy",
+            "Bullet Seed",
+            "Charm",
+            "Energy Ball",
+            "Feint Attack",
+            "Jump Kick",
+            "Leech Seed",
+            "Take Down",
+            "Zen Headbutt"
+        ],
+        "gold": [
+            "Double-Edge",
+            "Nature Power",
+            "Solar Beam"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Attract",
+            "Baton Pass",
+            "Body Slam",
+            "Bulldoze",
+            "Bullet Seed",
+            "Charm",
+            "Confide",
+            "Dig",
+            "Double Team",
+            "Double-Edge",
+            "Echoed Voice",
+            "Endeavor",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Fake Tears",
+            "Flash",
+            "Frustration",
+            "Giga Drain",
+            "Grass Knot",
+            "Grassy Glide",
+            "Grassy Terrain",
+            "Helping Hand",
+            "Hidden Power",
+            "Leaf Storm",
+            "Light Screen",
+            "Magical Leaf",
+            "Nature Power",
+            "Play Rough",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Retaliate",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Seed Bomb",
+            "Shadow Ball",
+            "Sleep Talk",
+            "Solar Beam",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Take Down",
+            "Tera Blast",
+            "Thunder Wave",
+            "Toxic",
+            "Trailblaze",
+            "Wild Charge",
+            "Work Up",
+            "Zen Headbutt",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Bounce",
+            "Camouflage",
+            "Giga Drain",
+            "Last Resort",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Synthesis",
+            "Tackle",
+            "Worry Seed"
+        ],
+        "egg": [
+            "Agility",
+            "Baton Pass",
+            "Fake Tears",
+            "Grass Whistle",
+            "Headbutt",
+            "Natural Gift",
+            "Odor Sleuth",
+            "Sleep Talk",
+            "Synthesis",
+            "Worry Seed"
+        ],
+        "level1_g3_7": [
+            "Camouflage",
+            "Tackle"
+        ]
+    }
+}

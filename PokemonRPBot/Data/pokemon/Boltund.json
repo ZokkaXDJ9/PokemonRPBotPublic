@@ -1,0 +1,115 @@
+{
+    "number": 836,
+    "name": "Boltund",
+    "types": [
+        "Electric"
+    ],
+    "abilities": {
+        "normal": [
+            "Strong Jaw"
+        ],
+        "hidden": [
+            "Competitive"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "3/6",
+    "dexterity": "3/7",
+    "vitality": "2/4",
+    "special": "3/6",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Bite",
+            "Electrify",
+            "Nuzzle",
+            "Tackle",
+            "Tail Whip"
+        ],
+        "silver": [
+            "Charm",
+            "Roar",
+            "Spark"
+        ],
+        "gold": [
+            "Charge",
+            "Crunch",
+            "Electric Terrain",
+            "Play Rough",
+            "Wild Charge"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Attract",
+            "Bulk Up",
+            "Charm",
+            "Crunch",
+            "Dig",
+            "Eerie Impulse",
+            "Electric Terrain",
+            "Electro Ball",
+            "Endure",
+            "Facade",
+            "Fire Fang",
+            "Focus Energy",
+            "Giga Impact",
+            "Helping Hand",
+            "Hyper Beam",
+            "Hyper Voice",
+            "Play Rough",
+            "Protect",
+            "Psychic Fangs",
+            "Rest",
+            "Round",
+            "Sleep Talk",
+            "Snarl",
+            "Snore",
+            "Substitute",
+            "Swift",
+            "Thunder",
+            "Thunder Fang",
+            "Thunder Wave",
+            "Thunderbolt",
+            "Uproar",
+            "Volt Switch",
+            "Wild Charge",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Captivate",
+            "Flash",
+            "Ion Deluge",
+            "Odor Sleuth",
+            "Pursuit",
+            "Rock Climb",
+            "Sonic Boom",
+            "Splash"
+        ],
+        "tutor": [
+            "Rising Voltage"
+        ],
+        "egg": [
+            "Discharge",
+            "Double-Edge",
+            "Flame Charge",
+            "Howl",
+            "Sand Attack"
+        ],
+        "level1_g3_7": []
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Orichalcum Pulse",
+  "description": "Even this pokemon's very presence can bring about the weather it's most comfortable with.",
+  "effect": "This Pokemon can start Sunny Weather or Grassy Terrain at the start of the Round, once per battle. The effects last for 2 Rounds. While either Sunny Weather or Grassy Terrain are active, increase the base of the User's highest Stat by 2 (In case of ties, select randomly between the mon's highest stats). If the User's highest stat is Vitality or Insight instead increase the User's base Defense or Special Defense by 1 respectively. This Ability cannot be copied (ignoring the effects of Skill Swap, Trace etc.)"
+}

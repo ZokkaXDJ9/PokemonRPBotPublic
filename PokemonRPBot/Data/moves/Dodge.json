@@ -1,0 +1,11 @@
+{
+    "name": "Dodge",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Self",
+    "effect": "Every success from this accuracy roll counts as a point of reduced accuracy on the instigating Move targeting the User (this reduction is not subject to the +/- 3 limitation of Stat Changes and stacks with any Accuracy Stat Changes). The User may take this action at any time in response to being targeted by a Move (consuming the User's action for the round). Dodge may also be performed by spending a point of Evasion (lowering the User's positive Evasion Stat Change(s) by 1), dodging this way doesn't consume the User's action.",
+    "description": "The user focuses on their enemies' movements in an attempt to avoid their attacks.",
+    "category": "Support"
+}

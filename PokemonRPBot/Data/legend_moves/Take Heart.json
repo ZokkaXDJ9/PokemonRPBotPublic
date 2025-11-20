@@ -1,0 +1,11 @@
+{
+    "name": "Take Heart",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Self",
+    "effect": "The user increases its Special and Sp. Defense by 1 and cures any status conditions on itself. \n At Silver Rank, this move also affects an ally.\n At Gold Rank, the User also restores 3 HP.\n At Platinum Rank, this move affects an additional ally.\n At Diamond Rank, the User also restores 1 Will.",
+    "description": "The user lifts its own spirits, revitalizing itself and repreparing for the fight.",
+    "category": "Support"
+}

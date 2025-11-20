@@ -1,0 +1,11 @@
+{
+  "name": "Eerie Spell",
+  "type": "Psychic",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Sound Based. Reduce the Target's Will by 1. The Target cannot use the last move it performed. Lasts 2 Rounds.",
+  "description": "This Pokemon emits a very strong psychic aura. This aura causes intense head pain and a sense of dread in foes it targets.",
+  "category": "Special"
+}

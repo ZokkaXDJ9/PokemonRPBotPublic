@@ -1,0 +1,5 @@
+{
+  "name": "Eerie Fog",
+  "description": "A fog has rolled in that makes hair stand on end. Those within it almost seem to phase out of existence at times, or is that just a trick of the eye?",
+  "effect": "- All ghost types gain +1 Evasion upon activation and at the start of Round (this Stat Change cannot stack with itself).\n- Normal types lose ghost immunity (and are treated as neutral effectiveness).\n- Ghost type moves deal +1 damage."
+}

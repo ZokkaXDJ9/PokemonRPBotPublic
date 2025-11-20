@@ -1,0 +1,130 @@
+{
+    "number": 841,
+    "name": "Flapple",
+    "types": [
+        "Grass",
+        "Dragon"
+    ],
+    "abilities": {
+        "normal": [
+            "Ripen",
+            "Gluttony"
+        ],
+        "hidden": [
+            "Hustle"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "3/7",
+    "dexterity": "2/4",
+    "vitality": "2/5",
+    "special": "3/6",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Acid Spray",
+            "Acrobatics",
+            "Astonish",
+            "Growth",
+            "Recycle",
+            "Twister",
+            "Wing Attack",
+            "Withdraw"
+        ],
+        "silver": [
+            "Dragon Breath",
+            "Dragon Dance",
+            "Dragon Pulse",
+            "Grav Apple",
+            "Leech Seed",
+            "Protect"
+        ],
+        "gold": [
+            "Dragon Rush",
+            "Fly",
+            "Iron Defense"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acid Spray",
+            "Acrobatics",
+            "Aerial Ace",
+            "Air Slash",
+            "Attract",
+            "Bullet Seed",
+            "Draco Meteor",
+            "Dragon Dance",
+            "Dragon Pulse",
+            "Dual Wingbeat",
+            "Endeavor",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Fly",
+            "Focus Energy",
+            "Giga Drain",
+            "Giga Impact",
+            "Grass Knot",
+            "Grassy Glide",
+            "Grassy Terrain",
+            "Heavy Slam",
+            "Hyper Beam",
+            "Iron Defense",
+            "Leaf Storm",
+            "Magical Leaf",
+            "Outrage",
+            "Pounce",
+            "Protect",
+            "Rest",
+            "Round",
+            "Scary Face",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Solar Beam",
+            "Substitute",
+            "Sunny Day",
+            "Take Down",
+            "Tera Blast",
+            "Trailblaze",
+            "U-turn",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Camouflage",
+            "Captivate",
+            "Dragon Rage",
+            "Flash",
+            "Grass Whistle",
+            "Lucky Chant",
+            "Natural Gift",
+            "Rock Climb",
+            "Wring Out"
+        ],
+        "tutor": [
+            "Dual Wingbeat",
+            "Grassy Glide"
+        ],
+        "egg": [
+            "Defense Curl",
+            "Recycle",
+            "Rollout",
+            "Sucker Punch"
+        ],
+        "level1_g3_7": []
+    }
+}

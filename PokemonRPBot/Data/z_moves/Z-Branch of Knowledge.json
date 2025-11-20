@@ -1,0 +1,12 @@
+{
+  "name": "Z-Branch of Knowledge",
+  "type": "Normal",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Clever",
+  "target": "Foe",
+  "effect": "If the user is not holding an item, Steal the target's Held Item. Inflicts Drowsy, The User gains High Critical and is Flinched for their following action. -1 Accuracy.",
+  "description": "The User approaches with caution, deals a quick visceral strike to the foe, strike to the weakest point.",
+  "og_move": "Covet",
+  "category": "Physical"
+}

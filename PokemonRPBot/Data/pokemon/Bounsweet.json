@@ -1,0 +1,123 @@
+{
+    "number": 761,
+    "name": "Bounsweet",
+    "types": [
+        "Grass"
+    ],
+    "abilities": {
+        "normal": [
+            "Leaf Guard",
+            "Oblivious"
+        ],
+        "hidden": [
+            "Sweet Veil"
+        ]
+    },
+    "base_hp": 2,
+    "strength": "1/3",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Play Nice",
+            "Rapid Spin",
+            "Splash"
+        ],
+        "silver": [
+            "Aromatic Mist",
+            "Flail",
+            "Magical Leaf",
+            "Razor Leaf",
+            "Sweet Scent",
+            "Teeter Dance"
+        ],
+        "gold": [
+            "Aromatherapy"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Bounce",
+            "Bullet Seed",
+            "Charm",
+            "Confide",
+            "Dazzling Gleam",
+            "Double Team",
+            "Draining Kiss",
+            "Endeavor",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Frustration",
+            "Giga Drain",
+            "Grass Knot",
+            "Grassy Glide",
+            "Grassy Terrain",
+            "Helping Hand",
+            "Hidden Power",
+            "Leaf Storm",
+            "Light Screen",
+            "Magical Leaf",
+            "Nature Power",
+            "Play Rough",
+            "Protect",
+            "Reflect",
+            "Rest",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Solar Beam",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "Toxic",
+            "Trailblaze",
+            "Zen Headbutt",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Bounce",
+            "Covet",
+            "Endeavor",
+            "Giga Drain",
+            "Grassy Glide",
+            "Helping Hand",
+            "Seed Bomb",
+            "Snore",
+            "Splash",
+            "Synthesis",
+            "Worry Seed",
+            "Zen Headbutt"
+        ],
+        "egg": [
+            "Acupressure",
+            "Charm",
+            "Endeavor",
+            "Feint",
+            "Grass Whistle",
+            "Play Rough",
+            "Synthesis"
+        ],
+        "level1_g3_7": [
+            "Splash"
+        ]
+    }
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Sand Spit",
+    "description": "The Pokemon slithers through the desert sand, eating some of it in the process, if it gets hot (or sneezes) a sandstorm will blow up.",
+    "effect": "If this Pokemon is hit with a contact move, it starts the effects of Sandstorm Weather, or Quaking Ground Weather (user's choice). The effect lasts 4 rounds."
+}

@@ -1,0 +1,131 @@
+{
+    "number": 749,
+    "name": "Mudbray",
+    "types": [
+        "Ground"
+    ],
+    "abilities": {
+        "normal": [
+            "Own Tempo",
+            "Stamina"
+        ],
+        "hidden": [
+            "Inner Focus"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "3/6",
+    "dexterity": "1/3",
+    "vitality": "2/5",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Bulldoze",
+            "Double Kick",
+            "Iron Defense",
+            "Mud Sport",
+            "Mud-Slap",
+            "Rock Smash",
+            "Rototiller"
+        ],
+        "silver": [
+            "Bide",
+            "Counter",
+            "Heavy Slam",
+            "High Horsepower",
+            "Stomp",
+            "Strength"
+        ],
+        "gold": [
+            "Earthquake",
+            "Mega Kick",
+            "Superpower"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Body Slam",
+            "Bulldoze",
+            "Close Combat",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Double-Edge",
+            "Earth Power",
+            "Earthquake",
+            "Endeavor",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Heavy Slam",
+            "Hidden Power",
+            "High Horsepower",
+            "Iron Defense",
+            "Iron Head",
+            "Low Kick",
+            "Low Sweep",
+            "Mega Kick",
+            "Mud-Slap",
+            "Payback",
+            "Protect",
+            "Rest",
+            "Return",
+            "Roar",
+            "Rock Slide",
+            "Rock Tomb",
+            "Round",
+            "Sand Tomb",
+            "Sandstorm",
+            "Sleep Talk",
+            "Smack Down",
+            "Snore",
+            "Stealth Rock",
+            "Stomping Tantrum",
+            "Stone Edge",
+            "Substitute",
+            "Sunny Day",
+            "Superpower",
+            "Swagger",
+            "Take Down",
+            "Tera Blast",
+            "Toxic",
+            "Agility",
+            "Amnesia",
+            "Headbutt",
+            "Helping Hand",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Earth Power",
+            "Endeavor",
+            "Iron Defense",
+            "Iron Head",
+            "Low Kick",
+            "Mud-Slap",
+            "Snore",
+            "Stealth Rock",
+            "Stomping Tantrum",
+            "Superpower"
+        ],
+        "egg": [
+            "Body Slam",
+            "Close Combat",
+            "Double-Edge",
+            "Endeavor",
+            "Fissure",
+            "Magnitude",
+            "Mud Bomb",
+            "Roar",
+            "Smack Down"
+        ],
+        "level1_g3_7": [
+            "Mud-Slap"
+        ]
+    }
+}

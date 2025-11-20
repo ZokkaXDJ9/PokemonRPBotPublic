@@ -1,0 +1,117 @@
+{
+    "number": 772,
+    "name": "Type: Null",
+    "types": [
+        "Normal"
+    ],
+    "abilities": {
+        "normal": [
+            "Battle Armor"
+        ],
+        "hidden": []
+    },
+    "base_hp": 5,
+    "strength": "3/6",
+    "dexterity": "2/4",
+    "vitality": "3/6",
+    "special": "3/6",
+    "insight": "3/6",
+    "moves": {
+        "bronze": [
+            "Aerial Ace",
+            "Imprison",
+            "Pursuit",
+            "Rage",
+            "Scary Face",
+            "Tackle"
+        ],
+        "silver": [
+            "Air Slash",
+            "Crush Claw",
+            "Double Hit",
+            "Metal Sound"
+        ],
+        "gold": [
+            "Double-Edge",
+            "Heal Block",
+            "Iron Head",
+            "Punishment",
+            "Razor Wind",
+            "Take Down",
+            "Tri Attack",
+            "X-Scissor"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Aerial Ace",
+            "Air Slash",
+            "Confide",
+            "Double Team",
+            "Dragon Claw",
+            "Endure",
+            "Facade",
+            "Flame Charge",
+            "Frustration",
+            "Giga Impact",
+            "Hail",
+            "Hidden Power",
+            "Hyper Beam",
+            "Icy Wind",
+            "Imprison",
+            "Iron Defense",
+            "Iron Head",
+            "Payback",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Roar",
+            "Rock Slide",
+            "Round",
+            "Sandstorm",
+            "Scary Face",
+            "Shadow Claw",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Swords Dance",
+            "Thunder Wave",
+            "Toxic",
+            "Tri Attack",
+            "U-turn",
+            "Work Up",
+            "X-Scissor",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Icy Wind",
+            "Iron Defense",
+            "Iron Head",
+            "Last Resort",
+            "Magic Coat",
+            "Signal Beam",
+            "Snore",
+            "Tackle",
+            "Terrain Pulse"
+        ],
+        "egg": [],
+        "level1_g3_7": [
+            "Tackle"
+        ]
+    }
+}

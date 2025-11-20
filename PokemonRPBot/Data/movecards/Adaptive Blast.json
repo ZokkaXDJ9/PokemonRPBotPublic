@@ -1,0 +1,12 @@
+{
+  "name": "Adaptive Blast",
+  "type": "Any",
+  "power": 0,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Choose the type of this move on use.",
+  "description": "The user shoots out a blast, that adjusts to their desired type.",
+  "category": "Special",
+  "price": 9
+}

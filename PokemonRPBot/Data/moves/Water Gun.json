@@ -1,0 +1,11 @@
+{
+    "name": "Water Gun",
+    "type": "Water",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Ballistic Based.",
+    "description": "The user learns to shoot water with enough force to hurt the foe.",
+    "category": "Special"
+}

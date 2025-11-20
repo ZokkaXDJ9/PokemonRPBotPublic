@@ -1,0 +1,11 @@
+{
+    "name": "Lunar Blessing",
+    "type": "Psychic ",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "User and Allies",
+    "effect": "Heal 1 HP to all pokemon affected. Name one status condition - Remove all named status conditions from all pokemon affected. If no status conditions were removed, raise the user's evasion by 1. \n At Silver Rank, increase this move's healing to 2.\n At Gold Rank, you can name two status conditions when using this move.\n At Platinum Rank, increase this move's healing to 3.\n At Diamond Rank, you can name three status conditions when using this move.",
+    "description": "The user summons forth lunar power to treat itself and its friends of their injuries. The lunar power is quite invigorating.",
+    "category": "Support"
+}

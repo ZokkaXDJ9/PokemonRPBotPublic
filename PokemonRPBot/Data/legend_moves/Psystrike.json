@@ -1,0 +1,11 @@
+{
+    "name": "Psystrike",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "This Move is resisted with the Foe's Defense instead of its Sp. Defense. \n At Silver Rank, increase this move's power to 5.\n At Gold Rank, add 3 chance dice to reduce the foe's defense and 3 chance dice to inflict confusion.\n At Platinum Rank, increase this move's power to 7.\n At Diamond Rank, this move changes it's accuracy to Special and Inflicts Wounds.",
+    "description": "Through sheer psychic power, the user materializes its energy to deal a heavy strike to its foe.",
+    "category": "Special"
+}

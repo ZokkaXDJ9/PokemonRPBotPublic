@@ -1,0 +1,5 @@
+{
+  "name": "Moxie",
+  "description": "This Pokemon is naturally fierce and will try to get to a position of power by defeating the alphas in the pack.",
+  "effect": "If a foe faints the same Round that they were dealt direct damage by the User, Increase the User's Strength by 1. This ability is able to stack with itself up to three times (but still subject to the standard +/-3 limit for Stat Changes)."
+}

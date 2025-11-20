@@ -1,0 +1,12 @@
+{
+  "name": "Z - Broken battlefield",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Tough",
+  "target": "Foe",
+  "effect": "Reduces the foe's defense by 2, based on Sound. Then sets up Spikes and Stealth Rocks on the opponent's battlefield, which trigger every time a victim switches targets from the one they had on the previous turn. When triggered, deal 3d6 dice of damage. Add or subtract 1d6 for every weakness or resistance the victim has to Rock type, respectively. Spikes don't affect Flying type Pokemon, but can be stacked with itself",
+  "description": "\"You will find no solace or respite here.\" Shale summons a small piece of his world on the battlefield. Rendering the battlefield a wasteland of hazards",
+  "og_move": "Screech",
+  "category": "Support"
+}

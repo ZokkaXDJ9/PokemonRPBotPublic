@@ -1,0 +1,25 @@
+{
+  "number": 20012,
+  "name": "Misty Giant",
+  "types": ["Ground", "Fairy"],
+  "abilities": {
+    "normal": ["Protosynthesis"],
+    "hidden": ["Misty Body"]
+  },
+  "base_hp": 6,
+  "strength": "4/8",
+  "dexterity": "2/5",
+  "vitality": "2/5",
+  "special": "3/7",
+  "insight": "2/5",
+  "moves": {
+    "bronze": ["Misty Terrain", "Tidy Up"],
+    "silver": ["Play Rough", "Screech"],
+    "gold": ["Bulk Up", "Stealth Rock"],
+    "platinum": [],
+    "diamond": [],
+    "tm": ["Bulldoze", "Defog", "Dig", "Protect", "Tailwind"],
+    "egg": [],
+    "tutor": ["Ancient Power"]
+  }
+}

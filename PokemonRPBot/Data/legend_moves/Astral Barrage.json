@@ -1,0 +1,11 @@
+{
+    "name": "Astral Barrage",
+    "type": "Ghost",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "This move targets the lower of the foe's defenses. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, the user may use Special for Accuracy on this move.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move can hit two additional targets. Deal halved damage (rounded up) against the additional targets. The additional targets can not be critically hit by this move.",
+    "description": "The Pok\u00e9mon bombards the enemies' side of the field in a torrent of little ghosts. These ghosts terrorize the opposition before vanishing.",
+    "category": "Special"
+}

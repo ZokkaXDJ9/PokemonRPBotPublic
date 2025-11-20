@@ -1,0 +1,98 @@
+{
+    "number": 831,
+    "name": "Wooloo",
+    "types": [
+        "Normal"
+    ],
+    "abilities": {
+        "normal": [
+            "Fluffy",
+            "Run Away"
+        ],
+        "hidden": [
+            "Bulletproof"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "2/4",
+    "vitality": "2/4",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Copycat",
+            "Defense Curl",
+            "Growl",
+            "Tackle"
+        ],
+        "silver": [
+            "Double Kick",
+            "Guard Split",
+            "Guard Swap",
+            "Headbutt",
+            "Reversal",
+            "Take Down"
+        ],
+        "gold": [
+            "Cotton Guard",
+            "Double-Edge"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Attract",
+            "Electro Ball",
+            "Endure",
+            "Facade",
+            "Guard Swap",
+            "Payback",
+            "Protect",
+            "Rest",
+            "Reversal",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Thunder Wave",
+            "Wild Charge",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Bide",
+            "Captivate",
+            "Foresight",
+            "Ice Ball",
+            "Jump Kick",
+            "Mud Sport",
+            "Natural Gift",
+            "Pursuit",
+            "Refresh",
+            "Rock Climb"
+        ],
+        "tutor": [
+            "Grassy Glide"
+        ],
+        "egg": [
+            "Counter",
+            "Stomp",
+            "Swagger"
+        ],
+        "level1_g3_7": []
+    }
+}

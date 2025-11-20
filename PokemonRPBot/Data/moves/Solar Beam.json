@@ -1,0 +1,11 @@
+{
+  "name": "Solar Beam",
+  "type": "Grass",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Charge move. On the charge turn, the user raises their Special by 2. The charge turn can be skipped during Sunny and Pollen Storm Weather.",
+  "description": "The Pokemon focuses the sunlight on its sharp leaves, then releases the energy with a shattering block.",
+  "category": "Special"
+}

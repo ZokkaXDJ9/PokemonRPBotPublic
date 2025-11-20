@@ -1,0 +1,11 @@
+{
+    "name": "Bestow",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "",
+    "target": "Ally",
+    "effect": "Pass an item from your bag to the target ally's bag.",
+    "description": "The Pokemon respectfully offers an item, the target will take it and keep it to be polite.",
+    "category": "Support"
+}

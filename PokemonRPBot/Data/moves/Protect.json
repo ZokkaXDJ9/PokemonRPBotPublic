@@ -1,0 +1,11 @@
+{
+  "name": "Protect",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "Ally",
+  "effect": "Reaction. Shield Move. Redirect all moves targeting an Ally to the User until the User's next turn, and reduce minimum damage for received attacks to 0 (attacks still benefit from the base damage of type efficiency). Reduce the damage taken by the user equal to their Rank bonus +1 against the triggering attack, minus the number of rounds this move has been used consecutively by the user",
+  "description": "The user creates an energy shield to deflect blows meant for an ally",
+  "category": "Support"
+}

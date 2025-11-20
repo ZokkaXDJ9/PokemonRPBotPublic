@@ -1,0 +1,11 @@
+{
+  "name": "Thunder Wave",
+  "type": "Electric",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Paralyze the foe. -1 Accuracy. Targets immune to this move's Type are unaffected.",
+  "description": "A tide of bright lightning streams from the floor onto the foe. The target's body will be cramped for hours.",
+  "category": "Support"
+}

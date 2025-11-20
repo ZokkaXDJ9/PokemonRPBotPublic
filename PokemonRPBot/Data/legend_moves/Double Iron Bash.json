@@ -1,0 +1,11 @@
+{
+  "name": "Double Iron Bash",
+  "type": "Steel",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Fist Based. Double Action. \n At Silver Rank, increase this move's power to 2.\n At Gold Rank, Flinch the Foe if both attacks hit.\n At Platinum Rank, increase this move's power to 3.\n At Diamond Rank, both Strikes of this Move can critically strike.",
+  "description": "The user hardens its limbs and then rotates them at great speed to hit the foe twice in a row. The blow can leave the victim crushed on the floor.",
+  "category": "Physical"
+}

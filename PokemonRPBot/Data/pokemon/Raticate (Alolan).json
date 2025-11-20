@@ -1,0 +1,132 @@
+{
+    "number": 20,
+    "name": "Raticate (Alolan)",
+    "types": [
+        "Dark",
+        "Normal"
+    ],
+    "abilities": {
+        "normal": [
+            "Gluttony",
+            "Hustle"
+        ],
+        "hidden": [
+            "Thick Fat"
+        ]
+    },
+    "base_hp": 5,
+    "strength": "2/4",
+    "dexterity": "2/5",
+    "vitality": "2/5",
+    "special": "1/3",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Tackle",
+            "Tail Whip",
+            "Quick Attack",
+            "Focus Energy",
+            "Bite",
+            "Scary Face",
+            "Swords Dance"
+        ],
+        "silver": [
+            "Take Down",
+            "Assurance",
+            "Crunch",
+            "Sucker Punch",
+            "Pursuit",
+            "Hypper Fang"
+        ],
+        "gold": [
+            "Super Fang",
+            "Double-Edge",
+            "Endeavor"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Roar",
+            "Toxic",
+            "Bulk Up",
+            "Venoshock",
+            "Hidden Power",
+            "Sunny Day",
+            "Taunt",
+            "Ice Beam",
+            "Blizzard",
+            "Hyper Beam",
+            "Protect",
+            "Torment",
+            "Rain Dance",
+            "Frustration",
+            "Return",
+            "Nasty Plot",
+            "Round",
+            "Metronome",
+            "Quash",
+            "Helping Hand",
+            "curse",
+            "Splash",
+            "Embargo",
+            "Shadow Claw",
+            "Dig",
+            "Shadow Ball",
+            "Swords Dance",
+            "Secret Power",
+            "Double Team",
+            "Sludge Bomb",
+            "Facade",
+            "Rest",
+            "Attract",
+            "Thief",
+            "Charge Beam",
+            "Agility",
+            "Endure",
+            "Giga Impact",
+            "Sleep Talk",
+            "Grass Knot",
+            "U-turn",
+            "Swagger",
+            "Pluck",
+            "Substitute",
+            "Tera Blast",
+            "confide",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Snore",
+            "Take Down"
+        ],
+        "egg": [
+            "Bite",
+            "Counter",
+            "Final Gambit",
+            "Flame Wheel",
+            "Fury Swipes",
+            "Last Resort",
+            "Revenge",
+            "Reversal",
+            "Screech",
+            "Uproar"
+        ],
+        "tutor": [
+            "Covet",
+            "Super Fang",
+            "Uproar",
+            "Last Resort",
+            "Icy Wind",
+            "Zen Headbutt",
+            "Iron Tail",
+            "Snore",
+            "Shock Wave",
+            "Endeavor",
+            "Stomping Tantrum",
+            "Throat Chop",
+            "Knock Off",
+            "Snatch"
+        ]
+    }
+}

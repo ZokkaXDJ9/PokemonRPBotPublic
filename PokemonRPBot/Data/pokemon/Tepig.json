@@ -1,0 +1,133 @@
+{
+    "number": 498,
+    "name": "Tepig",
+    "types": [
+        "Fire"
+    ],
+    "abilities": {
+        "normal": [
+            "Blaze"
+        ],
+        "hidden": [
+            "Thick Fat"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Ember",
+            "Endure",
+            "Odor Sleuth",
+            "Tackle",
+            "Tail Whip"
+        ],
+        "silver": [
+            "Assurance",
+            "Defense Curl",
+            "Flame Charge",
+            "Flamethrower",
+            "Heat Crash",
+            "Rollout",
+            "Smog",
+            "Take Down"
+        ],
+        "gold": [
+            "Flare Blitz",
+            "Head Smash",
+            "Roar"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Body Slam",
+            "Confide",
+            "Curse",
+            "Dig",
+            "Double Team",
+            "Double-Edge",
+            "Echoed Voice",
+            "Endeavor",
+            "Endure",
+            "Facade",
+            "Fire Blast",
+            "Fire Pledge",
+            "Fire Punch",
+            "Fire Spin",
+            "Flame Charge",
+            "Flamethrower",
+            "Flare Blitz",
+            "Frustration",
+            "Grass Knot",
+            "Gyro Ball",
+            "Heat Crash",
+            "Heat Wave",
+            "Heavy Slam",
+            "Helping Hand",
+            "Hidden Power",
+            "Incinerate",
+            "Mud-Slap",
+            "Overheat",
+            "Protect",
+            "Rest",
+            "Return",
+            "Roar",
+            "Rock Smash",
+            "Rock Tomb",
+            "Round",
+            "Sleep Talk",
+            "Solar Beam",
+            "Stomping Tantrum",
+            "Strength",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Take Down",
+            "Taunt",
+            "Temper Flare",
+            "Tera Blast",
+            "Toxic",
+            "Trailblaze",
+            "Wild Charge",
+            "Will-O-Wisp",
+            "Work Up",
+            "Zen Headbutt",
+            "Agility",
+            "Amnesia",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Fire Pledge",
+            "Tackle"
+        ],
+        "egg": [
+            "Body Slam",
+            "Burn Up",
+            "Covet",
+            "Curse",
+            "Endeavor",
+            "Heavy Slam",
+            "Magnitude",
+            "Sleep Talk",
+            "Sucker Punch",
+            "Superpower",
+            "Thrash",
+            "Yawn"
+        ],
+        "level1_g3_7": [
+            "Tackle"
+        ]
+    }
+}

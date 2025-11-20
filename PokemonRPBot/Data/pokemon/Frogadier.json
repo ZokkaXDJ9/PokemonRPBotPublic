@@ -1,0 +1,142 @@
+{
+    "number": 657,
+    "name": "Frogadier",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Torrent"
+        ],
+        "hidden": [
+            "Protean"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "3/6",
+    "vitality": "1/3",
+    "special": "2/5",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Bubble",
+            "Growl",
+            "Lick",
+            "Pound",
+            "Quick Attack",
+            "Water Gun"
+        ],
+        "silver": [
+            "Fling",
+            "Round",
+            "Smack Down",
+            "Smokescreen",
+            "Water Pulse"
+        ],
+        "gold": [
+            "Bounce",
+            "Double Team",
+            "Hydro Pump",
+            "Substitute"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Aerial Ace",
+            "Attract",
+            "Blizzard",
+            "Chilling Water",
+            "Confide",
+            "Cut",
+            "Dark Pulse",
+            "Dig",
+            "Double Team",
+            "Echoed Voice",
+            "Endure",
+            "Facade",
+            "False Swipe",
+            "Fling",
+            "Frustration",
+            "Grass Knot",
+            "Gunk Shot",
+            "Helping Hand",
+            "Hidden Power",
+            "Hydro Pump",
+            "Ice Beam",
+            "Ice Punch",
+            "Icy Wind",
+            "Liquidation",
+            "Low Kick",
+            "Mud Shot",
+            "Mud-Slap",
+            "Power-Up Punch",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Rock Slide",
+            "Rock Smash",
+            "Rock Tomb",
+            "Round",
+            "Scald",
+            "Sleep Talk",
+            "Smack Down",
+            "Snowscape",
+            "Spikes",
+            "Strength",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Swift",
+            "Swords Dance",
+            "Take Down",
+            "Taunt",
+            "Tera Blast",
+            "Thief",
+            "Toxic",
+            "Toxic Spikes",
+            "Trailblaze",
+            "U-turn",
+            "Water Pledge",
+            "Water Pulse",
+            "Waterfall",
+            "Work Up",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash"
+        ],
+        "tutor": [
+            "Bubble",
+            "Growl",
+            "Pound",
+            "Water Pledge"
+        ],
+        "egg": [
+            "Bestow",
+            "Camouflage",
+            "Counter",
+            "Mind Reader",
+            "Mud Sport",
+            "Power-Up Punch",
+            "Retaliate",
+            "Spikes",
+            "Switcheroo",
+            "Toxic Spikes",
+            "Water Sport"
+        ],
+        "level1_g3_7": [
+            "Growl",
+            "Pound",
+            "Bubble"
+        ]
+    }
+}

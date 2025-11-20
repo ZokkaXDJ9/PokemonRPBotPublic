@@ -1,0 +1,122 @@
+{
+    "number": 504,
+    "name": "Patrat",
+    "types": [
+        "Normal"
+    ],
+    "abilities": {
+        "normal": [
+            "Run Away",
+            "Keen Eye"
+        ],
+        "hidden": [
+            "Analytic"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Bide",
+            "Bite",
+            "Leer"
+        ],
+        "silver": [
+            "After You",
+            "Baton Pass",
+            "Crunch",
+            "Detect",
+            "Focus Energy",
+            "Hyper Fang",
+            "Hypnosis",
+            "Mean Look",
+            "Nasty Plot",
+            "Sand Attack",
+            "Super Fang",
+            "Work Up"
+        ],
+        "gold": [
+            "Slam"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Confide",
+            "Cut",
+            "Dig",
+            "Double Team",
+            "Facade",
+            "Fling",
+            "Frustration",
+            "Grass Knot",
+            "Hidden Power",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Retaliate",
+            "Return",
+            "Round",
+            "Shadow Ball",
+            "Sleep Talk",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swords Dance",
+            "Thunderbolt",
+            "Toxic",
+            "Work Up",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Endure",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "After You",
+            "Aqua Tail",
+            "Covet",
+            "Endeavor",
+            "Gunk Shot",
+            "Helping Hand",
+            "Iron Tail",
+            "Laser Focus",
+            "Last Resort",
+            "Low Kick",
+            "Seed Bomb",
+            "Shock Wave",
+            "Sleep Talk",
+            "Snore",
+            "Super Fang",
+            "Tackle",
+            "Zen Headbutt"
+        ],
+        "egg": [
+            "Assurance",
+            "Bullet Seed",
+            "Flail",
+            "Foresight",
+            "Iron Tail",
+            "Pursuit",
+            "Revenge",
+            "Screech",
+            "Tearful Look"
+        ],
+        "level1_g3_7": [
+            "Tackle"
+        ]
+    }
+}

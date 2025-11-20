@@ -1,0 +1,116 @@
+{
+    "number": 599,
+    "name": "Klink",
+    "types": [
+        "Steel"
+    ],
+    "abilities": {
+        "normal": [
+            "Plus",
+            "Minus"
+        ],
+        "hidden": [
+            "Clear Body"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/3",
+    "vitality": "2/5",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Bind",
+            "Charge",
+            "Thunder Shock",
+            "Vise Grip"
+        ],
+        "silver": [
+            "Autotomize",
+            "Charge Beam",
+            "Discharge",
+            "Gear Grind",
+            "Metal Sound",
+            "Screech",
+            "Thunder Shock"
+        ],
+        "gold": [
+            "Hyper Beam",
+            "Lock-On",
+            "Mirror Shot",
+            "Shift Gear",
+            "Zap Cannon"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Assurance",
+            "Charge Beam",
+            "Confide",
+            "Double Team",
+            "Endure",
+            "Facade",
+            "Flash Cannon",
+            "Frustration",
+            "Hidden Power",
+            "Hyper Beam",
+            "Iron Defense",
+            "Power Gem",
+            "Protect",
+            "Rest",
+            "Return",
+            "Rock Polish",
+            "Rock Smash",
+            "Round",
+            "Sandstorm",
+            "Screech",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Swagger",
+            "Thunder Wave",
+            "Thunderbolt",
+            "Toxic",
+            "Uproar",
+            "Volt Switch",
+            "Wild Charge",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Bind",
+            "Gravity",
+            "Iron Defense",
+            "Magic Coat",
+            "Magnet Rise",
+            "Recycle",
+            "Rising Voltage",
+            "Shock Wave",
+            "Signal Beam",
+            "Sleep Talk",
+            "Snore",
+            "Steel Roller",
+            "Telekinesis",
+            "Uproar",
+            "Vice Grip",
+            "ViceGrip"
+        ],
+        "egg": [],
+        "level1_g3_7": [
+            "ViceGrip",
+            "Vice Grip"
+        ]
+    }
+}

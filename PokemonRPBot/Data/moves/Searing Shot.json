@@ -1,0 +1,11 @@
+{
+    "name": "Searing Shot",
+    "type": "Fire",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "All Foes",
+    "effect": "Ballistic Based. Inflicts Wounds. Roll 3 Chance Dice to Apply Burn those Affected.",
+    "description": "The User torches everything around itself in a sudden burst of scarlet flames. Everything is brought to cinders in a matter of seconds.",
+    "category": "Special"
+}

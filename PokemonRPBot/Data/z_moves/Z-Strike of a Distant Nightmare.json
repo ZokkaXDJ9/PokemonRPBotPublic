@@ -1,0 +1,12 @@
+{
+  "name": "Z-Strike of a Distant Nightmare",
+  "type": "Dark",
+  "power": 11,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Inflicts Wounds. High Critical. Inflicts Drowsy. -3 Accuracy.",
+  "description": "Vyrion focuses on the memories of a distant dream, coating his claws in sleep inducing energy before rushing forward and striking at the foe.",
+  "og_move": "Night Slash",
+  "category": "Physical"
+}

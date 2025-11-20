@@ -1,0 +1,123 @@
+{
+    "number": 871,
+    "name": "Pincurchin",
+    "types": [
+        "Electric"
+    ],
+    "abilities": {
+        "normal": [
+            "Lightning Rod"
+        ],
+        "hidden": [
+            "Electric Surge"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "3/6",
+    "dexterity": "1/2",
+    "vitality": "3/6",
+    "special": "3/6",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Charge",
+            "Peck",
+            "Thunder Shock",
+            "Water Gun"
+        ],
+        "silver": [
+            "Bubble Beam",
+            "Fury Attack",
+            "Recover",
+            "Spark"
+        ],
+        "gold": [
+            "Acupressure",
+            "Curse",
+            "Discharge",
+            "Electric Terrain",
+            "Poison Jab",
+            "Zing Zap"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Assurance",
+            "Attract",
+            "Body Slam",
+            "Brine",
+            "Charge",
+            "Charge Beam",
+            "Chilling Water",
+            "Curse",
+            "Electric Terrain",
+            "Electro Ball",
+            "Electroweb",
+            "Endure",
+            "Facade",
+            "Giga Impact",
+            "Hex",
+            "Hydro Pump",
+            "Hyper Beam",
+            "Liquidation",
+            "Muddy Water",
+            "Pain Split",
+            "Payback",
+            "Pin Missile",
+            "Poison Jab",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Reversal",
+            "Round",
+            "Scald",
+            "Self-Destruct",
+            "Sleep Talk",
+            "Snore",
+            "Spikes",
+            "Substitute",
+            "Supercell Slam",
+            "Surf",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "Throat Chop",
+            "Thunder",
+            "Thunder Wave",
+            "Thunderbolt",
+            "Toxic Spikes",
+            "Venom Drench",
+            "Venoshock",
+            "Wild Charge",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Ion Deluge",
+            "Me First",
+            "Sharpen",
+            "Spike Cannon",
+            "Twineedle"
+        ],
+        "tutor": [
+            "Rising Voltage"
+        ],
+        "egg": [
+            "Memento",
+            "Sucker Punch"
+        ],
+        "level1_g3_7": []
+    }
+}

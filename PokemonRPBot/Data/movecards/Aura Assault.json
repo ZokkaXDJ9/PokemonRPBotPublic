@@ -1,0 +1,12 @@
+{
+  "name": "Aura Assault",
+  "type": "Fighting",
+  "power": 5,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "After dealing damage, Reduce the User's Defense and Sp. Defense.",
+  "description": "The user attacks with their aura to deal lots of damage.",
+  "category": "Special",
+  "price": 15
+}

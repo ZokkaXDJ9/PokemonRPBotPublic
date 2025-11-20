@@ -1,0 +1,11 @@
+{
+  "name": "Steamroller",
+  "type": "Bug",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Roll 3 Chance Dice to Flinch the foe. If the target has used the move Minimize during the scene gain an additional +2 Damage Dice and Never Fail.",
+  "description": "The user curls up and rolls at full speed to strike the foe. It may leave the target swatted on the ground.",
+  "category": "Physical"
+}

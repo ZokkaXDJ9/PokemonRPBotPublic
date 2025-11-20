@@ -1,0 +1,12 @@
+{
+  "name": "Z-Omni Wish",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "Self or Ally",
+  "effect": "Heal 8 HP. If successful, spend 1 Will point to activate. The target will be healed at the end of next round. On the target's turn, if they use an Alternative action (Dodge, Struggle etc.) they may choose another valid target to receive the Wish instead. If the original target has left combat, instead heal another valid target at random. The Target receives an Omniboost.",
+  "description": "The user puts all their might into wishing not only for the target's good health, but for their ability to be at 110%. Should this wish come true, the target will not only feel better, but invigorated in all ways!",
+  "og_move": "Wish",
+  "category": "Support"
+}

@@ -1,0 +1,116 @@
+{
+    "number": 912,
+    "name": "Quaxly",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Torrent"
+        ],
+        "hidden": [
+            "Moxie"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Growl",
+            "Pound",
+            "Water Gun",
+            "Wing Attack",
+            "Work Up"
+        ],
+        "silver": [
+            "Acrobatics",
+            "Air Slash",
+            "Aqua Cutter",
+            "Aqua Jet",
+            "Double Hit",
+            "Focus Energy"
+        ],
+        "gold": [
+            "Liquidation"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Aerial Ace",
+            "Air Cutter",
+            "Air Slash",
+            "Baton Pass",
+            "Brave Bird",
+            "Chilling Water",
+            "Disarming Voice",
+            "Encore",
+            "Endure",
+            "Facade",
+            "Helping Hand",
+            "Hydro Pump",
+            "Liquidation",
+            "Low Kick",
+            "Misty Terrain",
+            "Protect",
+            "Psych Up",
+            "Rain Dance",
+            "Rest",
+            "Sleep Talk",
+            "Substitute",
+            "Surf",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "Water Pledge",
+            "Whirlpool",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Bubble",
+            "Captivate",
+            "Double Slap",
+            "Foresight",
+            "Jump Kick",
+            "Karate Chop",
+            "Mirror Move",
+            "Pursuit",
+            "Refresh",
+            "Rock Climb",
+            "Rolling Kick",
+            "Sky Uppercut",
+            "Smelling Salts",
+            "Trump Card",
+            "Water Sport",
+            "Dual Chop",
+            "Laser Focus"
+        ],
+        "tutor": [],
+        "egg": [
+            "Detect",
+            "Last Resort",
+            "Rapid Spin",
+            "Roost"
+        ],
+        "level1_g3_7": []
+    }
+}

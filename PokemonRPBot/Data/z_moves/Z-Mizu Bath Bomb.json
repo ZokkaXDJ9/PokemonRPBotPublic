@@ -1,0 +1,12 @@
+{
+  "name": "Z-Mizu Bath Bomb",
+  "type": "Fire",
+  "power": 10,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Charge move. On the charge turn, the user raises their Special by 2. Inflicts Wounds. Apply Burn and frostbite to the Foe. If the execution of this move is interrupted or fails in any way after the Chare Turn, it deals damage equal to it's damage to Mizumera instead. -2 Accuracy.",
+  "description": "Mizumera forms a giant violet bubble, looming above the battlefield, soon to strike down upon an unlucky foe... unless they manage to interrupt it.",
+  "og_move": "Inferno",
+  "category": "Special"
+}

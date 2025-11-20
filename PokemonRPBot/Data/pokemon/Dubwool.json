@@ -1,0 +1,108 @@
+{
+    "number": 832,
+    "name": "Dubwool",
+    "types": [
+        "Normal"
+    ],
+    "abilities": {
+        "normal": [
+            "Fluffy",
+            "Steadfast"
+        ],
+        "hidden": [
+            "Bulletproof"
+        ]
+    },
+    "base_hp": 5,
+    "strength": "2/5",
+    "dexterity": "2/5",
+    "vitality": "3/6",
+    "special": "2/4",
+    "insight": "3/6",
+    "moves": {
+        "bronze": [
+            "Copycat",
+            "Defense Curl",
+            "Growl",
+            "Tackle"
+        ],
+        "silver": [
+            "Double Kick",
+            "Guard Split",
+            "Guard Swap",
+            "Headbutt",
+            "Take Down"
+        ],
+        "gold": [
+            "Cotton Guard",
+            "Double-Edge",
+            "Last Resort",
+            "Reversal"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Attract",
+            "Baton Pass",
+            "Body Press",
+            "Body Slam",
+            "Bounce",
+            "Electro Ball",
+            "Endure",
+            "Facade",
+            "Giga Impact",
+            "Guard Swap",
+            "Hyper Beam",
+            "Mega Kick",
+            "Payback",
+            "Protect",
+            "Rest",
+            "Retaliate",
+            "Reversal",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Swords Dance",
+            "Thunder Wave",
+            "Wild Charge",
+            "Zen Headbutt",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Take Down",
+            "Tera Blast",
+            "Bide",
+            "Captivate",
+            "Foresight",
+            "Ice Ball",
+            "Jump Kick",
+            "Mud Sport",
+            "Natural Gift",
+            "Pursuit",
+            "Refresh",
+            "Rock Climb"
+        ],
+        "tutor": [
+            "Grassy Glide"
+        ],
+        "egg": [
+            "Counter",
+            "Stomp",
+            "Swagger"
+        ],
+        "level1_g3_7": []
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "number": 722,
+    "name": "Rowlet",
+    "types": [
+        "Grass",
+        "Flying"
+    ],
+    "abilities": {
+        "normal": [
+            "Overgrow"
+        ],
+        "hidden": [
+            "Long Reach"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "2/4",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Astonish",
+            "Growl",
+            "Leafage",
+            "Peck",
+            "Tackle"
+        ],
+        "silver": [
+            "Feather Dance",
+            "Foresight",
+            "Fury Attack",
+            "Leaf Blade",
+            "Nasty Plot",
+            "Pluck",
+            "Razor Leaf",
+            "Shadow Sneak",
+            "Sucker Punch",
+            "Synthesis"
+        ],
+        "gold": [
+            "Brave Bird"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Aerial Ace",
+            "Air Cutter",
+            "Air Slash",
+            "Attract",
+            "Baton Pass",
+            "Brave Bird",
+            "Bullet Seed",
+            "Confide",
+            "Confuse Ray",
+            "Double Team",
+            "Dual Wingbeat",
+            "Echoed Voice",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "False Swipe",
+            "Feather Dance",
+            "Frustration",
+            "Giga Drain",
+            "Grass Knot",
+            "Grass Pledge",
+            "Grassy Glide",
+            "Grassy Terrain",
+            "Haze",
+            "Helping Hand",
+            "Hidden Power",
+            "Knock Off",
+            "Leaf Blade",
+            "Leaf Storm",
+            "Light Screen",
+            "Magical Leaf",
+            "Nasty Plot",
+            "Nature Power",
+            "Night Shade",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Roost",
+            "Round",
+            "Safeguard",
+            "Seed Bomb",
+            "Shadow Claw",
+            "Sleep Talk",
+            "Snore",
+            "Solar Beam",
+            "Steel Wing",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Toxic",
+            "Trailblaze",
+            "Work Up",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Secret Power",
+            "Splash"
+        ],
+        "tutor": [
+            "Dual Wingbeat",
+            "Grass Pledge",
+            "Grassy Glide",
+            "Leafage",
+            "Tackle"
+        ],
+        "egg": [
+            "Baton Pass",
+            "Confuse Ray",
+            "Curse",
+            "Defog",
+            "Double Team",
+            "Haze",
+            "Knock Off",
+            "Ominous Wind",
+            "Roost"
+        ],
+        "level1_g3_7": [
+            "Leafage",
+            "Tackle"
+        ]
+    }
+}

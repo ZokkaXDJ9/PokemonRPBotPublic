@@ -1,0 +1,12 @@
+{
+  "name": "Z-Plasma Pulse",
+  "type": "Water",
+  "power": 4,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Applies Confusion. Applies Paralysis.",
+  "description": "Ranger fills his gargantuan claw with water and begins to compress it. With nowhere to go, the water turns critical for the blink of an eye, causing a stunning blast of superheated plasma.",
+  "og_move": "Water Pulse",
+  "category": "Special"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "Stakeout",
+    "description": "The Pokemon is constantly surveilling its environment, looking out for possible prey, attacking them when they are most vulnerable.",
+    "effect": "The User deals 2 additional damage to targets with an Evasion increase or that have Dodged this Round. When the User performs a move, remove 2 Successes from targets taking the Dodge action."
+}

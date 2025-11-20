@@ -1,0 +1,12 @@
+{
+  "name": "Z- Charged-Up Supersonic Ultra Punch of Justice!",
+  "type": "Normal",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Charge move. Fist Based. On the charge turn, the user raises their Strength by 3. The attack turn of this move has Priority 3 and +1 Accuracy",
+  "description": "Captain Led focuses his entire might into one single blow, fit for a mighty hero like him. After dealing such a fitting blow, he's left invigorated.",
+  "og_move": "Mega Punch",
+  "category": "Physical"
+}

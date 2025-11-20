@@ -1,0 +1,116 @@
+{
+    "number": 846,
+    "name": "Arrokuda",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Swift Swim"
+        ],
+        "hidden": [
+            "Propeller Tail"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Aqua Jet",
+            "Fury Attack",
+            "Peck"
+        ],
+        "silver": [
+            "Agility",
+            "Bite",
+            "Dive",
+            "Focus Energy",
+            "Laser Focus"
+        ],
+        "gold": [
+            "Crunch",
+            "Double-Edge",
+            "Liquidation"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Assurance",
+            "Attract",
+            "Bounce",
+            "Brick Break",
+            "Chilling Water",
+            "Close Combat",
+            "Crunch",
+            "Dive",
+            "Double-Edge",
+            "Drill Run",
+            "Endure",
+            "Facade",
+            "Flip Turn",
+            "Focus Energy",
+            "Hydro Pump",
+            "Ice Fang",
+            "Liquidation",
+            "Poison Jab",
+            "Protect",
+            "Psychic Fangs",
+            "Rain Dance",
+            "Rest",
+            "Round",
+            "Scald",
+            "Scale Shot",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Surf",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "Throat Chop",
+            "Water Pulse",
+            "Waterfall",
+            "Whirlpool",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Bubble",
+            "Feint Attack",
+            "Mud Sport",
+            "Odor Sleuth",
+            "Pursuit",
+            "Rage",
+            "Refresh",
+            "Sharpen",
+            "Spike Cannon",
+            "Water Sport"
+        ],
+        "tutor": [
+            "Scale Shot"
+        ],
+        "egg": [
+            "Acupressure",
+            "Night Slash",
+            "Slash",
+            "Thrash"
+        ],
+        "level1_g3_7": []
+    }
+}

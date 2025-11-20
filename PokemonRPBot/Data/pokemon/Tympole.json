@@ -1,0 +1,128 @@
+{
+    "number": 535,
+    "name": "Tympole",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Swift Swim",
+            "Hydration"
+        ],
+        "hidden": [
+            "Water Absorb"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Acid",
+            "Echoed Voice",
+            "Growl",
+            "Round",
+            "Supersonic"
+        ],
+        "silver": [
+            "Aqua Ring",
+            "Bubble Beam",
+            "Flail",
+            "Mud Shot",
+            "Muddy Water",
+            "Rain Dance",
+            "Uproar"
+        ],
+        "gold": [
+            "Hydro Pump",
+            "Hyper Voice"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Bounce",
+            "Confide",
+            "Double Team",
+            "Earth Power",
+            "Echoed Voice",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Hail",
+            "Hidden Power",
+            "Hydro Pump",
+            "Hyper Voice",
+            "Icy Wind",
+            "Infestation",
+            "Mud Shot",
+            "Muddy Water",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Scald",
+            "Screech",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Sludge Wave",
+            "Snore",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Toxic",
+            "Uproar",
+            "Venom Drench",
+            "Weather Ball",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "After You",
+            "Bounce",
+            "Bubble",
+            "Earth Power",
+            "Endeavor",
+            "Growl",
+            "Hyper Voice",
+            "Icy Wind",
+            "Sleep Talk",
+            "Snore",
+            "Uproar",
+            "Water Pulse"
+        ],
+        "egg": [
+            "After You",
+            "Earth Power",
+            "Mist",
+            "Mud Bomb",
+            "Mud Sport",
+            "Mud-Slap",
+            "Refresh",
+            "Sleep Talk",
+            "Snore",
+            "Toxic",
+            "Venom Drench",
+            "Water Pulse"
+        ],
+        "level1_g3_7": [
+            "Bubble",
+            "Growl"
+        ]
+    }
+}

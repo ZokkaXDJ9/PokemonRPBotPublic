@@ -1,0 +1,113 @@
+{
+    "number": 704,
+    "name": "Goomy",
+    "types": [
+        "Dragon"
+    ],
+    "abilities": {
+        "normal": [
+            "Sap Sipper",
+            "Hydration"
+        ],
+        "hidden": [
+            "Gooey"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Absorb",
+            "Dragon Breath",
+            "Protect",
+            "Tackle",
+            "Water Gun"
+        ],
+        "silver": [
+            "Bide",
+            "Body Slam",
+            "Flail",
+            "Rain Dance",
+            "Water Pulse"
+        ],
+        "gold": [
+            "Curse",
+            "Dragon Pulse",
+            "Muddy Water"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Body Slam",
+            "Charm",
+            "Chilling Water",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Draco Meteor",
+            "Dragon Pulse",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Hidden Power",
+            "Infestation",
+            "Iron Tail",
+            "Mud Shot",
+            "Muddy Water",
+            "Outrage",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Rock Slide",
+            "Round",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Sludge Wave",
+            "Snore",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Take Down",
+            "Tera Blast",
+            "Thunderbolt",
+            "Toxic",
+            "Water Pulse",
+            "Agility",
+            "Amnesia",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Bubble",
+            "Draco Meteor",
+            "Skitter Smack",
+            "Tackle"
+        ],
+        "egg": [
+            "Acid Armor",
+            "Counter",
+            "Curse",
+            "Endure",
+            "Iron Tail",
+            "Life Dew",
+            "Poison Tail"
+        ],
+        "level1_g3_7": [
+            "Bubble",
+            "Tackle"
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Master's Strike",
+  "type": "Fighting",
+  "power": 0,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Fist Based. Always crits on a success. \n At Silver Rank, increase this move's power to 2.\n At Gold Rank, this move becomes Double Action. The second hit can critically strike but doesn't automatically do so.\n At Platinum Rank, increase this move's power to 4.\n At Diamond Rank, this move becomes Triple Action. The third hit can critically strike but doesn't automatically do so.",
+  "description": "Add Description",
+  "category": "Physical"
+}

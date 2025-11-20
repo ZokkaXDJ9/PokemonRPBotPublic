@@ -1,0 +1,5 @@
+{
+  "name": "Surge Surfer",
+  "description": "This Pokemon's magnetic field allows it to stand and surf on top of electric currents as if it were floating.",
+  "effect": "If Electric Terrain is in effect, Increase the User's base Dexterity by 2."
+}

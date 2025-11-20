@@ -1,0 +1,113 @@
+{
+    "number": 932,
+    "name": "Nacli",
+    "types": [
+        "Rock"
+    ],
+    "abilities": {
+        "normal": [
+            "Purifying Salt",
+            "Sturdy"
+        ],
+        "hidden": [
+            "Clear Body"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "1/2",
+    "vitality": "2/5",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Harden",
+            "Mud Shot",
+            "Rock Throw",
+            "Smack Down",
+            "Tackle"
+        ],
+        "silver": [
+            "Headbutt",
+            "Iron Defense",
+            "Recover",
+            "Rock Polish",
+            "Rock Slide",
+            "Stealth Rock"
+        ],
+        "gold": [
+            "Earthquake",
+            "Heavy Slam",
+            "Stone Edge"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Body Slam",
+            "Bulldoze",
+            "Curse",
+            "Dig",
+            "Earth Power",
+            "Earthquake",
+            "Endure",
+            "Facade",
+            "Flash Cannon",
+            "Heavy Slam",
+            "Helping Hand",
+            "Iron Defense",
+            "Iron Head",
+            "Meteor Beam",
+            "Mud Shot",
+            "Power Gem",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Rock Slide",
+            "Sandstorm",
+            "Sleep Talk",
+            "Smack Down",
+            "Stealth Rock",
+            "Stomping Tantrum",
+            "Stone Edge",
+            "Substitute",
+            "Sunny Day",
+            "Take Down",
+            "Tera Blast",
+            "Zen Headbutt",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Chip Away",
+            "Magnitude",
+            "Pursuit",
+            "Rock Climb",
+            "Sharpen",
+            "Autotomize",
+            "Laser Focus",
+            "Magic Coat",
+            "Nature Power"
+        ],
+        "tutor": [],
+        "egg": [
+            "Ancient Power",
+            "Curse",
+            "Fissure",
+            "Power Gem"
+        ],
+        "level1_g3_7": []
+    }
+}

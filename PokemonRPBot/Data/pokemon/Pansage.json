@@ -1,0 +1,137 @@
+{
+    "number": 511,
+    "name": "Pansage",
+    "types": [
+        "Grass"
+    ],
+    "abilities": {
+        "normal": [
+            "Gluttony"
+        ],
+        "hidden": [
+            "Overgrow"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Leer",
+            "Lick",
+            "Vine Whip"
+        ],
+        "silver": [
+            "Acrobatics",
+            "Bite",
+            "Fling",
+            "Fury Swipes",
+            "Leech Seed",
+            "Seed Bomb",
+            "Torment"
+        ],
+        "gold": [
+            "Crunch",
+            "Grass Knot",
+            "Natural Gift",
+            "Recycle"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Attract",
+            "Confide",
+            "Cut",
+            "Dig",
+            "Double Team",
+            "Energy Ball",
+            "Facade",
+            "Flash",
+            "Fling",
+            "Frustration",
+            "Grass Knot",
+            "Hidden Power",
+            "Hone Claws",
+            "Low Sweep",
+            "Nature Power",
+            "Payback",
+            "Protect",
+            "Rest",
+            "Return",
+            "Rock Smash",
+            "Rock Tomb",
+            "Round",
+            "Shadow Claw",
+            "Sleep Talk",
+            "Solar Beam",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Taunt",
+            "Thief",
+            "Torment",
+            "Toxic",
+            "Work Up",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Endure",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Covet",
+            "Endeavor",
+            "Focus Punch",
+            "Gastro Acid",
+            "Giga Drain",
+            "Grass Pledge",
+            "Gunk Shot",
+            "Helping Hand",
+            "Iron Tail",
+            "Knock Off",
+            "Low Kick",
+            "Play Nice",
+            "Recycle",
+            "Role Play",
+            "Scratch",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Synthesis",
+            "Uproar",
+            "Worry Seed"
+        ],
+        "egg": [
+            "Astonish",
+            "Bullet Seed",
+            "Covet",
+            "Disarming Voice",
+            "Grass Whistle",
+            "Leaf Storm",
+            "Low Kick",
+            "Magical Leaf",
+            "Nasty Plot",
+            "Role Play",
+            "Spiky Shield",
+            "Tickle"
+        ],
+        "level1_g3_7": [
+            "Scratch",
+            "Play Nice"
+        ]
+    }
+}

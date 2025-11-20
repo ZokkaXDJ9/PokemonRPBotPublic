@@ -1,0 +1,120 @@
+{
+    "number": 524,
+    "name": "Roggenrola",
+    "types": [
+        "Rock"
+    ],
+    "abilities": {
+        "normal": [
+            "Sturdy",
+            "Weak Armor"
+        ],
+        "hidden": [
+            "Sand Force"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/5",
+    "dexterity": "1/2",
+    "vitality": "2/5",
+    "special": "1/2",
+    "insight": "1/2",
+    "moves": {
+        "bronze": [
+            "Harden",
+            "Headbutt",
+            "Sand Attack",
+            "Stealth Rock",
+            "Tackle"
+        ],
+        "silver": [
+            "Iron Defense",
+            "Mud-Slap",
+            "Rock Blast",
+            "Rock Slide",
+            "Sandstorm",
+            "Smack Down"
+        ],
+        "gold": [
+            "Explosion",
+            "Stone Edge"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Body Press",
+            "Bulldoze",
+            "Confide",
+            "Double Team",
+            "Earth Power",
+            "Earthquake",
+            "Endure",
+            "Explosion",
+            "Facade",
+            "Flash Cannon",
+            "Frustration",
+            "Heavy Slam",
+            "Hidden Power",
+            "Iron Defense",
+            "Nature Power",
+            "Protect",
+            "Rest",
+            "Return",
+            "Rock Blast",
+            "Rock Polish",
+            "Rock Slide",
+            "Rock Smash",
+            "Rock Tomb",
+            "Round",
+            "Sand Tomb",
+            "Sandstorm",
+            "Sleep Talk",
+            "Smack Down",
+            "Snore",
+            "Stealth Rock",
+            "Stone Edge",
+            "Strength",
+            "Substitute",
+            "Swagger",
+            "Toxic",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Block",
+            "Earth Power",
+            "Gravity",
+            "Iron Defense",
+            "Meteor Beam",
+            "Sleep Talk",
+            "Snore",
+            "Stealth Rock",
+            "Tackle"
+        ],
+        "egg": [
+            "Autotomize",
+            "Curse",
+            "Gravity",
+            "Heavy Slam",
+            "Lock-On",
+            "Magnitude",
+            "Rock Tomb",
+            "Take Down",
+            "Wide Guard"
+        ],
+        "level1_g3_7": [
+            "Tackle"
+        ]
+    }
+}

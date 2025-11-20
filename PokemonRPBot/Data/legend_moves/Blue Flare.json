@@ -1,0 +1,11 @@
+{
+    "name": "Blue Flare",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Roll 2 Chance Dice to Burn. -1 Accuracy. \n At Silver Rank, increase this move's power to 5.\n At Gold Rank, change this move's accuracy to Special.\n At Platinum Rank, increase this move's power to 7.\n At Diamond Rank, this move always inflicts Burn and inflicts Wounds.",
+    "description": "Reshiram surrounds itself with a giant blue flame that is unleashed with an earth shattering explosion. Receiving this attack directly might completely engulf you in fire.",
+    "category": "Special"
+}

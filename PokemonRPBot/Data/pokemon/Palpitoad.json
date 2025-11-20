@@ -1,0 +1,140 @@
+{
+    "number": 536,
+    "name": "Palpitoad",
+    "types": [
+        "Water",
+        "Ground"
+    ],
+    "abilities": {
+        "normal": [
+            "Swift Swim",
+            "Hydration"
+        ],
+        "hidden": [
+            "Water Absorb"
+        ]
+    },
+    "base_hp": 5,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Acid",
+            "Echoed Voice",
+            "Growl",
+            "Round",
+            "Supersonic"
+        ],
+        "silver": [
+            "Aqua Ring",
+            "Bubble Beam",
+            "Flail",
+            "Mud Shot",
+            "Muddy Water",
+            "Rain Dance",
+            "Uproar"
+        ],
+        "gold": [
+            "Hydro Pump",
+            "Hyper Voice"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Bounce",
+            "Bulldoze",
+            "Confide",
+            "Double Team",
+            "Earth Power",
+            "Echoed Voice",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Hail",
+            "Hidden Power",
+            "Hydro Pump",
+            "Hyper Voice",
+            "Icy Wind",
+            "Infestation",
+            "Mud Shot",
+            "Muddy Water",
+            "Power Whip",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Rock Smash",
+            "Round",
+            "Scald",
+            "Screech",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Sludge Wave",
+            "Snore",
+            "Stealth Rock",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Toxic",
+            "Uproar",
+            "Venom Drench",
+            "Weather Ball",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "After You",
+            "Bounce",
+            "Bubble",
+            "Earth Power",
+            "Endeavor",
+            "Focus Punch",
+            "Gastro Acid",
+            "Growl",
+            "Hyper Voice",
+            "Icy Wind",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Stealth Rock",
+            "Supersonic",
+            "Uproar",
+            "Water Pulse"
+        ],
+        "egg": [
+            "After You",
+            "Earth Power",
+            "Mist",
+            "Mud Bomb",
+            "Mud Sport",
+            "Mud-Slap",
+            "Refresh",
+            "Sleep Talk",
+            "Snore",
+            "Toxic",
+            "Venom Drench",
+            "Water Pulse"
+        ],
+        "level1_g3_7": [
+            "Bubble",
+            "Growl",
+            "Round",
+            "Supersonic"
+        ]
+    }
+}

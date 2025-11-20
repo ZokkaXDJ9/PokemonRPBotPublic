@@ -1,0 +1,114 @@
+{
+    "number": 816,
+    "name": "Sobble",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Torrent"
+        ],
+        "hidden": [
+            "Sniper"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "2/5",
+    "vitality": "1/3",
+    "special": "2/5",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Bind",
+            "Growl",
+            "Pound",
+            "Water Gun"
+        ],
+        "silver": [
+            "Liquidation",
+            "Soak",
+            "Sucker Punch",
+            "Tearful Look",
+            "U-turn",
+            "Water Pulse"
+        ],
+        "gold": [
+            "Rain Dance"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Baton Pass",
+            "Bounce",
+            "Bubble",
+            "Camouflage",
+            "Captivate",
+            "Chilling Water",
+            "Dive",
+            "Endure",
+            "Facade",
+            "Foresight",
+            "Haze",
+            "Hydro Pump",
+            "Light Screen",
+            "Liquidation",
+            "Mud Shot",
+            "Mud Sport",
+            "Muddy Water",
+            "Protect",
+            "Rain Dance",
+            "Reflect",
+            "Refresh",
+            "Rest",
+            "Rock Climb",
+            "Round",
+            "Safeguard",
+            "Signal Beam",
+            "Sleep Talk",
+            "Snatch",
+            "Snore",
+            "Substitute",
+            "Surf",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "U-turn",
+            "Water Pledge",
+            "Water Pulse",
+            "Water Sport",
+            "Waterfall",
+            "Weather Ball",
+            "Whirlpool",
+            "Work Up",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [],
+        "egg": [
+            "Aqua Jet",
+            "Aqua Ring",
+            "Double Team",
+            "Fell Stinger",
+            "Haze",
+            "Ice Shard",
+            "Mist"
+        ],
+        "level1_g3_7": []
+    }
+}

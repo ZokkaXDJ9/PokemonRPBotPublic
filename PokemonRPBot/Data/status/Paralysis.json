@@ -1,0 +1,7 @@
+{
+  "name": "Paralysis",
+  "description": "Your muscles are cramped and you can hardly move!",
+  "resist": "Can’t be resisted.",
+  "effect": "Halve the target's Dexterity for the purposes of initiative (rounded down). Before each action, roll 1d6. On a 1, they fail to execute it. Electric-type Pokèmon are immune.",
+  "duration": "24 hours."
+}

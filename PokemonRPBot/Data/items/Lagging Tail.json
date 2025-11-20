@@ -1,0 +1,6 @@
+{
+    "name": "Lagging Tail",
+    "description": "This holder always goes last in the the initiative order.",
+    "category": "Held Item",
+    "rarity": "Uncommon"
+}

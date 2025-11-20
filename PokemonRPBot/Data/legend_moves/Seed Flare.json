@@ -1,0 +1,11 @@
+{
+    "name": "Seed Flare",
+    "type": "Grass",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Reduce the foe's Sp. Defense by 1. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, the User can use Special for accuracy on this move.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, increase the Special Defense reduction to 2.",
+    "description": "Shaymin releases an explosion of pollen and seeds that the foe cannot shake off, leaving it vulnerable. Over time, these seeds will grow into gigantic trees of life.",
+    "category": "Special"
+}

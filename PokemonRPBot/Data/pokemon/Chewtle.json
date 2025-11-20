@@ -1,0 +1,117 @@
+{
+    "number": 833,
+    "name": "Chewtle",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Strong Jaw",
+            "Shell Armor"
+        ],
+        "hidden": [
+            "Swift Swim"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "2/4",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Bite",
+            "Tackle",
+            "Water Gun"
+        ],
+        "silver": [
+            "Counter",
+            "Headbutt",
+            "Protect"
+        ],
+        "gold": [
+            "Body Slam",
+            "Jaw Lock",
+            "Liquidation"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Assurance",
+            "Attract",
+            "Body Slam",
+            "Chilling Water",
+            "Crunch",
+            "Dive",
+            "Dragon Tail",
+            "Endure",
+            "Facade",
+            "False Swipe",
+            "Hydro Pump",
+            "Ice Fang",
+            "Liquidation",
+            "Mud Shot",
+            "Payback",
+            "Poison Jab",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Revenge",
+            "Round",
+            "Scary Face",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Snore",
+            "Stomping Tantrum",
+            "Substitute",
+            "Surf",
+            "Take Down",
+            "Tera Blast",
+            "Water Pulse",
+            "Waterfall",
+            "Whirlpool",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Bubble",
+            "Captivate",
+            "Chip Away",
+            "Clamp",
+            "Foresight",
+            "Hyper Fang",
+            "Magnitude",
+            "Mud Sport",
+            "Rage",
+            "Refresh",
+            "Rock Climb",
+            "Sharpen",
+            "Water Sport"
+        ],
+        "tutor": [
+            "Scale Shot",
+            "Skitter Smack"
+        ],
+        "egg": [
+            "Dragon Tail",
+            "Gastro Acid",
+            "Shell Smash",
+            "Skull Bash"
+        ],
+        "level1_g3_7": []
+    }
+}

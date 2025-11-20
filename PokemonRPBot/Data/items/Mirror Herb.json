@@ -1,0 +1,6 @@
+{
+  "name": "Mirror Herb",
+  "description": "Can be reactively used to copy the stat increases of a single move that another pokemon just used. Copys the basic version of the move's boost (in case of crit or Z-Move).",
+  "category": "Consumable",
+  "rarity": "Rare"
+}

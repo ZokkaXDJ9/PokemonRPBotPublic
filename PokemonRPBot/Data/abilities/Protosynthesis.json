@@ -1,0 +1,5 @@
+{
+  "name": "Protosynthesis",
+  "description": "This pokemon is especially comfortable when somewhere similar to it's old hot environment.",
+  "effect": "If Sunny Weather or Grassy Terrain are active or this pokemon is holding Booster Energy, Increase the base of the User's highest Stat by 2 (In case of ties, select randomly between the mon's highest stats). If the User's highest stat is Vitality or Insight instead increase the User's base Defense or Special Defense by 1 respectively. This Ability cannot be copied, replaced or suppressed (ignoring the effects of Skill Swap, Worry Seed, Gastro Acid, Trace etc.)"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Shore Up",
+  "type": "Ground",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "User",
+  "effect": "Heal 5 HP. If Sandstorm or Duststorm weather are in effect instead Heal 10 HP. If successful spend 1 Will point to activate.",
+  "description": "The Pokemon gathers the sand around itself to restore its body to shape.",
+  "category": "Support"
+}

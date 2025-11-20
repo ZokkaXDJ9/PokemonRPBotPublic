@@ -1,0 +1,12 @@
+{
+  "name": "Z-Chains of Others",
+  "type": "Fighting",
+  "power": 6,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reduce Foe's Dexterity by 2. Special and Strength by 2, Reduces User Strength, Special and Dexterity by 1.",
+  "description": "The Pokemon strikes the foe's legs and head, making it unable to walk normally, run or even to properly fight back, both end up \"binded\"",
+  "og_move": "Low Sweep",
+  "category": "Physical"
+}

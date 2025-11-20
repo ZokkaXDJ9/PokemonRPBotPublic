@@ -1,0 +1,11 @@
+{
+  "name": "Psych Up",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Foe",
+  "effect": "Never Fail. Copy the Target's Stat Changes and keep them until the end of the scene.",
+  "description": "The Pokemon mentalizes itself stronger than anyone. They feel good. They can win. They. Can. Do. This.",
+  "category": "Support"
+}

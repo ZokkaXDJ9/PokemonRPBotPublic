@@ -1,0 +1,11 @@
+{
+    "name": "Bolt Strike",
+    "type": "Electric",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Roll 2 Chance Dice to Paralysis. -1 Accuracy. \n At Silver Rank, increase this move's power to 5.\n At Gold Rank, change this move's accuracy to Strength.\n At Platinum Rank, increase this move's power to 7.\n At Diamond Rank, this move always inflicts Paralysis and inflicts Wounds.",
+    "description": "Zekrom delivers a powerful tackle while discharging lightning through its body. The foe is rendered unable to move, either by the strike or the electricity.",
+    "category": "Physical"
+}

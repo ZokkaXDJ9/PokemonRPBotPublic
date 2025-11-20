@@ -1,0 +1,134 @@
+{
+    "number": 672,
+    "name": "Skiddo",
+    "types": [
+        "Grass"
+    ],
+    "abilities": {
+        "normal": [
+            "Sap Sipper"
+        ],
+        "hidden": [
+            "Grass Pelt"
+        ]
+    },
+    "base_hp": 5,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Growth",
+            "Tackle",
+            "Tail Whip",
+            "Vine Whip"
+        ],
+        "silver": [
+            "Bulldoze",
+            "Leech Seed",
+            "Razor Leaf",
+            "Seed Bomb",
+            "Synthesis",
+            "Take Down",
+            "Worry Seed"
+        ],
+        "gold": [
+            "Bulk Up",
+            "Double-Edge",
+            "Horn Leech",
+            "Leaf Blade",
+            "Milk Drink"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Body Slam",
+            "Brick Break",
+            "Bulk Up",
+            "Bulldoze",
+            "Bullet Seed",
+            "Confide",
+            "Dig",
+            "Double Team",
+            "Double-Edge",
+            "Endeavor",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Frustration",
+            "Giga Drain",
+            "Grass Knot",
+            "Grassy Glide",
+            "Grassy Terrain",
+            "Helping Hand",
+            "Hidden Power",
+            "Leaf Storm",
+            "Magical Leaf",
+            "Mud Shot",
+            "Mud-Slap",
+            "Nature Power",
+            "Payback",
+            "Play Rough",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Retaliate",
+            "Return",
+            "Roar",
+            "Rock Slide",
+            "Rock Smash",
+            "Round",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Solar Beam",
+            "Stomping Tantrum",
+            "Strength",
+            "Substitute",
+            "Sunny Day",
+            "Surf",
+            "Swagger",
+            "Take Down",
+            "Tera Blast",
+            "Toxic",
+            "Trailblaze",
+            "Wild Charge",
+            "Work Up",
+            "Zen Headbutt",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Giga Drain",
+            "Growth",
+            "Iron Tail",
+            "Seed Bomb",
+            "Snore",
+            "Synthesis",
+            "Tackle",
+            "Worry Seed",
+            "Zen Headbutt"
+        ],
+        "egg": [
+            "Defense Curl",
+            "Grassy Terrain",
+            "Milk Drink",
+            "Rollout"
+        ],
+        "level1_g3_7": [
+            "Growth",
+            "Tackle"
+        ]
+    }
+}

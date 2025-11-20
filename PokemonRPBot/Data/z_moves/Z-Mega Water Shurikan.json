@@ -1,0 +1,12 @@
+{
+  "name": "Z-Mega Water Shuriken",
+  "type": "Water",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Priority 1. Double Actions.",
+  "description": "The Pokemon quickly throws big, sharp jets of water in the shape of a shuriken.",
+  "og_move": "Water Shuriken",
+  "category": "Special"
+}

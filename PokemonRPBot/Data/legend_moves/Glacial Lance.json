@@ -1,0 +1,11 @@
+{
+    "name": "Glacial Lance",
+    "type": "Ice",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "This move targets the lower of the foe's defenses. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, the user may use Strength for Accuracy on this move.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move can hit two additional targets. Deal halved damage (rounded up) against the additional targets. The additional targets can not be critically hit by this move.",
+    "description": "The Pok\u00e9mon throws a lance cloaked in blizzard at its foes, where it explodes, searing them with an ice cold blast.",
+    "category": "Physical"
+}

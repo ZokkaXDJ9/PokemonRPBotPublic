@@ -1,0 +1,11 @@
+{
+  "name": "Wildbolt Storm",
+  "type": "Electric",
+  "power": 4,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All foes",
+  "effect": "Wind Based. Inflicts Wounds. Roll 3 chance dice to inflict Paralysis for each affected target. -2 accuracy.",
+  "description": "The user summons forth a massive thunderstorm, which impacts each enemy with a bolt of lightning.",
+  "category": "Special"
+}

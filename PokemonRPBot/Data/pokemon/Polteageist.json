@@ -1,0 +1,123 @@
+{
+    "number": 855,
+    "name": "Polteageist",
+    "types": [
+        "Ghost"
+    ],
+    "abilities": {
+        "normal": [
+            "Weak Armor"
+        ],
+        "hidden": [
+            "Cursed Body"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "2/4",
+    "special": "4/8",
+    "insight": "3/7",
+    "moves": {
+        "bronze": [
+            "Aromatic Mist",
+            "Astonish",
+            "Mega Drain",
+            "Strength Sap",
+            "Teatime",
+            "Withdraw"
+        ],
+        "silver": [
+            "Aromatherapy",
+            "Protect",
+            "Sucker Punch",
+            "Sweet Scent"
+        ],
+        "gold": [
+            "Curse",
+            "Giga Drain",
+            "Memento",
+            "Nasty Plot",
+            "Shadow Ball",
+            "Shell Smash"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Ally Switch",
+            "Baton Pass",
+            "Calm Mind",
+            "Confuse Ray",
+            "Curse",
+            "Dark Pulse",
+            "Endure",
+            "Facade",
+            "Foul Play",
+            "Giga Drain",
+            "Giga Impact",
+            "Hex",
+            "Hyper Beam",
+            "Imprison",
+            "Light Screen",
+            "Magical Leaf",
+            "Metronome",
+            "Nasty Plot",
+            "Night Shade",
+            "Pain Split",
+            "Payback",
+            "Phantom Force",
+            "Poltergeist",
+            "Protect",
+            "Psybeam",
+            "Psychic",
+            "Psyshock",
+            "Reflect",
+            "Rest",
+            "Round",
+            "Self-Destruct",
+            "Shadow Ball",
+            "Skill Swap",
+            "Sleep Talk",
+            "Snore",
+            "Spite",
+            "Stored Power",
+            "Substitute",
+            "Tera Blast",
+            "Trick",
+            "Trick Room",
+            "Will-O-Wisp",
+            "Wonder Room",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Camouflage",
+            "Captivate",
+            "Embargo",
+            "Foresight",
+            "Nightmare",
+            "Ominous Wind",
+            "Signal Beam",
+            "Snatch",
+            "Telekinesis"
+        ],
+        "tutor": [
+            "Poltergeist"
+        ],
+        "egg": [
+            "Ally Switch"
+        ],
+        "level1_g3_7": []
+    }
+}

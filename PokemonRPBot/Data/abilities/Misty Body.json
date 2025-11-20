@@ -1,0 +1,5 @@
+{
+  "name": "Misty Body",
+  "description": "This pokemon may set out an enchanting dust to bewilder opponents",
+  "effect": "This pokemon can start Fairy Dust Weather at the start of a round once per battle. The effects end when the User faints, or leaves the battle."
+}

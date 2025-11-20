@@ -1,0 +1,5 @@
+{
+  "name": "Dauntless Shield",
+  "description": "The valorous resolve of this Pokemon makes it impervious to physical damage through sheer will. Its presence can be unnerving.",
+  "effect": "Once per battle, at the start of Round the User may increase their Defense. This ability may be reset after performing an Alternative Action (Including dodges granted by evasion). The Stat Change from Dauntless Shield cannot stack with itself."
+}

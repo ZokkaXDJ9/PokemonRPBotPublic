@@ -1,0 +1,11 @@
+{
+    "name": "Roar Of Time",
+    "type": "Special",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Recharge Move. During the recharge turn, a random ally can take a bonus turn instead. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, you get to choose which ally gets the bonus turn instead.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move gains high critical and inflicts wounds.",
+    "description": "Through a terrifying roar, Dialga bounds the forces of time on a single area, the unfortunate target will be trapped in a time warp, growing old in a matter of seconds.",
+    "category": "Special"
+}

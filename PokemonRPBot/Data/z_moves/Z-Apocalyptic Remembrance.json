@@ -1,0 +1,12 @@
+{
+  "name": "Z-Apocalyptic Remembrance",
+  "type": "Psychic",
+  "power": 7,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "High Critical. Sets Psychic Terrain for 3 rounds",
+  "description": "Vivian fills the targets mind with memories of doom, disaster, and loss, causing severe Mental and Emotional harm",
+  "og_move": "Psychic",
+  "category": "Special"
+}

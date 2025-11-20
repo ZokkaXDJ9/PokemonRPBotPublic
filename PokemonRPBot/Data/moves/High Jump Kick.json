@@ -1,0 +1,11 @@
+{
+  "name": "High Jump Kick",
+  "type": "Fighting",
+  "power": 5,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If the Accuracy Roll is unsuccessful or the target is unaffected, deal 5 Dice of Damage to the User. -1 Accuracy.",
+  "description": "The user launches itself up and falls down with a brutal kick. It might hurt the user if it doesn't hit the target.",
+  "category": "Physical"
+}

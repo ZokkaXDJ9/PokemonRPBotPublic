@@ -1,0 +1,11 @@
+{
+  "name": "Jump Kick",
+  "type": "Fighting",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "If the Accuracy Roll is unsuccessful or the target is unaffected, deal 4 Dice of Damage to the User.",
+  "description": "The Pokemon jumps and delivers a powerful kick. It might hurt the user if it doesn't hit the target.",
+  "category": "Physical"
+}

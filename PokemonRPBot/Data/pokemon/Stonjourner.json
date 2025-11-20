@@ -1,0 +1,122 @@
+{
+    "number": 874,
+    "name": "Stonjourner",
+    "types": [
+        "Rock"
+    ],
+    "abilities": {
+        "normal": [
+            "Power Spot"
+        ],
+        "hidden": []
+    },
+    "base_hp": 6,
+    "strength": "3/7",
+    "dexterity": "2/5",
+    "vitality": "4/8",
+    "special": "1/2",
+    "insight": "1/2",
+    "moves": {
+        "bronze": [
+            "Block",
+            "Rock Polish",
+            "Rock Throw"
+        ],
+        "silver": [
+            "Gravity",
+            "Rock Tomb",
+            "Stealth Rock",
+            "Stomp"
+        ],
+        "gold": [
+            "Body Slam",
+            "Heavy Slam",
+            "Mega Kick",
+            "Rock Slide",
+            "Stone Edge",
+            "Wide Guard"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Assurance",
+            "Attract",
+            "Body Press",
+            "Body Slam",
+            "Brutal Swing",
+            "Bulldoze",
+            "Curse",
+            "Earth Power",
+            "Earthquake",
+            "Endeavor",
+            "Endure",
+            "Facade",
+            "Giga Impact",
+            "Gravity",
+            "Hard Press",
+            "Heat Crash",
+            "Heavy Slam",
+            "High Horsepower",
+            "Hyper Beam",
+            "Imprison",
+            "Iron Defense",
+            "Low Kick",
+            "Low Sweep",
+            "Mega Kick",
+            "Meteor Beam",
+            "Power Gem",
+            "Protect",
+            "Psych Up",
+            "Rest",
+            "Rock Blast",
+            "Rock Slide",
+            "Rock Tomb",
+            "Round",
+            "Safeguard",
+            "Sand Tomb",
+            "Sandstorm",
+            "Self-Destruct",
+            "Sleep Talk",
+            "Smack Down",
+            "Snore",
+            "Stealth Rock",
+            "Stomping Tantrum",
+            "Stone Edge",
+            "Substitute",
+            "Sunny Day",
+            "Superpower",
+            "Take Down",
+            "Tera Blast",
+            "Wonder Room",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Captivate",
+            "Magnitude",
+            "Mud Sport",
+            "Rage",
+            "Rock Climb",
+            "Sharpen"
+        ],
+        "tutor": [
+            "Meteor Beam"
+        ],
+        "egg": [
+            "Ancient Power",
+            "Curse"
+        ],
+        "level1_g3_7": []
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "number": 883,
+    "name": "Arctovish",
+    "types": [
+        "Water",
+        "Ice"
+    ],
+    "abilities": {
+        "normal": [
+            "Water Absorb",
+            "Ice Body"
+        ],
+        "hidden": [
+            "Slush Rush"
+        ]
+    },
+    "base_hp": 5,
+    "strength": "3/6",
+    "dexterity": "2/4",
+    "vitality": "3/6",
+    "special": "2/5",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Powder Snow",
+            "Protect",
+            "Water Gun"
+        ],
+        "silver": [
+            "Ancient Power",
+            "Bite",
+            "Icy Wind"
+        ],
+        "gold": [
+            "Aurora Veil",
+            "Blizzard",
+            "Crunch",
+            "Fishious Rend",
+            "Freeze-Dry",
+            "Icicle Crash",
+            "Super Fang"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Avalanche",
+            "Blizzard",
+            "Body Slam",
+            "Brine",
+            "Crunch",
+            "Dive",
+            "Endure",
+            "Facade",
+            "Giga Impact",
+            "Hail",
+            "Hydro Pump",
+            "Hyper Beam",
+            "Ice Beam",
+            "Ice Fang",
+            "Icicle Spear",
+            "Icy Wind",
+            "Iron Defense",
+            "Iron Head",
+            "Liquidation",
+            "Protect",
+            "Psychic Fangs",
+            "Rain Dance",
+            "Rest",
+            "Rock Blast",
+            "Rock Slide",
+            "Rock Tomb",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Stone Edge",
+            "Substitute",
+            "Surf",
+            "Waterfall",
+            "Whirlpool",
+            "Zen Headbutt",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Bide",
+            "Bubble",
+            "Clamp",
+            "Feint Attack",
+            "Ice Ball",
+            "Mud Bomb",
+            "Mud Sport",
+            "Pursuit",
+            "Rock Climb",
+            "Signal Beam"
+        ],
+        "tutor": [
+            "Meteor Beam"
+        ],
+        "egg": [],
+        "level1_g3_7": []
+    }
+}

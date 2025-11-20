@@ -1,0 +1,6 @@
+{
+    "name": "Rocky Helmet",
+    "description": "Whenever a foe makes contact with the User, they take 2 damage.",
+    "category": "Held Item",
+    "rarity": "Uncommon"
+}

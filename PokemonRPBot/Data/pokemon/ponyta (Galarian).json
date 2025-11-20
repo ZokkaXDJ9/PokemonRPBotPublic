@@ -1,0 +1,118 @@
+{
+    "number": 77,
+    "name": "Ponyta (Galarian)",
+    "types": [
+        "Psychic"
+    ],
+    "abilities": {
+        "normal": [
+            "Run Away",
+            "Pastel Veil"
+        ],
+        "hidden": [
+            "Anticipation"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/5",
+    "dexterity": "3/6",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Growl",
+            "Tackle",
+            "Tail Whip",
+            "Confusion"
+        ],
+        "silver": [
+            "Fairy Wind",
+            "Agility",
+            "Psybeam",
+            "Stomp"
+        ],
+        "gold": [
+            "Heal Pulse",
+            "Take Down",
+            "Dazzling Gleam",
+            "Psychic",
+            "Healing Wish"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Metronome",
+            "Protect",
+            "Nasty Plot",
+            "Rest",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Sleep Talk",
+            "Snore",
+            "Splash",
+            "Substitute",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Charm",
+            "Swift",
+            "Imprison",
+            "Bounce",
+            "Mystical Fire",
+            "Body Slam",
+            "Low Kick",
+            "Psychic",
+            "Iron Tail",
+            "Future Sight",
+            "Calm Mind",
+            "Zen Headbutt",
+            "Stored Power",
+            "Ally Switch",
+            "Wild Charge",
+            "Play Rough",
+            "Dazzling Gleam",
+            "High Horsepower",
+            "Amnesia",
+            "Iron Defense",
+            "Barrier",
+            "Captivate",
+            "Embargo",
+            "Foresight",
+            "Lucky Chant",
+            "Miracle Eye",
+            "Nightmare",
+            "Psywave",
+            "Pursuit",
+            "Rock Climb",
+            "Signal Beam",
+            "Snatch",
+            "Spotlight",
+            "Synchronoise",
+            "Telekinesis"
+        ],
+        "egg": [
+            "Double Kick",
+            "Double-Edge",
+            "Horn Drill",
+            "Hypnosis",
+            "Morning Sun",
+            "Thrash"
+        ],
+        "tutor": [
+            "Expanding Force"
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Judgement",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "This Move's type is equal to the User's held Plate. The User may use Strength for this Move's damage, in which case it turns into a Ranged Physical move. The Foe can not restore HP until the start of your next turn. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, before performing this Move, the User may switch their held item for any Type Plate in their possession, without consuming an action.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, the User may freely choose between Strength, Dexterity and Special for this move's Accuracy and Damage.",
+    "description": "Eventually, everyone gets what they deserve.",
+    "category": "Special"
+}

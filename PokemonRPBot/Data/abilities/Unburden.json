@@ -1,0 +1,5 @@
+{
+  "name": "Unburden",
+  "description": "This Pokemon is most comfortable when it is freed from having to carry stuff around. It loves to be able to move without restrictions.",
+  "effect": "The first time this Pokemon loses or spends its held item and is no longer holding any, Increase the User's base Dexterity by 2."
+}

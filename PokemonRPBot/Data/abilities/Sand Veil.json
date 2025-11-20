@@ -1,0 +1,5 @@
+{
+  "name": "Sand Veil",
+  "description": "The Pokemon's body is easily concealed by sand particles in the air.",
+  "effect": "When Sandstorm Weather takes effect or is active at the start of Round, Increase the User's Evasion by 1 (this Stat Change cannot stack with itself). The Pokemon is immune to damage from Sandstorm weather."
+}

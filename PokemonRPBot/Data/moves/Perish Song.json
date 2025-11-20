@@ -1,0 +1,11 @@
+{
+  "name": "Perish Song",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Beauty",
+  "target": "Battlefield",
+  "effect": "At the end of the second next round, all targets take wound damage dice equal to their maximum HP (up to 20). Sound Based. This effect can be removed and the damage prevented by using an action to Dodge or the Prepare Dodge Alternative Moves, or by using a Switcher Move before the timer runs out (the User benefits from these actions as normal in addition to removing Perish Song). Using a Switcher Move only removes the effect if the User is not Blocked.",
+  "description": "A song of mourning and despair that resonates on the minds of anyone who listens. Makes you feel like you are on your death bed.",
+  "category": "Support"
+}

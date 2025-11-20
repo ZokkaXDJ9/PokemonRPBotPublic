@@ -1,0 +1,11 @@
+{
+    "name": "Deformation",
+    "type": "Ground",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Damage Roll is Half of the Foe's remaining HP (up to 8) Rounded down. Ignore the foe's Defenses. -1 Accuracy.\n At Silver Rank, increase the Damage Roll to Half of the Foe's remaining HP (up to 10).\n At Gold Rank, lower the target\u2019s Defense.\n At Platinum Rank, increase the Damage Roll to Half of the Foe's remaining HP (up to 12).\n At Diamond Rank, healing moves and effects will instead damage the target for 2 rounds. Berries and Potions are unaffected.",
+    "description": "Needs Description",
+    "category": "Physical"
+}

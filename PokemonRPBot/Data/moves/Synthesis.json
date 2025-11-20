@@ -1,0 +1,11 @@
+{
+  "name": "Synthesis",
+  "type": "Grass",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "User",
+  "effect": "Heal 5 HP. If Successful spend 1 Will point to activate. If Sunny or Pollen Storm weather are in effect instead Heal 10 HP. If Rain/Sandstorm Weather is in effect this move only heals 1 HP.",
+  "description": "The Pokemon uses the sunlight as energy to regain its vitality.",
+  "category": "Support"
+}

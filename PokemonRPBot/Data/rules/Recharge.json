@@ -1,0 +1,6 @@
+{
+  "name": "Recharge",
+  "flavor": "You got to rest after doing your best!",
+  "text": "- Moves labeled with Recharge require the user to skip their next turn entirely to recharge\n- No actions or free actions can be taken during the recharge turn, even if the move misses\n- Aside from this, Recharge moves function like any other move",
+  "example": ""
+}

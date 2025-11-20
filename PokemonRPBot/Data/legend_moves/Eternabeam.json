@@ -1,0 +1,11 @@
+{
+    "name": "Eternabeam",
+    "type": "Dragon",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "If the Foe is under the effects of a Special Gimmick(Dynamax, Mega Evolution, Terastallization), or used a Z-Move on it's last turn, this Move Inflicts Wounds and add 2 Extra Dice to the Damage Pool. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, increase the conditional Extra Dice of this move to 4.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move also becomes High Critical if it's conditional effect is fulfilled.",
+    "description": "The Pokemon shoots an incredibly powerful beam towards the sky. The energy released might keep traveling through space thousands of years later.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Ivy Cudgel",
+    "type": "Grass",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Ranged. High Critical. This move's type becomes the same as the secondary type of the User, if the User has a secondary type. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, treat the target's defense as halved (rounded down) against this move.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, treat the target's defense as 0 against this move.",
+    "description": "The user strikes the enemy incredibly hard with a mossy stick. Has a good chance of breaking through the enemy's defenses.",
+    "category": "Physical"
+}

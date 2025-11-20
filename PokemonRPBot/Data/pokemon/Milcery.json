@@ -1,0 +1,90 @@
+{
+    "number": 868,
+    "name": "Milcery",
+    "types": [
+        "Fairy"
+    ],
+    "abilities": {
+        "normal": [
+            "Sweet Veil"
+        ],
+        "hidden": [
+            "Aroma Veil"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Aromatic Mist",
+            "Sweet Kiss",
+            "Sweet Scent",
+            "Tackle"
+        ],
+        "silver": [
+            "Acid Armor",
+            "Aromatherapy",
+            "Attract",
+            "Charm",
+            "Draining Kiss"
+        ],
+        "gold": [
+            "Dazzling Gleam",
+            "Entrainment",
+            "Misty Terrain",
+            "Recover"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Charm",
+            "Dazzling Gleam",
+            "Draining Kiss",
+            "Endure",
+            "Facade",
+            "Fling",
+            "Helping Hand",
+            "Misty Terrain",
+            "Protect",
+            "Rest",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Stored Power",
+            "Substitute",
+            "Tera Blast",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Captivate",
+            "Flash",
+            "Lucky Chant",
+            "Natural Gift",
+            "Signal Beam"
+        ],
+        "tutor": [],
+        "egg": [
+            "Baby-Doll Eyes",
+            "Last Resort"
+        ],
+        "level1_g3_7": []
+    }
+}

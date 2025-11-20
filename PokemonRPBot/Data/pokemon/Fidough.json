@@ -1,0 +1,115 @@
+{
+    "number": 926,
+    "name": "Fidough",
+    "types": [
+        "Fairy"
+    ],
+    "abilities": {
+        "normal": [
+            "Own Tempo"
+        ],
+        "hidden": [
+            "Klutz"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "2/5",
+    "special": "1/2",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Covet",
+            "Growl",
+            "Lick",
+            "Tackle",
+            "Tail Whip"
+        ],
+        "silver": [
+            "Baby-Doll Eyes",
+            "Baton Pass",
+            "Bite",
+            "Double-Edge",
+            "Play Rough",
+            "Roar",
+            "Work Up"
+        ],
+        "gold": [
+            "Charm",
+            "Crunch",
+            "Last Resort"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Alluring Voice",
+            "Baton Pass",
+            "Body Slam",
+            "Charm",
+            "Crunch",
+            "Dazzling Gleam",
+            "Dig",
+            "Double-Edge",
+            "Endeavor",
+            "Endure",
+            "Facade",
+            "Fire Fang",
+            "Helping Hand",
+            "Ice Fang",
+            "Misty Terrain",
+            "Mud Shot",
+            "Mud-Slap",
+            "Play Rough",
+            "Protect",
+            "Psych Up",
+            "Psychic Fangs",
+            "Rain Dance",
+            "Rest",
+            "Roar",
+            "Sleep Talk",
+            "Snarl",
+            "Stomping Tantrum",
+            "Substitute",
+            "Sunny Day",
+            "Take Down",
+            "Tera Blast",
+            "Thunder Fang",
+            "Trailblaze",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Captivate",
+            "Lucky Chant",
+            "Natural Gift",
+            "Odor Sleuth",
+            "Pursuit",
+            "Aromatherapy",
+            "Magic Coat"
+        ],
+        "tutor": [],
+        "egg": [
+            "Copycat",
+            "Howl",
+            "Sweet Scent",
+            "Wish",
+            "Yawn"
+        ],
+        "level1_g3_7": []
+    }
+}

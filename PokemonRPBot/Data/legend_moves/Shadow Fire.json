@@ -1,0 +1,11 @@
+{
+    "name": "Shadow Fire",
+    "type": "Fire",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Inflicts Wounds. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, this move inflicts burn.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move's effectivity is always at least Super Effective.",
+    "description": "A shadowy fireball attack that may inflict a burn.",
+    "category": "Special"
+}

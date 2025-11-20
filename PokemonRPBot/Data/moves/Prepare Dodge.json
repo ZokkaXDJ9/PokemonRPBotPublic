@@ -1,0 +1,11 @@
+{
+  "name": "Prepare Dodge",
+  "type": "Typeless",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Self",
+  "effect": "This move raises the User's Evasion by 1, if their current Evasion is 0. This move can not be used if the User is Blocked.",
+  "description": "The user focuses on their enemies' movements to prepare to avoid their attacks.",
+  "category": "Support"
+}

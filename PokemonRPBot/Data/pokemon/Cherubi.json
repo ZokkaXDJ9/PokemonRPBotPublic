@@ -1,0 +1,125 @@
+{
+    "number": 420,
+    "name": "Cherubi",
+    "types": [
+        "Grass"
+    ],
+    "abilities": {
+        "normal": [
+            "Chlorophyll"
+        ],
+        "hidden": []
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Growth",
+            "Leafage",
+            "Leech Seed",
+            "Morning Sun",
+            "Tackle"
+        ],
+        "silver": [
+            "Helping Hand",
+            "Magical Leaf",
+            "Sunny Day",
+            "Take Down",
+            "Worry Seed"
+        ],
+        "gold": [
+            "Lucky Chant",
+            "Petal Blizzard",
+            "Solar Beam"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Bullet Seed",
+            "Captivate",
+            "Confide",
+            "Dazzling Gleam",
+            "Double Team",
+            "Draining Kiss",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Flash",
+            "Frustration",
+            "Giga Drain",
+            "Grass Knot",
+            "Grassy Terrain",
+            "Helping Hand",
+            "Hidden Power",
+            "Magical Leaf",
+            "Natural Gift",
+            "Nature Power",
+            "Pollen Puff",
+            "Protect",
+            "Rest",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Secret Power",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Solar Beam",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swords Dance",
+            "Toxic",
+            "Weather Ball",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Splash",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Giga Drain",
+            "Grassy Glide",
+            "Helping Hand",
+            "Morning Sun",
+            "Rollout",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Synthesis",
+            "Tackle",
+            "Worry Seed"
+        ],
+        "egg": [
+            "Aromatherapy",
+            "Defense Curl",
+            "Flower Shield",
+            "Grass Whistle",
+            "Grassy Terrain",
+            "Heal Pulse",
+            "Healing Wish",
+            "Natural Gift",
+            "Nature Power",
+            "Razor Leaf",
+            "Rollout",
+            "Seed Bomb",
+            "Sweet Scent",
+            "Tickle",
+            "Weather Ball"
+        ],
+        "level1_g3_7": [
+            "Tackle",
+            "Morning Sun"
+        ]
+    }
+}

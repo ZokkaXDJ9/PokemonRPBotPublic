@@ -1,0 +1,11 @@
+{
+  "name": "Bleakwind Storm",
+  "type": "Flying",
+  "power": 1,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "Wind Based. Roll 2 Chance Dice to inflict Frostbite. -2 Accuracy. \n At Silver Rank, increase this move's power to 2.\n At Gold Rank, roll 2 Chance Dice to reduce the target's Dexterity by 1.\n At Platinum Rank, increase this move's power to 3.\n At Diamond Rank, double this move's chance dice amounts.",
+  "description": "Summoning cold winds, the user aims to chill their opposition down to the bone. The bite of this wind is harsh.",
+  "category": "Special"
+}

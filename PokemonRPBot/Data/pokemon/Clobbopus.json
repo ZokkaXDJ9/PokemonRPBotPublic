@@ -1,0 +1,120 @@
+{
+    "number": 852,
+    "name": "Clobbopus",
+    "types": [
+        "Fighting"
+    ],
+    "abilities": {
+        "normal": [
+            "Limber"
+        ],
+        "hidden": [
+            "Technician"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Bind",
+            "Feint",
+            "Leer",
+            "Rock Smash"
+        ],
+        "silver": [
+            "Brick Break",
+            "Bulk Up",
+            "Detect",
+            "Submission"
+        ],
+        "gold": [
+            "Reversal",
+            "Superpower",
+            "Taunt"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Body Slam",
+            "Brick Break",
+            "Brine",
+            "Bulk Up",
+            "Close Combat",
+            "Dive",
+            "Endure",
+            "Facade",
+            "Focus Blast",
+            "Ice Punch",
+            "Liquidation",
+            "Mega Punch",
+            "Mud Shot",
+            "Muddy Water",
+            "Payback",
+            "Protect",
+            "Rest",
+            "Retaliate",
+            "Revenge",
+            "Reversal",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Superpower",
+            "Taunt",
+            "Waterfall",
+            "Work Up",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Bide",
+            "Chip Away",
+            "Clamp",
+            "Comet Punch",
+            "Constrict",
+            "Dizzy Punch",
+            "Foresight",
+            "Ice Hammer",
+            "Jump Kick",
+            "Karate Chop",
+            "Meditate",
+            "Pursuit",
+            "Rage",
+            "Rock Climb",
+            "Sky Uppercut",
+            "Smelling Salts",
+            "Wake-Up Slap"
+        ],
+        "tutor": [
+            "Coaching"
+        ],
+        "egg": [
+            "Circle Throw",
+            "Pain Split",
+            "Power-Up Punch",
+            "Seismic Toss",
+            "Soak",
+            "Sucker Punch"
+        ],
+        "level1_g3_7": []
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Illusion",
+  "description": "The Pokemon casts an illusion on itself to look like another creature it has seen. The illusion is indistinguishable from the real one.",
+  "effect": "You start combat disguised as another party member of choice and gain the following effects:\n- You gain 1 point of evasion.\n- If a foe wants to target you/said party member, they have to select randomly on who they target.\nBoth effects are lost when taking damage from an attacking move. This Ability cannot be copied (ignoring the effects of Skill Swap, Trace etc.)"
+}

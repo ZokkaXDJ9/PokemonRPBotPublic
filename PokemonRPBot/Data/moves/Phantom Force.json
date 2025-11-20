@@ -1,0 +1,11 @@
+{
+  "name": "Phantom Force",
+  "type": "Ghost",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Strength",
+  "target": "Foe",
+  "effect": "Charge Move. On the charge turn, Increase the User's Dexterity. While charging this move, the User will be out of range. This move ignores Shield Moves and if the target has an active Shield Move its effects are negated for the rest of the Round.",
+  "description": "The Pokemon disappears into a dark dimension to infiltrate even the most impenetrable defenses. It may reappear during its next action.",
+  "category": "Physical"
+}

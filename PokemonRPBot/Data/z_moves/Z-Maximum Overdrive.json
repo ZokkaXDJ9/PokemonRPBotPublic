@@ -1,0 +1,12 @@
+{
+  "name": "Z-Maximum Overdrive",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User",
+  "effect": "Increase the User's Strength by 2. Omniboost.",
+  "description": "[PLEASE UPDATE, PLACEHOLDER TEXT]",
+  "og_move": "Sword Dance",
+  "category": "Support"
+}

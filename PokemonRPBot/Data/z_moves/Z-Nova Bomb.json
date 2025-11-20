@@ -1,0 +1,12 @@
+{
+  "name": "Z-Nova Bomb",
+  "type": "Ghost",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Reduce foe's Physical and Special Defenses. Inflicts Drowsy Status",
+  "description": "Elliot manifests a ball made of shadow and void matter to shatter the foes defenses and exhaust them.",
+  "og_move": "Shadow Ball",
+  "category": "Special"
+}

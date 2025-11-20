@@ -1,0 +1,11 @@
+{
+  "name": "Wildbolt Storm",
+  "type": "Electric",
+  "power": 1,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "Wind Based. Roll 2 Chance Dice to inflict Paralysis. -2 Accuracy. \n At Silver Rank, increase this move's power to 2.\n At Gold Rank, roll 2 Chance Dice to reduce the target's Dexterity by 1.\n At Platinum Rank, increase this move's power to 3.\n At Diamond Rank, double this move's chance dice amounts.",
+  "description": "The user summons forth a massive thunderstorm, which impacts each enemy with a bolt of lightning.",
+  "category": "Special"
+}

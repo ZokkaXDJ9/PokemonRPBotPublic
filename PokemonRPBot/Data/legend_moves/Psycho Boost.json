@@ -1,0 +1,11 @@
+{
+    "name": "Psycho Boost",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Reduce User's Special by 1, but increase the User's Strength by 1. \n At Silver Rank, increase this move's power to 5.\n At Gold Rank, increase the Special Reduction and Strength Boost to 2.\n At Platinum Rank, increase this move's power to 7.\n At Diamond Rank, increase the Special Reduction and Strength Boost to 3.",
+    "description": "The Pokemon releases an explosion of all of its concentrated psychic power in a devastating explosion, afterwards the user will be extremely tired.",
+    "category": "Special"
+}

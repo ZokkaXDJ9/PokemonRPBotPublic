@@ -1,0 +1,118 @@
+{
+    "number": 798,
+    "name": "Kartana",
+    "types": [
+        "Grass",
+        "Steel"
+    ],
+    "abilities": {
+        "normal": [
+            "Beast Boost"
+        ],
+        "hidden": []
+    },
+    "base_hp": 4,
+    "strength": "5/10",
+    "dexterity": "3/6",
+    "vitality": "4/8",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "False Swipe",
+            "Fury Cutter",
+            "Razor Leaf",
+            "Vacuum Wave"
+        ],
+        "silver": [
+            "Aerial Ace",
+            "Air Cutter",
+            "Cut",
+            "Detect",
+            "Laser Focus",
+            "Night Slash",
+            "Synthesis"
+        ],
+        "gold": [
+            "Air Slash",
+            "Defog",
+            "Guillotine",
+            "Leaf Blade",
+            "Psycho Cut",
+            "Sacred Sword",
+            "Swords Dance",
+            "X-Scissor"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Aerial Ace",
+            "Air Slash",
+            "Brick Break",
+            "Calm Mind",
+            "Confide",
+            "Double Team",
+            "Endure",
+            "False Swipe",
+            "Frustration",
+            "Giga Drain",
+            "Giga Impact",
+            "Hidden Power",
+            "Iron Defense",
+            "Leaf Blade",
+            "Protect",
+            "Psycho Cut",
+            "Rest",
+            "Return",
+            "Round",
+            "Screech",
+            "Sleep Talk",
+            "Smart Strike",
+            "Snore",
+            "Solar Blade",
+            "Substitute",
+            "Swagger",
+            "Swords Dance",
+            "Toxic",
+            "X-Scissor",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Curse",
+            "Facade",
+            "Headbutt",
+            "Helping Hand",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Air Cutter",
+            "Cut",
+            "Defog",
+            "Fury Cutter",
+            "Giga Drain",
+            "Iron Defense",
+            "Knock Off",
+            "Laser Focus",
+            "Last Resort",
+            "Sacred Sword",
+            "Snore",
+            "Synthesis",
+            "Tailwind",
+            "Vacuum Wave"
+        ],
+        "egg": [],
+        "level1_g3_7": [
+            "Air Cutter",
+            "Cut",
+            "Defog",
+            "Fury Cutter",
+            "Sacred Sword",
+            "Vacuum Wave"
+        ]
+    }
+}

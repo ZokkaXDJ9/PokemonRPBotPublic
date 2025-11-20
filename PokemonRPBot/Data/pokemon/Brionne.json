@@ -1,0 +1,135 @@
+{
+    "number": 729,
+    "name": "Brionne",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Torrent"
+        ],
+        "hidden": [
+            "Liquid Voice"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "2/4",
+    "special": "3/6",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Aqua Jet",
+            "Disarming Voice",
+            "Growl",
+            "Pound",
+            "Water Gun"
+        ],
+        "silver": [
+            "Baby-Doll Eyes",
+            "Bubble Beam",
+            "Double Slap",
+            "Encore",
+            "Icy Wind",
+            "Sing"
+        ],
+        "gold": [
+            "Captivate",
+            "Hydro Pump",
+            "Hyper Voice",
+            "Misty Terrain",
+            "Moonblast"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Amnesia",
+            "Attract",
+            "Blizzard",
+            "Body Slam",
+            "Brine",
+            "Charm",
+            "Chilling Water",
+            "Confide",
+            "Disarming Voice",
+            "Dive",
+            "Double Team",
+            "Draining Kiss",
+            "Echoed Voice",
+            "Encore",
+            "Endure",
+            "Facade",
+            "Flip Turn",
+            "Frustration",
+            "Hail",
+            "Helping Hand",
+            "Hidden Power",
+            "Hydro Pump",
+            "Hyper Voice",
+            "Ice Beam",
+            "Ice Spinner",
+            "Icy Wind",
+            "Iron Tail",
+            "Misty Terrain",
+            "Play Rough",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Scald",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Surf",
+            "Swagger",
+            "Swift",
+            "Tera Blast",
+            "Toxic",
+            "Triple Axel",
+            "Uproar",
+            "Water Pledge",
+            "Water Pulse",
+            "Waterfall",
+            "Whirlpool",
+            "Wonder Room",
+            "Work Up",
+            "Agility",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down"
+        ],
+        "tutor": [
+            "Disarming Voice",
+            "Flip Turn",
+            "Growl",
+            "Pound",
+            "Triple Axel",
+            "Water Gun",
+            "Water Pledge"
+        ],
+        "egg": [
+            "Amnesia",
+            "Aqua Ring",
+            "Aromatic Mist",
+            "Charm",
+            "Life Dew",
+            "Perish Song",
+            "Wonder Room"
+        ],
+        "level1_g3_7": [
+            "Disarming Voice",
+            "Growl",
+            "Pound",
+            "Water Gun"
+        ]
+    }
+}

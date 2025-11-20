@@ -1,0 +1,5 @@
+{
+  "name": "Cotton Down",
+  "description": "The cotton fluff on this Pokemon's body is constantly being shed, it can be used to make beautiful clothes but it's also bothersome to walk on.",
+  "effect": "If a foe makes contact with this Pokemon with an attack, Reduce the Dexterity of All Foes."
+}

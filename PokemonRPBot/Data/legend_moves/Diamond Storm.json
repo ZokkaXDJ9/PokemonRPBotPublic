@@ -1,0 +1,11 @@
+{
+    "name": "Diamond Storm",
+    "type": "Rock",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Ranged. Create 3 Floating Rocks. Each time the User or one of it's allies takes damage from a ranged move, reduce the damage of the move by 1 after damage calculations and consume one of the rocks. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, increase the damage reduction the Floating Rocks provide to 2.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move creates 2 additional Floating Rocks.",
+    "description": "The Pokemon summons a storm of diamonds over the field, these diamonds also serve as barriers the user can take cover into.",
+    "category": "Physical"
+}

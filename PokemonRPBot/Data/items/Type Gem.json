@@ -1,0 +1,6 @@
+{
+  "name": "Type Gem",
+  "description": "**Unsocketed** - Consumable that raises damage of a move of that type by a flat 2\n**Socketed in Accessory** -  1/Quest raises damage of a move of that type by a flat 1\n**Socketed in Weapon/Offensive Instrument** - You can (not must) have your weapon attacks count as the type of the socketed gem, for weaknesses and resistances (Not for STAB and Shadow Gems can't be socketed)\n**Socketed in Shield** - 1/quest reduce damage of the type by 1, after damage calculations\n**Socketed in Support Instrument** - 1/quest after targeting an ally that matches the type, it makes that ally deal +1 damage on their next attack",
+  "category": "Consumable",
+  "rarity": "Common"
+}

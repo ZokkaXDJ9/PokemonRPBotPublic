@@ -1,0 +1,11 @@
+{
+  "name": "Moonlight",
+  "type": "Fairy",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "User",
+  "effect": "Heal 5 HP. If successful spend 1 Will point to activate. If performed at Night or Sunny Weather is in effect instead Heal 10 HP. If Rain/Sandstorm Weather is in effect this move only Heals 1 HP.",
+  "description": "The user gathers power from the light of the moon, the energy absorbed can heal most injuries.",
+  "category": "Support"
+}

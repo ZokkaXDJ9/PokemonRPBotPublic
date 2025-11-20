@@ -1,0 +1,117 @@
+{
+    "number": 939,
+    "name": "Bellibolt",
+    "types": [
+        "Electric"
+    ],
+    "abilities": {
+        "normal": [
+            "Electromorphosis",
+            "Static"
+        ],
+        "hidden": [
+            "Damp"
+        ]
+    },
+    "base_hp": 7,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "3/6",
+    "special": "3/6",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Mud-Slap",
+            "Slack Off",
+            "Tackle",
+            "Thunder Shock"
+        ],
+        "silver": [
+            "Charge",
+            "Discharge",
+            "Flail",
+            "Mud Shot",
+            "Spark",
+            "Water Gun"
+        ],
+        "gold": [
+            "Electric Terrain",
+            "Sucker Punch",
+            "Weather Ball",
+            "Zap Cannon"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acid Spray",
+            "Charge",
+            "Charge Beam",
+            "Chilling Water",
+            "Confuse Ray",
+            "Eerie Impulse",
+            "Electric Terrain",
+            "Electro Ball",
+            "Electroweb",
+            "Endure",
+            "Giga Impact",
+            "Hyper Beam",
+            "Hyper Voice",
+            "Light Screen",
+            "Mud Shot",
+            "Mud-Slap",
+            "Muddy Water",
+            "Protect",
+            "Rain Dance",
+            "Reflect",
+            "Rest",
+            "Sleep Talk",
+            "Substitute",
+            "Supercell Slam",
+            "Swift",
+            "Tera Blast",
+            "Thunder",
+            "Thunder Wave",
+            "Thunderbolt",
+            "Toxic",
+            "Volt Switch",
+            "Water Pulse",
+            "Weather Ball",
+            "Wild Charge",
+            "Agility",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Facade",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Bide",
+            "Captivate",
+            "Flash",
+            "Ice Ball",
+            "Ion Deluge",
+            "Sonic Boom",
+            "Steamroller"
+        ],
+        "tutor": [],
+        "egg": [
+            "Muddy Water",
+            "Parabolic Charge",
+            "Soak"
+        ],
+        "level1_g3_7": []
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Supercell Slam",
+    "type": "Electric",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "If the Accuracy Roll is unsuccessful or the target is unaffected, deal 5 Dice of Damage to the User. -1 Accuracy. If the target has used the move Minimize during the scene gain an additional +2 Damage Dice and Never Fail.",
+    "description": "The user unleashes a gigavolt that it aims to slam into its foe. The move archs back to the user if it fails to land however...",
+    "category": "Physical"
+}

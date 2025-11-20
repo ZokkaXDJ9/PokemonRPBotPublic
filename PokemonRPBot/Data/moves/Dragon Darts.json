@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Darts",
+  "type": "Dragon",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. Double Action. The second attack is directed at another affected in range opponent of the User's choice (if applicable, otherwise the initial target is attacked twice as normal). The secondary attack ignores Redirection.",
+  "description": "The Pokemon's head is a nest for its less evolved forms, the younglings will sometimes be used as projectiles.",
+  "category": "Physical"
+}

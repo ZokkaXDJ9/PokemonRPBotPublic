@@ -1,0 +1,6 @@
+{
+  "name": "Never Fail",
+  "flavor": "Hold A to lock onto the enemy!",
+  "text": "- Moves with Never Fail cannot be dodged by their target(s).\n- Never Fail moves ignore the User's negative accuracy Stat Changes and increases to the target's evasion (if applicable).",
+  "example": ""
+}

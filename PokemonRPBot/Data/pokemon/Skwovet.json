@@ -1,0 +1,115 @@
+{
+    "number": 819,
+    "name": "Skwovet",
+    "types": [
+        "Normal"
+    ],
+    "abilities": {
+        "normal": [
+            "Cheek Pouch"
+        ],
+        "hidden": [
+            "Gluttony"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "1/2",
+    "vitality": "2/4",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Bite",
+            "Stuff Cheeks",
+            "Tackle",
+            "Tail Whip"
+        ],
+        "silver": [
+            "Body Slam",
+            "Counter",
+            "Rest",
+            "Spit Up",
+            "Stockpile",
+            "Swallow"
+        ],
+        "gold": [
+            "Belch",
+            "Bullet Seed",
+            "Super Fang"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Amnesia",
+            "Assurance",
+            "Attract",
+            "Body Slam",
+            "Brutal Swing",
+            "Bullet Seed",
+            "Crunch",
+            "Curse",
+            "Dig",
+            "Double-Edge",
+            "Endeavor",
+            "Endure",
+            "Facade",
+            "Fling",
+            "Gyro Ball",
+            "Hyper Voice",
+            "Iron Tail",
+            "Mud Shot",
+            "Mud-Slap",
+            "Payback",
+            "Protect",
+            "Rest",
+            "Round",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Super Fang",
+            "Tail Slap",
+            "Take Down",
+            "Tera Blast",
+            "Thief",
+            "Trailblaze",
+            "Uproar",
+            "Agility",
+            "Confide",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Bide",
+            "Camouflage",
+            "Captivate",
+            "Chip Away",
+            "Foresight",
+            "Hyper Fang",
+            "Me First",
+            "Mud Sport",
+            "Natural Gift",
+            "Odor Sleuth",
+            "Pursuit",
+            "Refresh",
+            "Rock Climb"
+        ],
+        "tutor": [],
+        "egg": [
+            "Belly Drum",
+            "Defense Curl",
+            "Last Resort",
+            "Rollout"
+        ],
+        "level1_g3_7": []
+    }
+}

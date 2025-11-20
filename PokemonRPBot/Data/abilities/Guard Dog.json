@@ -1,0 +1,5 @@
+{
+  "name": "Guard Dog",
+  "description": "Bravery in the face of any would be attackers.",
+  "effect": "This Pokemon is immune to forced initiative controlling moves (ex: Quash, Roar, Dragon Tail etc.). When the User is affected by Intimidate, Increase the User's Strength by 1 instead of reduce."
+}

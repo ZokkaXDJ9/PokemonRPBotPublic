@@ -1,0 +1,114 @@
+{
+    "number": 963,
+    "name": "Finizen",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Water Veil"
+        ],
+        "hidden": [
+            "Water Veil"
+        ]
+    },
+    "base_hp": 5,
+    "strength": "1/3",
+    "dexterity": "2/5",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Astonish",
+            "Focus Energy",
+            "Supersonic",
+            "Water Gun"
+        ],
+        "silver": [
+            "Acrobatics",
+            "Aqua Jet",
+            "Charm",
+            "Dive",
+            "Double Hit"
+        ],
+        "gold": [
+            "Aqua Tail",
+            "Encore",
+            "Hydro Pump",
+            "Mist"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Agility",
+            "Blizzard",
+            "Body Slam",
+            "Charm",
+            "Chilling Water",
+            "Disarming Voice",
+            "Draining Kiss",
+            "Encore",
+            "Endure",
+            "Facade",
+            "Fling",
+            "Haze",
+            "Helping Hand",
+            "Hydro Pump",
+            "Ice Beam",
+            "Icy Wind",
+            "Liquidation",
+            "Protect",
+            "Psych Up",
+            "Rain Dance",
+            "Rest",
+            "Sleep Talk",
+            "Substitute",
+            "Surf",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "Water Pulse",
+            "Waterfall",
+            "Zen Headbutt",
+            "Amnesia",
+            "Attract",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Round",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Bubble",
+            "Camouflage",
+            "Captivate",
+            "Feint Attack",
+            "Pursuit",
+            "Refresh",
+            "Signal Beam",
+            "Smelling Salts",
+            "Trump Card",
+            "Water Sport",
+            "Revenge"
+        ],
+        "tutor": [],
+        "egg": [
+            "Boomburst",
+            "Bounce",
+            "Counter",
+            "Haze",
+            "Tickle"
+        ],
+        "level1_g3_7": []
+    }
+}

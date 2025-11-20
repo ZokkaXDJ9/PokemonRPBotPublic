@@ -1,0 +1,11 @@
+{
+    "name": "Volt Blitz",
+    "type": "Electric",
+    "power": 1,
+    "damage": "special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Ranged. Double Action. \n At Silver Rank, increase this move's power to 2.\n At Gold Rank, this move inflicts Paralysis if both attacks hit.\n At Platinum Rank, increase this move's power to 3.\n At Diamond Rank, this move becomes Triple Action instead.",
+    "description": "Raikou shrouds itself in electricity and rapidly throws bolts of lightning, that may leave the target paralyzed",
+    "category": "Special"
+}

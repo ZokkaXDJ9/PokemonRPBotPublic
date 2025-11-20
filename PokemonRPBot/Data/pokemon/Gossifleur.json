@@ -1,0 +1,104 @@
+{
+    "number": 829,
+    "name": "Gossifleur",
+    "types": [
+        "Grass"
+    ],
+    "abilities": {
+        "normal": [
+            "Cotton Down",
+            "Regenerator"
+        ],
+        "hidden": [
+            "Effect Spore"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/2",
+    "vitality": "2/4",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Leafage",
+            "Rapid Spin",
+            "Sing",
+            "Sweet Scent"
+        ],
+        "silver": [
+            "Aromatherapy",
+            "Hyper Voice",
+            "Leaf Tornado",
+            "Razor Leaf",
+            "Round",
+            "Synthesis"
+        ],
+        "gold": [
+            "Leaf Storm"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Bullet Seed",
+            "Charm",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Giga Drain",
+            "Grass Knot",
+            "Grassy Terrain",
+            "Helping Hand",
+            "Hyper Voice",
+            "Leaf Storm",
+            "Light Screen",
+            "Magical Leaf",
+            "Pollen Puff",
+            "Protect",
+            "Rest",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Solar Beam",
+            "Substitute",
+            "Sunny Day",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast",
+            "Camouflage",
+            "Captivate",
+            "Grass Whistle",
+            "Lucky Chant",
+            "Natural Gift",
+            "Silver Wind",
+            "Camouflage"
+        ],
+        "tutor": [
+            "Grassy Glide"
+        ],
+        "egg": [
+            "Growth",
+            "Leech Seed",
+            "Poison Powder",
+            "Sleep Powder",
+            "Stun Spore",
+            "Worry Seed"
+        ],
+        "level1_g3_7": []
+    }
+}

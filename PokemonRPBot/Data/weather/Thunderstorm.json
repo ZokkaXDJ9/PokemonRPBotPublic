@@ -1,0 +1,5 @@
+{
+    "name": "Thunderstorm",
+    "description": "A thunderstorm with booming thunder and crackling lightning has formed overhead. Watch out, you might end up just getting a shock.",
+    "effect": "- At the end of each Round, everyone rolls 2 Chance Dice and takes 2 Electric Type damage per Success. This damage is not affected by defenses, but is affected by type effectiveness.\n- Electric Type attacks ignore resistances (dealing neutral damage to ineffective targets, Electric Immunities resolve normally)."
+}

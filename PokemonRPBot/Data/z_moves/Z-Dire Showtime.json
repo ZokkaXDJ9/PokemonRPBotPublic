@@ -1,0 +1,12 @@
+{
+  "name": "Z-Dire Showtime",
+  "type": "Poison",
+  "power": 1,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "High Critical. Inflicts Badly Poisoned, Paralysed and Drowsy.",
+  "description": "Flynt launches a very flashy attack with his claws, which aims to debilitate his opposition in as many ways as possible, so they can't do anything but sit there and watch Flynt take the spotlight.",
+  "og_move": "Dire Claw",
+  "category": "Physical"
+}

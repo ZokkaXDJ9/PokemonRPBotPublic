@@ -1,0 +1,11 @@
+{
+    "name": "V-Create",
+    "type": "Fire",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Reduce the user's Dexterity, Defense, and Sp. Defense. The user may use Special in place of Strength on Accuracy and Damage on this move. If they do, this move becomes a Special move that makes contact. \n At Silver Rank, increase this move's power to 7.\n At Gold Rank, this move gains High Critical.\n At Platinum Rank, increase this move's power to 10.\n At Diamond Rank, this move inflicts Burn and Inflicts Wounds.",
+    "description": "The user slams its foe with a V-Shaped flame on its forehead. Upon impact, it detonates a terrible explosion and leaves the user pretty vulnerable afterwards.",
+    "category": "Physical"
+}

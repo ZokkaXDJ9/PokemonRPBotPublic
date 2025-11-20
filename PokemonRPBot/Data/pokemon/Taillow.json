@@ -1,0 +1,140 @@
+{
+    "number": 276,
+    "name": "Taillow",
+    "types": [
+        "Normal",
+        "Flying"
+    ],
+    "abilities": {
+        "normal": [
+            "Guts"
+        ],
+        "hidden": [
+            "Scrappy"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "2/4",
+    "dexterity": "2/5",
+    "vitality": "1/3",
+    "special": "1/2",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Focus Energy",
+            "Growl",
+            "Peck",
+            "Quick Attack"
+        ],
+        "silver": [
+            "Aerial Ace",
+            "Agility",
+            "Air Slash",
+            "Double Team",
+            "Endeavor",
+            "Quick Guard",
+            "Wing Attack"
+        ],
+        "gold": [
+            "Brave Bird",
+            "Reversal"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Aerial Ace",
+            "Agility",
+            "Air Slash",
+            "Attract",
+            "Brave Bird",
+            "Captivate",
+            "Confide",
+            "Defog",
+            "Double Team",
+            "Echoed Voice",
+            "Endeavor",
+            "Endure",
+            "Facade",
+            "Fly",
+            "Focus Energy",
+            "Frustration",
+            "Growl",
+            "Hidden Power",
+            "Natural Gift",
+            "Peck",
+            "Pluck",
+            "Protect",
+            "Quick Attack",
+            "Quick Guard",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Reversal",
+            "Roost",
+            "Round",
+            "Secret Power",
+            "Sleep Talk",
+            "Steel Wing",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Thief",
+            "Toxic",
+            "U-turn",
+            "Wing Attack",
+            "Work Up",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Air Cutter",
+            "Counter",
+            "Defog",
+            "Double-Edge",
+            "Endeavor",
+            "Growl",
+            "Heat Wave",
+            "Mimic",
+            "Mud-Slap",
+            "Ominous Wind",
+            "Peck",
+            "Roost",
+            "Sky Attack",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Swift",
+            "Tailwind",
+            "Twister"
+        ],
+        "egg": [
+            "Boomburst",
+            "Brave Bird",
+            "Defog",
+            "Hurricane",
+            "Mirror Move",
+            "Pursuit",
+            "Rage",
+            "Refresh",
+            "Roost",
+            "Sky Attack",
+            "Steel Wing",
+            "Supersonic",
+            "Whirlwind"
+        ],
+        "level1_g3_7": [
+            "Growl",
+            "Peck"
+        ]
+    }
+}

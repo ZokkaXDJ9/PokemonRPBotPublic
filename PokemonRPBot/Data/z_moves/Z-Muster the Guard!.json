@@ -1,0 +1,12 @@
+{
+  "name": "Z-Muster The Guard!",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Will",
+  "target": "Ally",
+  "effect": "Reaction. Shield Move. Increase User's Special Defense, Defense, and Evasion by 1. Redirect all moves targeting an Ally to the User until the User's next turn, and reduce minimum damage for received attacks to 0 (attacks still benefit from the base damage of type efficiency). Reduce the damage taken by the user equal to their Rank bonus +1 against redirected attacks, minus the number of rounds this move has been used consecutively by the user. +1 Accuracy",
+  "description": "Riles springs into action and prepares to defend the innocent. The energy shield of protect coats Riles and makes him shine as briar sprouts all around his body and weave's into his natural needles.",
+  "og_move": "Protect",
+  "category": "Support"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Z-Toxic Love",
+  "type": "Poison",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Priority 1. Badly Poison the Foe. Inflicts In Love status independently from attraction. Confuse the foe.",
+  "description": "With a highly focused pheromone overdose, Salem can get everyone into the mood... this dosage of pheromones is highly toxic and befuddles the mind, though.",
+  "og_move": "Toxic",
+  "category": "Support"
+}

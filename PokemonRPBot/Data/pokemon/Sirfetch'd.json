@@ -1,0 +1,124 @@
+{
+    "number": 865,
+    "name": "Sirfetch'd",
+    "types": [
+        "Fighting"
+    ],
+    "abilities": {
+        "normal": [
+            "Steadfast"
+        ],
+        "hidden": [
+            "Scrappy"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "4/8",
+    "dexterity": "2/4",
+    "vitality": "3/6",
+    "special": "2/4",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "First Impression",
+            "Fury Cutter",
+            "Iron Defense",
+            "Leer",
+            "Peck",
+            "Sand Attack"
+        ],
+        "silver": [
+            "Brutal Swing",
+            "Detect",
+            "Knock Off",
+            "Rock Smash"
+        ],
+        "gold": [
+            "Brave Bird",
+            "Brick Break",
+            "Defog",
+            "Final Gambit",
+            "Leaf Blade",
+            "Meteor Assault",
+            "Slam",
+            "Swords Dance"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Assurance",
+            "Attract",
+            "Body Slam",
+            "Brave Bird",
+            "Brick Break",
+            "Brutal Swing",
+            "Close Combat",
+            "Endure",
+            "Facade",
+            "Focus Energy",
+            "Helping Hand",
+            "Iron Defense",
+            "Leaf Blade",
+            "Poison Jab",
+            "Protect",
+            "Rest",
+            "Retaliate",
+            "Revenge",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Solar Blade",
+            "Steel Wing",
+            "Substitute",
+            "Sunny Day",
+            "Superpower",
+            "Swords Dance",
+            "Throat Chop",
+            "Work Up",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Hidden Power",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Take Down",
+            "Tera Blast",
+            "Bide",
+            "Chip Away",
+            "Feint Attack",
+            "Foresight",
+            "Meditate",
+            "Mirror Move",
+            "Pursuit",
+            "Rage",
+            "Sky Uppercut",
+            "Trump Card"
+        ],
+        "tutor": [
+            "Coaching",
+            "Dual Wingbeat",
+            "Grassy Glide"
+        ],
+        "egg": [
+            "Counter",
+            "Covet",
+            "Curse",
+            "Double-Edge",
+            "Feint",
+            "Flail",
+            "Night Slash",
+            "Quick Attack",
+            "Quick Guard",
+            "Simple Beam",
+            "Sky Attack"
+        ],
+        "level1_g3_7": []
+    }
+}

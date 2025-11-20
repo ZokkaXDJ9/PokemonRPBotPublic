@@ -1,0 +1,5 @@
+{
+  "name": "Locust Swarm",
+  "description": "A swarm of bugs that get into every nook and cranny of the battlefield. Some even move any stones laid out or spin thicker webs to make them harder to avoid.",
+  "effect": "- Non Bug, Fairy or Steel type pokemon take 1 damage at the end of every round.\n- Bug type pokemon gain +1 Evasion.\n- Berries can't be used."
+}

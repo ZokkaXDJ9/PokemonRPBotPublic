@@ -1,0 +1,6 @@
+{
+  "name": "Recoil",
+  "flavor": "No pain, no gain!",
+  "text": "- Moves labeled with Recoil hurt the user when they deal damage to the enemy\n- Call out the move and roll accuracy as normal; if you miss, nothing happens\n- If you hit and deal damage, roll damage dice equal to half of the total damage dealt (rounded down)\n- Take damage equal to the number of successes rolled, ignoring defenses",
+  "example": ""
+}

@@ -1,0 +1,122 @@
+{
+    "number": 684,
+    "name": "Swirlix",
+    "types": [
+        "Fairy"
+    ],
+    "abilities": {
+        "normal": [
+            "Sweet Veil"
+        ],
+        "hidden": [
+            "Unburden"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "1/3",
+    "dexterity": "2/4",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Aromatherapy",
+            "Fairy Wind",
+            "Fake Tears",
+            "Play Nice",
+            "Sweet Scent",
+            "Tackle"
+        ],
+        "silver": [
+            "Cotton Spore",
+            "Draining Kiss",
+            "Endeavor",
+            "Energy Ball",
+            "Play Rough",
+            "Round",
+            "String Shot",
+            "Wish"
+        ],
+        "gold": [
+            "Cotton Guard",
+            "Light Screen",
+            "Safeguard"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Amnesia",
+            "Attract",
+            "Calm Mind",
+            "Charm",
+            "Confide",
+            "Dazzling Gleam",
+            "Double Team",
+            "Draining Kiss",
+            "Dream Eater",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Fake Tears",
+            "Flamethrower",
+            "Flash",
+            "Frustration",
+            "Helping Hand",
+            "Hidden Power",
+            "Light Screen",
+            "Play Rough",
+            "Protect",
+            "Psych Up",
+            "Psychic",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Sunny Day",
+            "Surf",
+            "Swagger",
+            "Thief",
+            "Thunderbolt",
+            "Toxic",
+            "Agility",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "After You",
+            "Covet",
+            "Endeavor",
+            "Gastro Acid",
+            "Heal Bell",
+            "Helping Hand",
+            "Magic Coat",
+            "Misty Explosion",
+            "Snore",
+            "Sweet Scent",
+            "Tackle"
+        ],
+        "egg": [
+            "After You",
+            "Belly Drum",
+            "Copycat",
+            "Sticky Web",
+            "Yawn"
+        ],
+        "level1_g3_7": [
+            "Sweet Scent",
+            "Tackle"
+        ]
+    }
+}

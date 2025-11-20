@@ -1,0 +1,24 @@
+{
+  "number": 20007,
+  "name": "Trascendent Data",
+  "types": ["Normal", "Psychic"],
+  "abilities": {
+    "normal": ["Quark Drive"],
+    "hidden": ["Infected Data"]
+  },
+  "base_hp": 5,
+  "strength": "2/4",
+  "dexterity": "3/6",
+  "vitality": "3/6",
+  "special": "4/9",
+  "insight": "3/6",
+  "moves": {
+    "bronze": ["Wonder Room", "Swift"],
+    "silver": ["Cosmic Power", "Baton Pass"],
+    "gold": ["Phantom Force", "Amnesia"],
+    "platinum": [],
+    "diamond": [],
+    "tm": ["Ancient Power", "Flamethrower", "Fly", "Hypnosis", "Weather Ball"],
+    "tutor": ["Memento"]
+  }
+}

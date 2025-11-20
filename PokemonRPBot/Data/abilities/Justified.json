@@ -1,0 +1,5 @@
+{
+  "name": "Justified",
+  "description": "This Pokemon has an innate sense of justice, wrongdoings will make them really angry.",
+  "effect": "The first time an ally is hit by a Critical Strike or an ally's HP drops to 0, Increase the User's Strength."
+}

@@ -1,0 +1,6 @@
+{
+    "name": "Lemonade",
+    "description": "Restores 6 HP. Doesn\u2019t work in battle & can\u2019t heal Wounds.",
+    "category": "Healing",
+    "rarity": "Special"
+}

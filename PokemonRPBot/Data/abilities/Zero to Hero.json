@@ -1,0 +1,5 @@
+{
+  "name": "Zero to Hero",
+  "description": "This mon has the potential to become a true HERO! But it also takes a second... Hey! Fashion is important!",
+  "effect": "Can not be activated Round 1. This ability only takes effect if the User is Gold Rank or higher. When the User performs an Alternative Move (including dodges granted by evasion) they put a heroic disguise, replacing their stat block with Palafin 'Hero'. This Pokemon uses its stat distribution for Palafin (Hero) to determine HP, Will, and Active Moves even while in Citizen Form (but still uses the defenses of Citizen Form). At the end of the battle restore Palafin to Citizen Form. This Ability cannot be copied, replaced or suppressed (ignoring the effects of Skill Swap, Worry Seed, Gastro Acid, Trace etc.)"
+}

@@ -1,0 +1,141 @@
+{
+    "number": 762,
+    "name": "Steenee",
+    "types": [
+        "Grass"
+    ],
+    "abilities": {
+        "normal": [
+            "Leaf Guard",
+            "Oblivious"
+        ],
+        "hidden": [
+            "Sweet Veil"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "1/3",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Flail",
+            "Play Nice",
+            "Rapid Spin",
+            "Razor Leaf",
+            "Splash"
+        ],
+        "silver": [
+            "Aromatic Mist",
+            "Magical Leaf",
+            "Stomp",
+            "Sweet Scent",
+            "Teeter Dance"
+        ],
+        "gold": [
+            "Aromatherapy",
+            "Captivate",
+            "Leaf Storm"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Bounce",
+            "Bullet Seed",
+            "Charm",
+            "Confide",
+            "Dazzling Gleam",
+            "Double Team",
+            "Draining Kiss",
+            "Endeavor",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Fling",
+            "Frustration",
+            "Giga Drain",
+            "Grass Knot",
+            "Grassy Glide",
+            "Grassy Terrain",
+            "Helping Hand",
+            "Hidden Power",
+            "Leaf Storm",
+            "Light Screen",
+            "Low Sweep",
+            "Magical Leaf",
+            "Nature Power",
+            "Payback",
+            "Petal Blizzard",
+            "Play Rough",
+            "Protect",
+            "Reflect",
+            "Rest",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Snore",
+            "Solar Beam",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "Toxic",
+            "Trailblaze",
+            "Triple Axel",
+            "Zen Headbutt",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Bounce",
+            "Covet",
+            "Double Slap",
+            "Endeavor",
+            "Giga Drain",
+            "Grassy Glide",
+            "Helping Hand",
+            "Knock Off",
+            "Play Nice",
+            "Rapid Spin",
+            "Razor Leaf",
+            "Seed Bomb",
+            "Snore",
+            "Splash",
+            "Synthesis",
+            "Triple Axel",
+            "Worry Seed",
+            "Zen Headbutt"
+        ],
+        "egg": [
+            "Acupressure",
+            "Charm",
+            "Endeavor",
+            "Feint",
+            "Grass Whistle",
+            "Play Rough",
+            "Synthesis"
+        ],
+        "level1_g3_7": [
+            "Double Slap",
+            "Play Nice",
+            "Rapid Spin",
+            "Razor Leaf",
+            "Splash"
+        ]
+    }
+}

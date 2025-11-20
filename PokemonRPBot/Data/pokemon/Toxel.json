@@ -1,0 +1,84 @@
+{
+    "number": 848,
+    "name": "Toxel",
+    "types": [
+        "Electric",
+        "Poison"
+    ],
+    "abilities": {
+        "normal": [
+            "Rattled",
+            "Static"
+        ],
+        "hidden": [
+            "Klutz"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/2",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Acid",
+            "Belch",
+            "Flail",
+            "Growl",
+            "Nuzzle",
+            "Tearful Look"
+        ],
+        "silver": [],
+        "gold": [],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Attract",
+            "Charm",
+            "Encore",
+            "Endeavor",
+            "Endure",
+            "Facade",
+            "Metal Sound",
+            "Protect",
+            "Rest",
+            "Round",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Tera Blast",
+            "Agility",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Bide",
+            "Captivate",
+            "Chip Away",
+            "Flash",
+            "Ion Deluge",
+            "Me First",
+            "Mud Bomb",
+            "Signal Beam",
+            "Snatch",
+            "Sonic Boom",
+            "Synchronoise"
+        ],
+        "tutor": [],
+        "egg": [],
+        "level1_g3_7": []
+    }
+}

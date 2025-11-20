@@ -1,0 +1,142 @@
+{
+    "number": 347,
+    "name": "Anorith",
+    "types": [
+        "Rock",
+        "Bug"
+    ],
+    "abilities": {
+        "normal": [
+            "Battle Armor"
+        ],
+        "hidden": [
+            "Swift Swim"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "3/6",
+    "dexterity": "2/5",
+    "vitality": "1/3",
+    "special": "1/3",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Fury Cutter",
+            "Harden",
+            "Mud Sport",
+            "Smack Down",
+            "Water Gun"
+        ],
+        "silver": [
+            "Ancient Power",
+            "Brine",
+            "Bug Bite",
+            "Crush Claw",
+            "Metal Claw",
+            "Protect",
+            "Slash"
+        ],
+        "gold": [
+            "Rock Blast",
+            "X-Scissor"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Aerial Ace",
+            "Attract",
+            "Body Slam",
+            "Brick Break",
+            "Brine",
+            "Captivate",
+            "Confide",
+            "Cross Poison",
+            "Cut",
+            "Dig",
+            "Double Team",
+            "Earth Power",
+            "Endure",
+            "Facade",
+            "False Swipe",
+            "Frustration",
+            "Hidden Power",
+            "Hone Claws",
+            "Iron Defense",
+            "Mud Shot",
+            "Natural Gift",
+            "Protect",
+            "Rest",
+            "Return",
+            "Rock Blast",
+            "Rock Polish",
+            "Rock Slide",
+            "Rock Smash",
+            "Rock Tomb",
+            "Round",
+            "Sandstorm",
+            "Screech",
+            "Secret Power",
+            "Sleep Talk",
+            "Smack Down",
+            "Snore",
+            "Stealth Rock",
+            "Struggle Bug",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swords Dance",
+            "Toxic",
+            "Water Pulse",
+            "X-Scissor",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Metronome",
+            "Nasty Plot",
+            "Splash",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Ancient Power",
+            "Body Slam",
+            "Bug Bite",
+            "Double-Edge",
+            "Earth Power",
+            "Fury Cutter",
+            "Harden",
+            "Iron Defense",
+            "Knock Off",
+            "Meteor Beam",
+            "Mimic",
+            "Mud-Slap",
+            "Rock Slide",
+            "Scratch",
+            "Sleep Talk",
+            "Snore",
+            "Stealth Rock",
+            "Substitute",
+            "Swords Dance",
+            "Water Pulse"
+        ],
+        "egg": [
+            "Aqua Jet",
+            "Cross Poison",
+            "Curse",
+            "Iron Defense",
+            "Knock Off",
+            "Rapid Spin",
+            "Rock Slide",
+            "Sand Attack",
+            "Screech",
+            "Swords Dance",
+            "Water Pulse"
+        ],
+        "level1_g3_7": [
+            "Scratch",
+            "Harden"
+        ]
+    }
+}

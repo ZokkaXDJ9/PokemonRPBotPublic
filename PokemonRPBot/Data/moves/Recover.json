@@ -1,0 +1,11 @@
+{
+  "name": "Recover",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "User",
+  "effect": "Heal 5 HP. If successful, spend 1 Will point to activate. May cure Wound Damage.",
+  "description": "The Pokemon concentrates on restoring its own cells faster than anything imaginable.",
+  "category": "Support"
+}

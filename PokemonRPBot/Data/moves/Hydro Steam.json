@@ -1,0 +1,11 @@
+{
+  "name": "Hydro Steam",
+  "type": "Water",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "This move benefits from Sunny Weather as if it were a Fire-Type move (and ignores the damage penalty Water-Type moves normally receive). Inflicts Wounds.",
+  "description": "The user blasts the target with boiling-hot water. An intense sun would only make it hotter. It's sure to leave the target a nice weeping wound.",
+  "category": "Special"
+}

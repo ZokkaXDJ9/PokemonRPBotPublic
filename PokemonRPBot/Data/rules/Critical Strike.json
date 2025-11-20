@@ -1,0 +1,6 @@
+{
+  "name": "Critical Strike",
+  "flavor": "Hit 'em right between the legs!",
+  "text": "- A critical strike occurs when you roll at least three 6s during an accuracy check (you need only 2 for 'High Critical' moves).\n- Add STAB, super effective, and item modifiers; multiply the total by 1.5 and round up; apply resistance and defenses afterward.\n- For non-damaging moves, increase one stat boost or reduction by 1.\n- If a critical strike would miss due to accuracy reduction or evasion, it becomes a regular hit instead.",
+  "example": ""
+}

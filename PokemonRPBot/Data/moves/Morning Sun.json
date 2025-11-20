@@ -1,0 +1,11 @@
+{
+  "name": "Morning Sun",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Vitality",
+  "target": "User",
+  "effect": "Heal 5 HP. If successful spend 1 Will point to activate. If Sunny Weather is in effect instead Heal 10 HP. If Rain/Sandstorm Weather is in effect this move only Heals 1 HP.",
+  "description": "The sun shines brightly on the Pokemon and makes it feel rejuvenated like early in the morning.",
+  "category": "Support"
+}

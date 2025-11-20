@@ -1,0 +1,124 @@
+{
+    "number": 582,
+    "name": "Vanillite",
+    "types": [
+        "Ice"
+    ],
+    "abilities": {
+        "normal": [
+            "Ice Body",
+            "Snow Cloak"
+        ],
+        "hidden": [
+            "Weak Armor"
+        ]
+    },
+    "base_hp": 3,
+    "strength": "1/3",
+    "dexterity": "1/3",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Astonish",
+            "Harden",
+            "Mist",
+            "Taunt",
+            "Uproar"
+        ],
+        "silver": [
+            "Acid Armor",
+            "Avalanche",
+            "Hail",
+            "Icicle Spear",
+            "Icy Wind",
+            "Mirror Shot"
+        ],
+        "gold": [
+            "Blizzard",
+            "Ice Beam",
+            "Mirror Coat",
+            "Sheer Cold"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Ally Switch",
+            "Attract",
+            "Avalanche",
+            "Blizzard",
+            "Confide",
+            "Double Team",
+            "Endure",
+            "Explosion",
+            "Facade",
+            "Flash Cannon",
+            "Frost Breath",
+            "Frustration",
+            "Hail",
+            "Hidden Power",
+            "Hyper Voice",
+            "Ice Beam",
+            "Icicle Spear",
+            "Icy Wind",
+            "Imprison",
+            "Iron Defense",
+            "Light Screen",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Self-Destruct",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Swagger",
+            "Taunt",
+            "Toxic",
+            "Uproar",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Ally Switch",
+            "Icicle Spear",
+            "Icy Wind",
+            "Iron Defense",
+            "Magic Coat",
+            "Magnet Rise",
+            "Signal Beam",
+            "Sleep Talk",
+            "Snore",
+            "Uproar",
+            "Water Pulse"
+        ],
+        "egg": [
+            "Aurora Veil",
+            "Autotomize",
+            "Explosion",
+            "Ice Shard",
+            "Icicle Crash",
+            "Imprison",
+            "Iron Defense",
+            "Magnet Rise",
+            "Natural Gift",
+            "Powder Snow",
+            "Water Pulse"
+        ],
+        "level1_g3_7": [
+            "Icicle Spear"
+        ]
+    }
+}

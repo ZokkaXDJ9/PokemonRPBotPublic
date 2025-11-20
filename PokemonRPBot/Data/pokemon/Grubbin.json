@@ -1,0 +1,114 @@
+{
+    "number": 736,
+    "name": "Grubbin",
+    "types": [
+        "Bug"
+    ],
+    "abilities": {
+        "normal": [
+            "Swarm"
+        ],
+        "hidden": []
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "1/3",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Bite",
+            "Bug Bite",
+            "Mud-Slap",
+            "String Shot",
+            "Vise Grip"
+        ],
+        "silver": [
+            "Acrobatics",
+            "Crunch",
+            "Dig",
+            "Spark",
+            "Sticky Web",
+            "X-Scissor"
+        ],
+        "gold": [],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Attract",
+            "Baton Pass",
+            "Bug Bite",
+            "Charge",
+            "Charge Beam",
+            "Confide",
+            "Crunch",
+            "Dig",
+            "Double Team",
+            "Electric Terrain",
+            "Electroweb",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Hidden Power",
+            "Light Screen",
+            "Lunge",
+            "Mud Shot",
+            "Mud-Slap",
+            "Poison Jab",
+            "Pounce",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Screech",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Snore",
+            "Struggle Bug",
+            "Substitute",
+            "Swagger",
+            "Take Down",
+            "Tera Blast",
+            "Thunder Wave",
+            "Thunderbolt",
+            "Toxic",
+            "Volt Switch",
+            "Wild Charge",
+            "X-Scissor",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Bug Bite",
+            "Electroweb",
+            "Magnet Rise",
+            "Rising Voltage",
+            "Shock Wave",
+            "Skitter Smack",
+            "Snore",
+            "Vice Grip"
+        ],
+        "egg": [
+            "Discharge",
+            "Electroweb",
+            "Endure",
+            "Harden",
+            "Mud Shot"
+        ],
+        "level1_g3_7": [
+            "Vice Grip"
+        ]
+    }
+}

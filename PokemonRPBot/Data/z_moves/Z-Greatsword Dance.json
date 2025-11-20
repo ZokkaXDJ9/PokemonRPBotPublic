@@ -1,0 +1,12 @@
+{
+  "name": "Z-Greatsword Dance",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User",
+  "effect": "Remove all negative non-status effects from the user, then increase the User's Strength by 3. Grant the user high critical on all moves.",
+  "description": "The Pokemon makes a dance that greatly raises its battle spirit. Allowing him to bounce back from a tough spot.",
+  "og_move": "Swords Dance",
+  "category": "Support"
+}

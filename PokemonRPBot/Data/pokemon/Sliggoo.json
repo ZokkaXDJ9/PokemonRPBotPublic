@@ -1,0 +1,121 @@
+{
+    "number": 705,
+    "name": "Sliggoo",
+    "types": [
+        "Dragon"
+    ],
+    "abilities": {
+        "normal": [
+            "Sap Sipper",
+            "Hydration"
+        ],
+        "hidden": [
+            "Gooey"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/5",
+    "dexterity": "2/4",
+    "vitality": "2/4",
+    "special": "2/5",
+    "insight": "3/7",
+    "moves": {
+        "bronze": [
+            "Absorb",
+            "Acid Armor",
+            "Acid Spray",
+            "Dragon Breath",
+            "Protect",
+            "Tackle",
+            "Water Gun"
+        ],
+        "silver": [
+            "Bide",
+            "Body Slam",
+            "Flail",
+            "Rain Dance",
+            "Water Pulse"
+        ],
+        "gold": [
+            "Curse",
+            "Dragon Pulse",
+            "Muddy Water"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acid Spray",
+            "Attract",
+            "Blizzard",
+            "Body Slam",
+            "Charm",
+            "Chilling Water",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Draco Meteor",
+            "Dragon Pulse",
+            "Endure",
+            "Facade",
+            "Frustration",
+            "Hidden Power",
+            "Ice Beam",
+            "Infestation",
+            "Iron Tail",
+            "Mud Shot",
+            "Muddy Water",
+            "Outrage",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Rock Slide",
+            "Round",
+            "Skitter Smack",
+            "Sleep Talk",
+            "Sludge Bomb",
+            "Sludge Wave",
+            "Snore",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Take Down",
+            "Tera Blast",
+            "Thunder",
+            "Thunderbolt",
+            "Toxic",
+            "Water Pulse",
+            "Agility",
+            "Amnesia",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance"
+        ],
+        "tutor": [
+            "Absorb",
+            "Bubble",
+            "Draco Meteor",
+            "Skitter Smack",
+            "Tackle"
+        ],
+        "egg": [
+            "Acid Armor",
+            "Counter",
+            "Curse",
+            "Endure",
+            "Iron Tail",
+            "Life Dew",
+            "Poison Tail"
+        ],
+        "level1_g3_7": [
+            "Bubble",
+            "Tackle",
+            "Absorb"
+        ]
+    }
+}

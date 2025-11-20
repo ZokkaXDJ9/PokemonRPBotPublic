@@ -1,0 +1,11 @@
+{
+  "name": "Extreme Speed",
+  "type": "Normal",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Priority 2.",
+  "description": "The user charges at a blinding speed against the target.",
+  "category": "Physical"
+}

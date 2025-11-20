@@ -1,0 +1,12 @@
+{
+  "name": "Z-Life is a Gamble",
+  "type": "Normal",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Ranged. High Critical. Inflict Flinched. Grants 10 × Rank :pokecoin: to all Partymembers. This effect can only be triggered when the user is under stress. Multiply the amount of money gained by a random number from 0.5 to 3 - Roll one die and half the result to determine the multiplier.",
+  "description": "Haru taps into the realms of probability to create a barrage of coins and throw them at the foe's head, before, by pure chance, all of them bounce right back to his party's hands/paws. This will leave the foe a bit dizzy.",
+  "og_move": "Pay Day",
+  "category": "Physical"
+}

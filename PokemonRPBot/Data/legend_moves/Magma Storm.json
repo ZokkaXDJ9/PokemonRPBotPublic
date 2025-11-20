@@ -1,0 +1,11 @@
+{
+    "name": "Magma Storm",
+    "type": "Fire",
+    "power": 1,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Blocks. Deal 1 damage at the end of each Round. Lasts 4 Rounds. -1 Accuracy. \n At Silver Rank, increase this move's base power to 2.\n At Gold Rank, the end of round damage increases by 1, but so does the accuracy penalty.\n At Platinum Rank, increase this move's base power to 3.\n At Diamond Rank, the end of round damage increases by 1 once more, but so does the accuracy penalty.",
+    "description": "The Pokemon shoots a fiery eruption to its foe. Unable to escape and surrounded by the unbearable heat the foe's survival is at risk.",
+    "category": "Special"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Unnatural Darkness",
+  "description": "A creeping darkness has covered the battlefield. During the daytime it almost seems as if night had fallen, the sun resembling more a full moon than a star.",
+  "effect": "- Dark type moves deal +1 damage.\n- Pokemon that aren't Dark, Electric or Fire type don't add their rank to accuracy."
+}

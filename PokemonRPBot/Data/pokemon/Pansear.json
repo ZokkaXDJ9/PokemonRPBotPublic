@@ -1,0 +1,139 @@
+{
+    "number": 513,
+    "name": "Pansear",
+    "types": [
+        "Fire"
+    ],
+    "abilities": {
+        "normal": [
+            "Gluttony"
+        ],
+        "hidden": [
+            "Blaze"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "2/4",
+    "vitality": "1/3",
+    "special": "2/4",
+    "insight": "1/3",
+    "moves": {
+        "bronze": [
+            "Incinerate",
+            "Leer",
+            "Lick"
+        ],
+        "silver": [
+            "Acrobatics",
+            "Amnesia",
+            "Bite",
+            "Flame Burst",
+            "Fling",
+            "Fury Swipes",
+            "Yawn"
+        ],
+        "gold": [
+            "Crunch",
+            "Fire Blast",
+            "Natural Gift",
+            "Recycle"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Acrobatics",
+            "Attract",
+            "Confide",
+            "Cut",
+            "Dig",
+            "Double Team",
+            "Facade",
+            "Fire Blast",
+            "Flame Charge",
+            "Flamethrower",
+            "Fling",
+            "Frustration",
+            "Grass Knot",
+            "Hidden Power",
+            "Hone Claws",
+            "Incinerate",
+            "Low Sweep",
+            "Overheat",
+            "Payback",
+            "Protect",
+            "Rest",
+            "Return",
+            "Rock Smash",
+            "Rock Tomb",
+            "Round",
+            "Shadow Claw",
+            "Sleep Talk",
+            "Solar Beam",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Taunt",
+            "Thief",
+            "Torment",
+            "Toxic",
+            "Will-O-Wisp",
+            "Work Up",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Endure",
+            "Headbutt",
+            "Helping Hand",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Covet",
+            "Endeavor",
+            "Fire Pledge",
+            "Fire Punch",
+            "Focus Punch",
+            "Gastro Acid",
+            "Gunk Shot",
+            "Heat Wave",
+            "Helping Hand",
+            "Iron Tail",
+            "Knock Off",
+            "Low Kick",
+            "Play Nice",
+            "Recycle",
+            "Role Play",
+            "Scratch",
+            "Sleep Talk",
+            "Snore",
+            "Uproar"
+        ],
+        "egg": [
+            "Astonish",
+            "Belch",
+            "Covet",
+            "Disarming Voice",
+            "Fire Punch",
+            "Fire Spin",
+            "Flare Blitz",
+            "Heat Wave",
+            "Low Kick",
+            "Nasty Plot",
+            "Role Play",
+            "Sleep Talk",
+            "Tickle"
+        ],
+        "level1_g3_7": [
+            "Scratch",
+            "Play Nice"
+        ]
+    }
+}

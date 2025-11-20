@@ -1,0 +1,132 @@
+{
+    "number": 496,
+    "name": "Servine",
+    "types": [
+        "Grass"
+    ],
+    "abilities": {
+        "normal": [
+            "Overgrow"
+        ],
+        "hidden": [
+            "Contrary"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "2/4",
+    "dexterity": "2/5",
+    "vitality": "2/5",
+    "special": "2/4",
+    "insight": "2/5",
+    "moves": {
+        "bronze": [
+            "Leer",
+            "Tackle",
+            "Vine Whip",
+            "Wrap"
+        ],
+        "silver": [
+            "Growth",
+            "Leaf Blade",
+            "Leaf Tornado",
+            "Leech Seed",
+            "Magical Leaf",
+            "Mega Drain",
+            "Slam"
+        ],
+        "gold": [
+            "Coil",
+            "Gastro Acid",
+            "Giga Drain",
+            "Leaf Storm",
+            "Wring Out"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Aerial Ace",
+            "Attract",
+            "Bullet Seed",
+            "Calm Mind",
+            "Confide",
+            "Cut",
+            "Double Team",
+            "Double-Edge",
+            "Endure",
+            "Energy Ball",
+            "Facade",
+            "Flash",
+            "Frustration",
+            "Giga Drain",
+            "Grass Knot",
+            "Grass Pledge",
+            "Grassy Glide",
+            "Grassy Terrain",
+            "Helping Hand",
+            "Hidden Power",
+            "Knock Off",
+            "Leaf Storm",
+            "Light Screen",
+            "Magical Leaf",
+            "Nature Power",
+            "Petal Blizzard",
+            "Protect",
+            "Reflect",
+            "Rest",
+            "Return",
+            "Round",
+            "Safeguard",
+            "Seed Bomb",
+            "Sleep Talk",
+            "Solar Beam",
+            "Substitute",
+            "Sunny Day",
+            "Swagger",
+            "Swift",
+            "Swords Dance",
+            "Take Down",
+            "Taunt",
+            "Tera Blast",
+            "Torment",
+            "Toxic",
+            "Trailblaze",
+            "Work Up",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Snore",
+            "Splash"
+        ],
+        "tutor": [
+            "Grass Pledge",
+            "Leer",
+            "Tackle",
+            "Vine Whip",
+            "Wrap"
+        ],
+        "egg": [
+            "Captivate",
+            "Glare",
+            "Grassy Terrain",
+            "Iron Tail",
+            "Magical Leaf",
+            "Mean Look",
+            "Mirror Coat",
+            "Natural Gift",
+            "Pursuit",
+            "Sweet Scent",
+            "Twister"
+        ],
+        "level1_g3_7": [
+            "Leer",
+            "Tackle",
+            "Vine Whip",
+            "Wrap"
+        ]
+    }
+}

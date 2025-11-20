@@ -1,0 +1,246 @@
+Name;Base HP;Strength;Dexterity;Vitality;Special;Insight
+Baby Victini;3;3;4;3;4;4
+Mid Victini;4;4;5;4;5;5
+Victini;6;6;6;6;6;6
+Baby Cobalion;3;4;4;4;3;3
+Mid Cobalion;4;5;5;5;4;4
+Cobalion;6;6;6;7;5;5
+Baby Terrakion;3;4;4;4;3;3
+Mid Terrakion;4;5;5;5;4;4
+Terrakion;6;7;6;6;5;5
+Baby Virizion;3;4;4;3;3;4
+Mid Virizion;4;5;5;4;4;5
+Virizion;6;6;6;5;5;7
+Baby Tornadus;3;4;4;3;4;3
+Mid Tornadus;4;5;5;4;5;4
+Tornadus Incarnate Form;5;7;7;4;7;5
+Tornadus Therian Form;5;6;7;5;7;5
+Baby Thundurus;3;4;4;3;4;3
+Mid Thundurus;4;5;5;4;5;4
+Thundurus Incarnate Form;5;7;7;4;7;5
+Thundurus Therian Form;5;6;6;5;8;5
+Baby Reshiram;3;4;3;3;4;4
+Mid Reshiram;4;5;4;4;5;5
+Reshiram;6;7;5;6;9;7
+Baby Zekrom;3;4;3;4;4;3
+Mid Zekrom;4;5;4;5;5;4
+Zekrom;6;9;5;7;7;6
+Baby Landorus;3;4;4;3;4;3
+Mid Landorus;4;5;5;4;5;4
+Landorus (Incarnate Form);5;7;6;6;7;5
+Landorus Therian Form;5;8;6;6;6;5
+Baby Kyurem;4;4;3;3;4;3
+Mid Kyurem;5;5;4;4;5;4
+Kyurem;7;8;6;5;8;5
+Baby Keldeo;3;3;4;3;4;4
+Mid Keldeo;4;4;5;4;5;5
+Keldeo;5;5;6;6;7;6
+Baby Meloetta;4;3;3;3;4;4
+Mid Meloetta;5;4;4;4;5;5
+Meloetta (Aria Form);6;5;6;5;7;7
+Meloetta (Pirouette Form);6;7;7;6;5;5
+Baby Genesect;3;4;4;3;4;3
+Mid Genesect;4;5;5;4;5;4
+Genesect;4;7;6;6;7;6
+Baby Xerneas;4;4;3;3;4;3
+Mid Xerneas;5;5;4;4;5;4
+Xerneas;6;7;5;5;7;6
+Baby Yveltal;4;4;3;3;4;3
+Mid Yveltal;5;5;4;4;5;4
+Yveltal;6;7;5;5;7;6
+Cell Zygarde;3;3;4;4;3;4
+Zygarde 50% Form;6;6;6;7;5;6
+Zygarde 10% Form;4;6;7;4;4;5
+Baby DIancie;3;3;3;4;4;4
+Mid Diancie;4;4;4;5;5;5
+Diancie;4;6;4;8;6;8
+Baby Hoopa;3;4;3;3;4;4
+Mid Hoopa;4;5;4;4;5;5
+Hoopa Confined;5;6;5;4;8;8
+Baby Volcanion;3;4;3;4;4;3
+Mid Volcanion;4;5;4;5;5;4
+Volcanion;5;6;5;7;7;6
+Baby Tapu Koko;3;4;4;3;4;3
+Mid Tapu Koko;4;5;5;4;5;4
+Tapu Tapu Koko;5;7;7;5;6;5
+Baby Tapu Lele;3;3;4;3;4;4
+Mid Tapu Lele;4;4;5;4;5;5
+Tapu Tapu Lele;5;5;6;5;7;7
+Baby Tapu Bulu;3;4;3;4;3;4
+Mid Tapu Bulu;4;5;4;5;4;5
+Tapu Tapu Bulu;5;7;5;7;5;6
+Baby Tapu Fini;3;3;3;4;4;4
+Mid Tapu Fini;4;4;4;5;5;5
+Tapu Tapu Fini;5;5;5;7;6;7
+Cosmog;3;2;3;3;2;3
+Cosmoem;3;2;3;8;2;8
+Solgaleo;8;8;6;6;7;5
+Lunala;8;7;6;5;8;6
+Baby Nihilego;4;3;4;2;4;4
+Mid Nihilego;5;4;5;3;5;5
+Nihilego;7;4;6;3;7;8
+Baby Buzzwole;4;4;4;5;2;2
+Mid Buzzwole;5;5;5;6;3;3
+Buzzwole;6;8;5;8;4;4
+Baby Pheromosa;4;4;5;2;4;2
+Mid Pheromosa;4;6;7;2;6;2
+Pheromosa;4;8;9;3;8;3
+Baby Xurkitree;3;4;4;3;4;3
+Mid Xurkitree;4;5;5;4;5;4
+Xurkitree;5;5;5;5;10;5
+Baby Celesteela;3;3;3;4;4;4
+Mid Celesteela;4;4;4;5;5;5
+Celesteela;6;6;4;6;7;6
+Kartana;2;5;4;5;3;2
+Mid Kartana;3;8;5;6;3;2
+Kartana;4;10;6;8;4;3
+Baby Guzzlord;7;4;2;2;4;2
+Mid Guzzlord;9;5;2;3;5;3
+Guzzlord;12;6;3;4;6;4
+Baby Necrozma;3;4;3;4;4;3
+Mid Necrozma;4;5;4;5;5;4
+Necrozma;6;6;5;6;7;6
+Baby Magearna;3;3;2;4;5;4
+Mid Magearna;4;4;3;5;6;5
+Magearna;5;6;4;7;7;7
+Baby Marshadow;3;4;4;3;3;4
+Mid Marshadow;4;5;5;4;4;5
+Marshadow;6;7;7;5;5;6
+Baby Stakataka;3;5;1;6;3;3
+Mid Stakataka;4;6;1;8;4;4
+Stakataka;5;8;2;10;4;6
+Baby Blacephalon;2;4;4;2;6;3
+Mid Blacephalon;3;5;5;3;7;4
+Blacephalon;4;7;6;4;9;5
+Baby Zeraora;3;4;4;3;4;3
+Mid Zeraora;4;5;5;4;5;4
+Zeraora;5;7;8;5;6;5
+Meltan;3;4;3;4;4;3
+Melmetal;8;8;3;8;5;4
+Baby Zacian;3;4;4;3;3;4
+Mid Zacian;4;5;5;5;4;4
+Zacian;5;6;7;6;5;7
+Baby Zamazenta;3;4;4;4;3;3
+Mid Zamazenta;4;5;5;5;4;4
+Zamazenta;5;6;7;7;5;6
+Baby Eternatus;4;3;4;3;4;3
+Mid Eternatus;5;4;5;4;5;4
+Eternatus;6;4;7;6;7;6
+Baby Zarude;3;4;4;4;3;3
+Mid Zarude;4;5;5;5;4;4
+Zarude;6;7;6;6;5;6
+Baby Regieleki;3;4;6;2;4;2
+Mid Regieleki;4;5;7;3;5;3
+Regieleki;5;6;10;4;6;4
+Baby Regidrago;6;4;3;2;4;2
+Mid Regidrago;7;5;4;3;5;3
+Regidrago;11;6;5;4;6;3
+Baby Glastrier;3;4;2;6;2;4
+Mid Glastrier;4;6;2;7;3;5
+Glastrier;6;8;2;8;4;7
+Baby Spectrier;4;3;4;3;4;3
+Mid Spectrier;5;4;5;4;5;4
+Spectrier;6;4;8;4;8;5
+Baby Calyrex;4;3;3;3;4;4
+Mid Calyrex;5;4;4;4;5;5
+Calyrex;6;5;5;5;5;5
+Baby Enamorus;3;4;4;3;4;3
+Mid Enamorus;4;5;5;4;5;4
+Enamorus Incarnate Form;5;7;6;4;8;5
+Enamorus Therian Form;5;7;3;6;8;6
+Baby Great Tusk;4;5;3;5;2;2
+Mid Great Tusk;5;6;4;6;3;3
+Great Tusk;7;8;5;7;4;4
+Baby Scream Tail;5;2;5;3;2;4
+Mid Scream Tail;6;3;6;4;3;5
+Scream Tail;7;4;7;6;4;7
+Baby Brute Bonnet;4;4;2;4;3;4
+Mid Brute Bonnet;5;5;3;5;4;5
+Brute Bonnet;7;7;4;6;5;6
+Baby Flutter Mane;2;2;5;2;5;5
+Mid Flutter Mane;3;3;6;3;6;6
+Flutter Mane;4;4;7;4;8;8
+Baby Slither Wing;3;4;3;3;4;4
+Mid Slither Wing;4;5;4;4;5;5
+Slither Wing;5;8;5;5;5;7
+Baby Sandy Shocks;3;3;4;4;4;3
+Mid Sandy Shocks;4;4;5;5;5;4
+Sandy Shocks;5;5;6;6;7;6
+Baby Iron Treads;3;4;4;4;3;3
+Mid Iron Treads;4;5;5;5;4;4
+Iron Treads;5;7;6;7;5;5
+Baby Iron Bundle;2;3;5;4;5;2
+Mid Iron Bundle;3;4;6;5;6;3
+Iron Bundle;4;5;8;7;7;4
+Baby Iron Hands;6;5;2;4;2;2
+Mid Iron Hands;7;6;3;5;3;3
+Iron Hands;9;8;4;6;4;4
+Baby Iron Jugulis;4;3;4;3;4;3
+Mid Iron Jugulis;5;4;5;4;5;4
+Iron Jugulis;6;5;6;5;7;5
+Baby Iron Moth;3;3;4;2;5;4
+Mid Iron Moth;4;4;5;3;6;5
+Iron Moth;5;4;7;4;8;7
+Baby Iron Thorns;4;4;3;4;3;3
+Mid Iron Thorns;5;5;4;5;4;4
+Iron Thorns;6;8;5;7;4;5
+Baby Wo-Chien;3;3;3;4;4;4
+Mid Wo-Chien;4;4;4;5;5;5
+Wo-Chien;5;5;5;6;6;8
+Baby Chien-Pao;3;4;5;3;4;2
+Mid Chien-Pao;4;5;6;4;5;3
+Chien-Pao;5;7;8;5;6;4
+Baby Ting-Lu;6;4;1;5;2;3
+Mid Ting-Lu;7;5;2;6;3;4
+Ting-Lu;9;7;3;7;4;5
+Baby Chi-Yu;2;3;4;3;5;4
+Mid Chi-Yu;3;4;5;4;6;5
+Chi-Yu;4;5;6;5;8;7
+Baby Roaring Moon;3;5;4;3;2;4
+Mid Roaring Moon;4;6;5;4;3;5
+Roaring Moon;6;8;7;5;4;6
+Baby Iron Valiant;3;5;4;3;4;2
+Mid Iron Valiant;4;6;5;4;5;3
+Iron Valiant;5;8;7;5;7;4
+Baby Koraidon;3;4;4;4;3;3
+Mid Koraidon;4;5;5;5;4;4
+Koraidon;5;7;7;6;5;6
+Baby Miraidon;3;3;4;3;4;4
+Mid Miraidon;4;4;5;4;5;5
+Miraidon;5;5;7;6;7;6
+Baby Walking Wake;3;3;4;4;4;3
+Mid Walking Wake;4;4;5;5;5;4
+Walking Wake;6;5;7;6;7;5
+Baby Iron Leaves;3;4;4;3;3;4
+Mid Iron Leaves;4;5;5;4;4;5
+Iron Leaves;6;8;6;5;5;6
+Baby Okidogi;3;5;3;5;2;3
+Mid Okidogi;4;6;4;6;3;4
+Okidogi;5;8;5;7;4;5
+Baby Munkidori;3;3;4;2;5;4
+Mid Munkidori;4;4;5;3;6;5
+Munkidori;5;5;6;4;8;6
+Baby Fezandipiti;3;4;4;3;3;4
+Mid Fezandipiti;4;5;5;4;4;5
+Fezandipiti;5;6;6;5;5;7
+Baby Ogerpon;3;5;5;3;2;3
+Mid Ogerpon;4;6;6;4;3;4
+Ogerpon;5;7;7;5;4;6
+Baby Gouging Fire;3;5;3;4;2;4
+Mid Gouging Fire;4;6;4;5;3;5
+Gouging Fire;6;7;6;7;4;6
+Baby Raging Bolt;4;3;3;4;4;3
+Mid Raging Bolt;5;4;4;5;5;4
+Raging Bolt;7;5;5;6;8;5
+Baby Iron Boulder;3;4;5;3;2;4
+Mid Iron Boulder;4;5;6;4;3;5
+Iron Boulder;6;7;7;5;5;6
+Baby Iron Crown;3;3;3;4;4;4
+Mid Iron Crown;4;4;4;5;5;5
+Iron Crown;6;5;6;6;7;6
+Baby Terapagos;4;3;3;4;3;4
+Terapagos Normal Form;6;4;4;5;4;5
+Terapagos Terastal Form;6;6;5;7;6;6
+Baby Pecharunt;4;3;4;4;3;3
+Mid Pecharunt;5;4;5;5;4;4
+Pecharunt;6;5;6;9;5;5

@@ -1,0 +1,11 @@
+{
+    "name": "Malignant Chain",
+    "type": "Poison",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Poison the Foe. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, if the Foe is Poisoned, Badly Poison the Foe.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, if the Foe is Badly Poisoned, increment the Damage of Badly Poisoned by 3.",
+    "description": "The user strikes at a foe with a series of chains coated in toxic oils.",
+    "category": "Special"
+}

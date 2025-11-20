@@ -1,0 +1,11 @@
+{
+  "name": "Flash",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Reduce the target's Accuracy. If performed under Unnatural Darkness Weather Reduce the target's Accuracy by 2 instead.",
+  "description": "The user suddenly emits a blinding light around its body, dazing its opponent in the process.",
+  "category": "Support"
+}

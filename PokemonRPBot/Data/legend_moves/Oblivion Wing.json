@@ -1,0 +1,11 @@
+{
+    "name": "Oblivion Wing",
+    "type": "Flying",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "The user restore HP equal to half the damage dealt, rounded down. \n At Silver Rank, increase this move's power to 4.\n At Gold Rank, change this move's accuracy to Special.\n At Platinum Rank, increase this move's power to 6.\n At Diamond Rank, this move instead restores HP equal to the damage dealt.",
+    "description": "A dark wind rises, turning everything it touches into dust to be scattered until nothing remains. People, Pokemon, plants, everything fades until a distant memory.",
+    "category": "Special"
+}

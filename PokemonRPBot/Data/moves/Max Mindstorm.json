@@ -1,0 +1,11 @@
+{
+  "name": "Max Mindstorm",
+  "type": "Psychic",
+  "damage": "Strength / Special + Original",
+  "power": 2,
+  "accuracy": "Original Move",
+  "target": "Foe",
+  "effect": "This move replaces all psychic type moves when Dynamaxed. Deals the base move's damage + 2 to a single enemy and summons Psychic Terrain for 5 turns.",
+  "description": "A super-sized attack that has the Dynamaxed Pokemon injecting themselves into the foes psyche to damage their mind.",
+  "category": "Physical/Special"
+}

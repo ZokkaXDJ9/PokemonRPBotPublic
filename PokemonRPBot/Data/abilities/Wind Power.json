@@ -1,0 +1,5 @@
+{
+  "name": "Wind Power",
+  "description": "Yeah so that thing about windmills? Basically that but like... Not at all.",
+  "effect": "After the User is hit with a Wind Based move or when Tailwind takes effect (on either side of the battlefield), this pokemon is affected as if by the move Charge."
+}

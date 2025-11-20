@@ -1,0 +1,6 @@
+{
+    "name": "Weakness Policy",
+    "description": "When hit by a move the Pokemon is weak to, increase Strength and Special by 2.",
+    "category": "Held Item",
+    "rarity": "Uncommon"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Seed Bomb",
+    "type": "Grass",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Ballistic Based. Ranged.",
+    "description": "The user throws a big seed that explodes on contact with the foe.",
+    "category": "Physical"
+}

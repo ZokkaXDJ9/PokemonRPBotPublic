@@ -1,0 +1,11 @@
+{
+    "name": "Attract",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Beauty",
+    "target": "Foe",
+    "effect": "If succesful, the target is now In Love",
+    "description": "The user makes use of its good looks and attitude to fluster the foe.",
+    "category": "Support"
+  }

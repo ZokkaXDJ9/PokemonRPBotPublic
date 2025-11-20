@@ -1,0 +1,11 @@
+{
+  "name": "Double Team",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User",
+  "effect": "Increase the User's Evasion and Dexterity.",
+  "description": "The user moves rapidly around the foe, creating illusory copies of itself.",
+  "category": "Support"
+}

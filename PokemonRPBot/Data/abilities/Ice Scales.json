@@ -1,0 +1,5 @@
+{
+  "name": "Ice Scales",
+  "description": "This Pokemon's body is covered by crystal scales made of ice. Always cold to the touch, it easily deflects most projectiles, energy and light on its surface.",
+  "effect": "The User receives 2 less damage from Special Attacks. This reduction does not impact minimum damage."
+}

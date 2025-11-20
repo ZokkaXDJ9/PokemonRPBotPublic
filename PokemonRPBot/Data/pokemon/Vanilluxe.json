@@ -1,0 +1,142 @@
+{
+    "number": 584,
+    "name": "Vanilluxe",
+    "types": [
+        "Ice"
+    ],
+    "abilities": {
+        "normal": [
+            "Ice Body",
+            "Snow Warning"
+        ],
+        "hidden": [
+            "Weak Armor"
+        ]
+    },
+    "base_hp": 5,
+    "strength": "3/6",
+    "dexterity": "2/5",
+    "vitality": "2/5",
+    "special": "3/6",
+    "insight": "3/6",
+    "moves": {
+        "bronze": [
+            "Astonish",
+            "Freeze-Dry",
+            "Harden",
+            "Icicle Crash",
+            "Mist",
+            "Taunt",
+            "Uproar",
+            "Weather Ball"
+        ],
+        "silver": [
+            "Acid Armor",
+            "Avalanche",
+            "Hail",
+            "Icicle Spear",
+            "Icy Wind",
+            "Mirror Shot"
+        ],
+        "gold": [
+            "Blizzard",
+            "Ice Beam",
+            "Mirror Coat",
+            "Sheer Cold"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Ally Switch",
+            "Attract",
+            "Avalanche",
+            "Beat Up",
+            "Blizzard",
+            "Confide",
+            "Double Team",
+            "Endure",
+            "Explosion",
+            "Facade",
+            "Flash Cannon",
+            "Frost Breath",
+            "Frustration",
+            "Giga Impact",
+            "Hail",
+            "Hidden Power",
+            "Hyper Beam",
+            "Hyper Voice",
+            "Ice Beam",
+            "Icicle Spear",
+            "Icy Wind",
+            "Imprison",
+            "Iron Defense",
+            "Light Screen",
+            "Protect",
+            "Rain Dance",
+            "Rest",
+            "Return",
+            "Round",
+            "Self-Destruct",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Swagger",
+            "Taunt",
+            "Toxic",
+            "Uproar",
+            "Weather Ball",
+            "Agility",
+            "Amnesia",
+            "Curse",
+            "Headbutt",
+            "Helping Hand",
+            "Metronome",
+            "Nasty Plot",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Take Down",
+            "Tera Blast"
+        ],
+        "tutor": [
+            "Ally Switch",
+            "Astonish",
+            "Freeze-Dry",
+            "Harden",
+            "Icicle Spear",
+            "Icy Wind",
+            "Iron Defense",
+            "Magic Coat",
+            "Magnet Rise",
+            "Sheer Cold",
+            "Signal Beam",
+            "Sleep Talk",
+            "Snore",
+            "Uproar",
+            "Water Pulse",
+            "Weather Ball"
+        ],
+        "egg": [
+            "Aurora Veil",
+            "Autotomize",
+            "Explosion",
+            "Ice Shard",
+            "Icicle Crash",
+            "Imprison",
+            "Iron Defense",
+            "Magnet Rise",
+            "Natural Gift",
+            "Powder Snow",
+            "Water Pulse"
+        ],
+        "level1_g3_7": [
+            "Astonish",
+            "Harden",
+            "Icicle Spear",
+            "Uproar",
+            "Weather Ball",
+            "Freeze-Dry",
+            "Sheer Cold"
+        ]
+    }
+}

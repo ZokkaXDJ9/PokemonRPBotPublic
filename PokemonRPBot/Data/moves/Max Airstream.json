@@ -1,0 +1,11 @@
+{
+  "name": "Max Airstream",
+  "type": "Flying",
+  "damage": "Strength / Special + Original",
+  "power": 2,
+  "accuracy": "Original Move",
+  "target": "Foe",
+  "effect": "This move replaces all flying type moves when Dynamaxed. Deals the base move's damage + 2 to a single enemy and increase user and all allies Dexterity by 1.",
+  "description": "A super-sized attack that has the Dynamaxed Pokemon strike the foe with a tornado of wind.",
+  "category": "Physical/Special"
+}

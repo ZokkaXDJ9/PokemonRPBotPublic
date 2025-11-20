@@ -1,0 +1,123 @@
+{
+    "number": 847,
+    "name": "Barraskewda",
+    "types": [
+        "Water"
+    ],
+    "abilities": {
+        "normal": [
+            "Swift Swim"
+        ],
+        "hidden": [
+            "Propeller Tail"
+        ]
+    },
+    "base_hp": 4,
+    "strength": "3/7",
+    "dexterity": "4/8",
+    "vitality": "2/4",
+    "special": "2/4",
+    "insight": "2/4",
+    "moves": {
+        "bronze": [
+            "Aqua Jet",
+            "Bite",
+            "Fury Attack",
+            "Peck",
+            "Throat Chop"
+        ],
+        "silver": [
+            "Agility",
+            "Dive",
+            "Focus Energy",
+            "Laser Focus"
+        ],
+        "gold": [
+            "Crunch",
+            "Double-Edge",
+            "Liquidation"
+        ],
+        "platinum": [],
+        "diamond": [],
+        "tm": [
+            "Agility",
+            "Assurance",
+            "Attract",
+            "Blizzard",
+            "Bounce",
+            "Brick Break",
+            "Chilling Water",
+            "Close Combat",
+            "Crunch",
+            "Dive",
+            "Double-Edge",
+            "Drill Run",
+            "Endure",
+            "Facade",
+            "Flip Turn",
+            "Focus Energy",
+            "Giga Impact",
+            "Hydro Pump",
+            "Hyper Beam",
+            "Ice Beam",
+            "Ice Fang",
+            "Liquidation",
+            "Poison Jab",
+            "Protect",
+            "Psychic Fangs",
+            "Rain Dance",
+            "Rest",
+            "Round",
+            "Scald",
+            "Scale Shot",
+            "Scary Face",
+            "Sleep Talk",
+            "Snore",
+            "Substitute",
+            "Surf",
+            "Swift",
+            "Take Down",
+            "Tera Blast",
+            "Throat Chop",
+            "Water Pulse",
+            "Waterfall",
+            "Whirlpool",
+            "Amnesia",
+            "Confide",
+            "Curse",
+            "Double Team",
+            "Frustration",
+            "Headbutt",
+            "Helping Hand",
+            "Hidden Power",
+            "Iron Defense",
+            "Metronome",
+            "Nasty Plot",
+            "Return",
+            "Secret Power",
+            "Splash",
+            "Swords Dance",
+            "Bubble",
+            "Feint Attack",
+            "Mud Sport",
+            "Odor Sleuth",
+            "Pursuit",
+            "Rage",
+            "Refresh",
+            "Sharpen",
+            "Spike Cannon",
+            "Water Sport"
+        ],
+        "tutor": [
+            "Flip Turn",
+            "Scale Shot"
+        ],
+        "egg": [
+            "Acupressure",
+            "Night Slash",
+            "Slash",
+            "Thrash"
+        ],
+        "level1_g3_7": []
+    }
+}
